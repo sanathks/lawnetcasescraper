@@ -1,0 +1,137 @@
+﻿
+384
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+RODRIGO
+v.
+THE COMMISSIONER-GENERAL OF INLAND REVENUE
+SUPREME COURTSARATH N. SILVA, CJ.,
+BANDARANAYAKE, J. ANDISMAIL, J.
+SC APPEAL NO. 3/2000CA NO. 1/96JANUARY 08, 2002MARCH 07 AND 22, 2002APRIL 04, 2002
+Income tax – Partner of a firm providing auditing services and tax advice to localand foreign clients – Remuneration earned in such service in foreign exchangeand local currency – Exemption of foreign currency from tax – Section 15 (ccc)of the Inland Revenue Act – Outgoings and expenses incurred in producing theforeign income – Section 23 (1) of the Act – Whether the Assessor in entitledto disallow the expenses relating to foreign exchange earnings calculated on apro rata basis between fees received in foreign and local currency.
+Held:
+(1) The appellant’s firm has only one indivisible business, the common exerciseof it being providing services to local and foreign clients with professionalskills of the partners and the staff.
+• (2) Where an assessee carries on an indivisible business and a part of itsprofits is not liable to tax, the entire expense for the purpose of the businessshould be allowed although a part of the expenses may have been incurredfor earning the non-taxable profits.
+(3) The assessor was not entitled to make deduction from the expenses onoutgoings made on a pro rata basis computed on the ratio of earningsin local currency as to earnings in foreign currency.
+sc
+Rodrigo v. The Commissioner-General of Inland Revenue
+(Shirani A. Bandaranayake, J.)
+385
+Cases referred to :
+Sub Nigel V. CIR – (1948) 4 SA 580, 15 SATC 381.
+Hayley and Company Ltd v. Commissioner of Inland Revenue – (1961) 65NLR 174.
+Port Elizabeth Electric Tramways Company Ltd v. CIR – (1936) CPD 241,8 S.A.T.C. 13.
+APPEAL from the judgment of the Court of Appeal.
+Shibly Aziz, PC with Mano Devasagayam and Nadana Civa for appellant.
+L. M. K. Arulananthan, Deputy Solicitor-General with Suren de Silva, State Counselfor respondent.
+Cur. adv. vult.
+August 02, 2002
+SHIRANI A. BANDARANAYAKE, J.
+This is an appeal from the judgment of the Court of Appeal dated 122. 10. 1999.
+The assessee-appellant-petitioner-appellant (hereinafter referred to asthe appellant) was, at the time material to this case, a partner of thefirm of Coopers and Lybrand Associates, now known as PriceWaterhouse Coopers, which is based in Sri Lanka. In the assessmentyear 1991-92, the firm, where appellant was a partner, in the courseof the professional practice carried on or exercised by it, renderedservices in Sri Lanka for clients overseas who remitted fees in foreigncurrency to Sri Lanka totalling a Rupee equivalent of Rupees 15,196,674. 1°Along with the local currency earned by the firm, which amountedto Rupees 12,151,367, it had gross receipts amounting to Rupees27,348,041. In the returns furnished by the partnership it claimed asum of Rupees 21,798,656 as total expenditure which sum included
+386
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+the sum of Rupees 5 million paid to other accountancy bodies whowere sub contractors supplying services in the business, which earnedforeign currency for the partnership.
+The partnership in its said returns claimed a divisible loss of Rupees
+This was based on the difference between the locallyearned income, which is liable to income tax and the total expenditure 20incurred in earning the gross receipts. Out of this sum of Rupees
+a sum of Rupees 2,797,500 was allocated as the appellant’sshare of loss.
+The Assessor in a communication to the appellant under section115 (3) of the Inland Revenue Act, No. 28 of 1979 (hereinafter referredto as the Act) rejected the return made by the appellant claiming aloss of Rupees 2,797,500 and computed the divisible profit of thepartnership at Rupees 2,436,878 of which the appellant’s share ofthe profit was Rupees 731,063. The Assessor did not question theexclusion of the emoluments received in foreign exchange from the 30computation of the partnership’s profit and loss, but sought to disallowthe expenses relating to the foreign exchange earnings calculated ona pro rata basis between fees received in foreign and local currency.
+The appellant appealed against the said assessment to therespondent-respondent (hereinafter referred to as the respondent) andthe respondent without hearing the appeal referred the matter to theBoard of Review. The Board of Review held against the appellantand confirmed the assessment made on the appellant by its order- dated 14. 12. 1994 (P1). The appellant being aggrieved by the saidorder, made an application to the said Board under section 122 (1) 40of the Act requesting thp Board to state a case on a question of lawfor the opinion of the Court of Appeal. Two questions of law that werein the following terms came up before the Court of Appeal: 1
+(1) Is the sum of fees amounting to Rupees 15,196,674 earnedin the year of assessment 1991/92 by the partnership known
+sc
+Rodrigo v. The Commissioner-General of Inland Revenue
+(Shirani A Bandaranayake, J.)
+387
+as Coopers and Lybrand Associates, in foreign currency throughthe rendering of services in Sri Lanka to clients overseas andremitted to Sri Lanka, exempt from income tax under section15 (ccc) of the Inland Revenue Act, No. 28 of 1979?
+(2) If the answer to the said question is in the affirmative, was the soassessor justified in his opinion that in computing the divisibleprofits from the business carried on by the partnership, nodeduction could be allowed for the expenses incurred on theearning of the fees exempt from income tax under section15 (ccc) of the Inland Revenue Act, No. 28 of 1979?
+The Court of Appeal by its order dated 22. 10. 1999 answeredboth questions in the affirmative and dismissed the appellant’s appeal.
+The appellant appealed to this Court and the Court by its orderdated 07. 02. 2002 granted special leave to appeal.
+The Act prescribes a step by step process wherein exemptions eoand deductions are permitted when computing the taxable income.
+To arrive at the taxable income consideration should be given onlyto the permissible deductions provided by the Act and the Court cannottake into consideration any other means of computing the deductibleamounts. As pointed out by Centlivers, GJ., in Sub Nigel Ltd. v. CIRm :
+“The Court is not concerned with deductions which may beconsidered proper from an accountant’s point of view or from thepoint of view of a prudent trader, but merely with the deductionswhich are permissible according to the language of the Act.”
+It is common ground that the partnership to which the appellant ?obelonged to earned money in local as well as in foreign currency.Section 15 (ccc) of the Act, provides that emoluments and fees earnedin any year of assessment in foreign currency by a partnership inSri Lanka shall be exempt from income tax. The respondent accepted
+388
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+the exemption of appellant’s earnings in foreign currency. However,based on the above exemption, the respondent contented that onlya proportionate amount of outgoings should be deducted in terms ofsection 23 (1) of the Act. The appellant took up the position that thesaid outgoings referred to by the respondent relate to one source ofincome in terms of section 3 (a) of the Act and according to the 80provisions of section 23 (1), the entirety of that amount should bededucted.
+The partnership to which the appellant belonged to carried on orexercised a professional practice in Sri Lanka dealing with local aswell as foreign clients. From its inception, the appellant’s firm carriedon or exercised the said professional practice as a single indivisiblebusiness organization under the control of the partners. A core staffof specialists supported the firm in rendering the relevant professionalservice. The partners as well as the staff and the physical assetsof the organization were not divided to serve local clients and foreign mclients separately. Accordingly, the firm has only one indivisiblebusiness, the common exercise of it being providing services to localand foreign clients using the professional skills of the partners andthe staff.
+Section 3 of the Act refers to the income chargeable with tax andsubsection (a) refers to the profits from a profession. Section 3 (a)of the Act reads as follows:
+“For the purposes of this Act, “profits and income” or “profits”
+or “income” means –
+the profits from any trade, business, profession or vocation 100for however short a period carried on or exercised;”
+In terms of section 3 (a), the appellant had earned profits in localand foreign currency by carrying out professional services. Althoughearnings have been made in local as well as in foreign currency, the
+sc
+Rodrigo v. The Commissioner-General of Inland Revenue
+(Shirani A. Bandaranayake, J.)
+389
+appellant was involved only in one professional activity, viz as auditorsrenderding services of auditing and providing management and taxadvice. This does not amount to duality of professional activities, butonly sub sources within one main line of professional activity. Hence,there is only one source of income in terms of section 3 (a) of theAct.11(
+Section 15 (ccc) of the Act refers to the exemption from incometax, emoluments and fees earned in any year of assessment in foreigncurrency by any resident individual or a partnership in Sri Lanka. Theappellant’s firm being a partnership, which earned certain fees inforeign currency, would thus become entitled for this exemption.
+Chapter IV of the Act spells out the provisions pertaining to theascertainment of profits and income. Section 23 of the Act refers tothe deductions allowed in ascertaining profits and income whereassection 24 deals with deductions which are not allowed in ascertainingprofits and income.120
+Section 23 (1) of the Act is in the following terms:
+“. . . there shall be deducted for the purpose of ascertainingthe profits or income of any person from any source, all outgoingsand expenses incurred by such person in the production thereof,including . . .”
+Section 23 (1) refers to 3 important elements in connection withthe “ascertainment of the profits or income of any person”,
+the sources of profits or income of any person;
+all outgoings and expenses incurred;
+that such outgoings and expenses should be incurred in the 130production of such income.
+390
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+It is obvious that section 23 focuses on all aspects of expensesas it refers not only to “expenses”, but also to the “outgoings”. Theword “outgoings” gives a wider meaning than the word “expense”.“Outgoings” incurred by a person carrying out a profession, couldinclude a wide variety of items, which would not come within themeaning of “expenses”. Basnayake, CJ. in Hayley and Company Ltd.v. Commissioner of Inland Revenue!21 considered the two phrasesreferred to above which formed section 9 (1) of the former IncomeTax Ordinance. Section 9 (1) is similar to section 23 (1) of our current140Act. He observed that:
+‘The word “outgoings” means what goes out and is a wordof wide import. It is the opposite of the equally wide expression“income”, which means what comes in. In the context the word“expenses” is limited by the words “incurred by such person in theproduction thereof while the word “outgoings” is not so limited.
+The two words are designed to express two different concepts,one of wider import than the other. All outgoings are not expensesincurred in the production of the profit or income; but all expensesincurred in the production of the profits or income are outgoings. . .” iso
+On the other hand, in addition to the outgoings a taxpayer wouldalso rely on the expenses that incurred in the production of the incometo be claimed as deductions. The meaning of the phrase “incurredin the production of the income” was considered in the South Africancase of Port Elizabeth Electric Tramways Company Ltd. v. CIR3)where, Watermeyer, AJP was of the view that –
+“… the purpose of the Act entailing expenditure must be lookedto. If it is performed for the purpose of earning income, then theexpenditure attendant upon it is deductible . . .
+The other question is, what attendant expenses can be 160deducted? How closely must they be linked to the businessoperation? Here in my opinion, all expenses attached to the
+sc
+Rodrigo v. The Commissioner-General of Inland Revenue
+(Shirani A. Bandaranayake, J.)
+391
+performance of a business operation bona fide performed forthe purpose of earning income are deductible whether suchexpenses are necessary for its performance or attached to itby chance or are bona fide incurred for the more efficientperformance of such operation, provided they are so closelyconnected with it that they may be regarded as part of the costof performing it.”
+Section 119 (a) of the South African Income Tax Act is similar tzoto section 23 (1) of our Act and reads as follows:
+“Expenditure . . . incurred in the production of the income.”
+The next as well as the more important question that arises forconsideration is that, if there is only one source of income out of oneindivisible professional activity, whether it is possible for the respondentto cut up the expenses incurred by the appellant’s firm in carryingout the said profession.
+The respondent&apos;s argument is that, the appellant should show theexpenses that were incurred in earning the taxable income and onlythose expenses could be allowed as a deduction in terms of section iso23 (1). In support of this argument respondent relies on section 24(1) (g) of the Act. This section states that disbursements or expenses,not expended for the purpose of producing the profits and incomewill not be allowed as deductions.
+Sections 23 (1) and 24 of the Act have to be read together asboth provisions apply to the deductibility from the income. Whilesection 23 spells out the permissible expenses, section 24 expresslydisallows the whole or part of certain expenses, which if not soprohibited, would be allowable deductions. The combined effect ofsections 23 and 24 therefore is to divide all outgoings and expenses isointo two categories; outgoing expenses which are deductible and notdeductible.
+392
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+In considering the applicability of sections 23 and 24, the respondenttook up the position that section 24 (1) (g) could be applied to disallowamounts expended for the purpose of producing profits and incomefrom the exempt receipts of a source. Section 24 (1) (g) is in thefollowing terms:
+“For the purpose of ascertaining the profits or income of anyperson from any source no deduction shall be allowed in respectof any disbursements or expenses of such person not being money 200expended for the purpose of producing such profits and income.”
+Section 24 (1) (g) read with section 23 (1) of the Act, show that –
+any disbursement or expenses which was not spent for thepurpose of production of profits and income cannot bededucted;
+all outgoings and expenses incurred by a person in theproduction of income from any source could be included asdeductions.
+Taking both these sections together in their literal context, it appearsthat the meaning of words in section 23 (1) is restricted by the words 210given in section 24 (1) (g) of the Act. Section 24 (1) (g), which spellsout the negative or what should not be deducted, uses the words“disbursement or expenses” whereas section 23 (1), which is thepositive or the permissible section refers to the words “all outgoingsand expenses incurred”. The Dictionary meaning of the word“disbursement” explains it as “expenditure” (The Oxford EnglishDictionary, 2nd edition, volume 4, p. 726) which has a limited meaningthan the word “outgoing”. If I may repeat Chief Justice Basnayake’sreasoning in the Hayley’s case (supra) :
+Page
+INSURANCE – Contract of insurance – Damages – Breach of thepolicy of insurance – Is the owner entitled to claimdamages as consequential loss arising from the breachof contract? – Does the law of insurance permit recoveryof consequential loss? – Does the doctrine of remote-ness prevent a claim for damages from consequentialloss?
+Insurance Corporation of Sri Lanka v. Senevlratne396
+REGISTRATION OF DOCUMENTS – Registration of DocumentsOrdinance, sections 22 and 32 (4) – Caveat – Reg-istration of a deed whilst caveat in operation – Actionto be filed within 30 days of receipt of notice – JudicatureAct, section 39 – Can a question of law be consideredand decided by court any time before judgment evenin the absence of an issue?
+Mercantile Credit Ltd. v. Sumanapala and Another417
+sc
+Rodrigo v. The Commissioner-General of Inland Revenue
+(Shirani A. Bandaranayake, J.)
+393
+“All outgoings are not expenses incurred in the production of 220the profits or income; but all expenses incurred in the productionof the profits or income are outgoings . .
+Considering this question in a more realistic way, it would not befeasible to distinguish the expenses incurred in the process of carryingout professional services from the perspective of whether the earningsare in local or foreign currency. The usage of office space, equipment,personnel and the payments of bills would have been on a commonbasis for both local and foreign clients. In such a situation it wouldnot be possible to indicate the actual costs that were incurred inearning income in local and foreign currency.230
+The important question that comes up at this juncture is whetherit is feasible to cut up the expenses incurred in the production ofincome. Although section 24 refers to the deductions it does notenvisage a situation where there would be a need to divide theexpenses incurred in the production of the income. Admittedly, thereare no similarities between the Indian Tax Act and our Act. However,that does not bar us from considering an established principle, whichhas been accepted by the Indian Courts. Thus, Kanga and Palkhivalain Law and Practice of Income Tax (volume 1, 8th edition, 1990,p. 482) refers to the above situation in the following terms;240
+“Where an assessee carries on an indivisible business and apart of its profits is not liable to tax, the entire expenditure incurredfor the purpose of the business should be allowed, although a partof the expense may have been incurred for earning the non-taxableprofits.”
+In the light of the above, I am of the view that, positioned in asituation as appellant is, where there are two limbs within one sourceof income, the respondents are not empowered to “cut up” the expenseson a pro rata basis, to make the appellant liable for the expensesincurred for earning the non-taxable profits. Accordingly, when the 250
+394
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+respondent quite rightly exempted the appellant’s income earned inforeign currency in terms of section 15 (ccc) of the Act, the respondenthad no authority to cut up the expenses incurred in carrying on thebusiness of a partnership during the relevant year and disallow suchpart on a pro rata basis as it should be attributed to the earning ofthe exempted fees.
+However, it would be necessary to give a meaning to the wordsin section 24 (1) (g) of the Act. If any part of the expenses couldbe clearly identified as having being expended for the purpose ofderiving money not being profits or income liable to tax, such amount 260could not be deducted in terms of section 24 (1) (g). Specific expensesrelating to the earning of exempt income are given as an examplefor such a situation. In fact, the appellant agreed that the followingamounts, being direct expenses relating to the earning of exemptincome, would have to be disallowed.
+In the circumstances, while the Court of Appeal was quite rightly 270of the view that the fees earned in foreign currency are entitled tobe exempted without any deductions for the expenses attributable tothe earning thereof, the Court of Appeal was not justified in itsconclusion that such expenses could be disallowed in computing thedivisible profits of the partnership. Thus, the answer to the 2ndquestion, which was before the Court of Appeal, should have beenin the negative.
+In summing-up it would be useful to reiterate the following:
+sc
+Rodrigo v. The Commissioner-General of Inland Revenue
+(Shirani A. Bandaranayake, J.)
+395
+The appellant&apos;s firm has only one indivisible business. There wasonly one source of income with a sub source, where the earnings 280were in foreign currency. It is apparent that the business or professioncarried out by the appellant’s firm was a single activity and the servicesrendered and the facilities used for such services could not be dividedinto two separate categories. The earnings in foreign currency wereexempted from income tax in terms of section 15 (ccc) of the Act.
+The other earnings were taxable. With regard to the ascertainmentof profits and income from any source, deductions are allowed in termsof section 23 (1) of the Act in respect of outgoings and expensesthat are incurred. However, in terms of section 24 (1) (g) of the Act,money, which was not expended for the purpose of producing the 290income not liable to tax cannot be deducted.
+Therefore, the two questions framed by the Board of Review, whichare mentioned earlier, are answered as follows:
+The first question relates to the deductions in respect of the foreigncurrency earned in terms of section 15 (ccc) of the Act which hasbeen answered correctly by the Court of Appeal. The second questionrelates to the deductions from the expenses on outgoings made ona pro rata basis computed on the ratio of the earnings in local currencyas to the earnings in foreign currency. The Court of Appeal had erredin answering this in the affirmative. Sections 23 (1) and 24 (1) (g) 300do not permit such deductions for outgoings to be made on a prorata basis.
+For the aforementioned reasons, the appeal is allowed and thejudgment of the Court of Appeal dated 22. 10. 1999 is set aside withcosts.
+SARATH N. SILVA, CJ. – I agree.
+ISMAIL, J. – I agree.
+Appeal allowed.

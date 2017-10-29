@@ -1,0 +1,47 @@
+﻿
+( 489 )
+Present: Lascelles C.J.
+LUSHINGTON v. CAROLIS et al.
+290—C. R. Matara, 6,240.
+Security bond hypothecating land executed without notarial attestation—Obligor personally liable though hypothecation ■was invalid—Ordinance No. 7 of 1840, s. 2.
+• Where a promise is entire, and is partly within and partly notwithin section 2 of Ordinance No. 7 of 1840, the whole contract isunenforceable unless the requirements of the section are compliedwith ; but if the promise is divisible, so that in effect there are twodistinct agreements, one of which is, and the other is not, withinthe section, the portion of the promise which is not within thesection may be enforced, though not notarially attested.
+Where a security bond hypothecating immovable property wasexecuted without notarial attestation,—
+Held, the informality did not relieve the obligor of his personaloblK&apos;i.tion under the bond.
+rj7HE facts appear from the judgment.
+Walter Pereira, K.C., S.-G., for the appellant.—The security bondis not absolutely void. The bond is good as a money bond, thoughthe hypothecation is not valid. The contract is a severable one ;it consists of a promise to pay money, and also a mortgage of lands.The fact that the bond is not notarially attested does not render thewhole bond invalid. See Halsbury&apos;s Laws of England, vol. VII.,p. 682 ; Sidambaram Chetty v. Jayawardana.1
+Bawa, for the respondents.—The contract is not a severablecontract; therefore if part of the contract is invalid, the otherpart also is invalid.
+Counsel cited Mecheden v. Wallace ;* Vaughan v. Hancock ;3Thomas v. Williams ;4 Carrington v. Roots ;5 Law Times, July 2,1910 (vol. XCIX., pp. 209, 223). •
+Cur. adv. vult.
+September 7,1911. Lascelles C.J.—
+This is an action by a Fiscal to recover damages from a Fiscal’sOfficer and his surety under a security bond, and for a declarationthat certain land purported to be hypothecated by the bond shouldbe declared executable in satisfaction of the judgment.
+&apos;(1905) 4 Tam. 83.3 (1846) 3 C. B. 766.
+‘(1837) 7 A. <fc E. 49.4 (1830) 10 B. <& C. 664.
+*(1837) 2M.&W. 248.
+r2
+, 1911
+Sept. 7, 1911
+LA8CJSX4.ES
+C.J.
+Luehingtonv. Carolie
+( 490 )
+At the trial a number of issues were framed, the first of whichraised the question whether the bond, not having been executed inconformity with section 2 of Ordinance No. 7 of 1840, as is nowadmitted to be the case, was void. The learned Commissioner ofRequests held that the requirements of the section had not beencomplied with, and dismissed the action.
+On appeal it is admitted that the bond, so far as it purports tohypothecate the first defendant’s land, is void, but it is contendedthat the portions of the bond which impose a personal obligation onthe defendants are valid and enforceable.
+The law on the point with reference to the English Statute ofFrauds is thus stated at page 383 of Lord Halsbury’s Laws of England792 : “ Where a promise is entire, and is partly within and partlynot within the statute, the whole contract is unenforceable unlessthe requirements of the statute are complied with ; but if thepromise is divisible, so that in effect there are two distinct agree-ments, one of which is, and the other is not, within the statute, theportion of the promise which is not within the statute may beenforced, though there is no evidence in writing.”
+In illustration of this principle Mayfield v. Dudsley1 may be cited.There the plaintiff, who was the outgoing tenant of a farm, and theincoming tenant agreed orally that the latter should take over somestanding wheat at a fixed price and the dead stock at a valuation.It was held that, as the contract for the dead stock was distinct fromcontract for the sale of the wheat on the giving up of the farm, theplaintiff might recover that amount.
+Similarly, a promise to pay for gas that has been furnished to athird person and for all gas to be furnished in future has been heldto be severable,, and an action may be maintained on the promisenot obnoxious to the statute (Wood v. Benson2).
+It is true that this principle has been established with reference tosection 4 of the English Statute of Frauds, which differs in formfrom section 2 of our Ordinance No. 7 of 1840, but the latter sectionappears to me to admit, if not to require, the application of the sameprinciple.
+The contracts which are declared to be of no force or avail in law,if informally made, are precisely defined ; and there is nothing inthe section which would render any other contract obnoxious tothe section merely because it is embodied in an instrument whichcontains another separate contract which is void under the section.
+The instrument on which the action is brought is not a master-piece of the conveyancer’s art. It consists principally of a printedform, which is in the form usual to bonds guaranteeing the fidelityof clerks or public servants. The obligor and his surety bind them-selves jointly and severally to pay to the “ Fiscal of the SouthernProvince” (these words having been substituted in ink for the» 3 B. & C. 357.1 2 C.dkJ. 9o.
+( 491 )
+printed words “ Our Sovereign Lord the King ”), “ his heirs andsuccessors (sic), the sum of Rs. 500,” and purports to be sealed withtheir seals, though the instrument is not in fact sealed. Thenfollows a recital of the appointment of the obligor as Fiscal’s officer,and of the agreement that he should give security, and thenthe conditions of the bond are stated, and at the foot of them thesignatures of the obligator and his surety are affixed.
+So far there is nothing in the bond which indicates the hypothe-cation of any property. The instrument up to this point is complete,and capable of enforcement personally against the two signatories.But at the foot of the instrument there are written the words “ Listof property hypothecated by the principal” ; and a descriptionof an allotment of land is appended, at the end of which appearsthe signature of the principal without a notarial attestation.
+There can be no doubt whatever but that the personal obligation ofthe principal and his surety is not only separable, but is in factseparated from the portion of the bond which purports to hypothe-cate property. The instrument is in truth an ordinary money bond,to which certain words have been tacked on with the object ofhypothecating certain property.
+Sof- – as the hypothecation of property is concerned, the instru-ment, not having been executed in conformity with section 2 ofOrdinance No. 7 of 1840, is of no force or avail in law, but on theauthorities which I have cited, this informality as regards executiondoes not extend to invalidate the personal obligation of the obligorand his surety, which is a separate contract. As I have here dealtonly with the ground on which the learned Commissioner hasdismissed the action, the first issue, “ is the bond sued on void inlaw,” must be answered with some qualification, so as not to deprivethe defendants of any other ground they may have of objection tothe legality of the instrument.
+I hold that the learned Commissioner should have ruled on thefirst, issue, that the bond, not having been executed in conformitywith Ordinance No. 7 of 1840, is of no force or avail in law so far as itpurports to hypothecate the property mentioned therein, but thatthis informality does not extend to relieve the obligor and his suretyof their personal obligations under the bond.
+The judgment of the Court of Requests must be set aside, and thecase remitted for trial on the other grounds of defence raised by thedefendants. The appellant is entitled to his costs of appeal and tothe costs of the hearing in the Court of Requests on July 11.
+Appeal allowed; case sent back.
+Sept. 7,1911
+-LASCE1.M2S
+C.J.
+Lushingtonv. Carolia
+♦

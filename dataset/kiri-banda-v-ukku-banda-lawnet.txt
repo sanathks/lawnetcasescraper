@@ -1,0 +1,64 @@
+﻿
+( 181 )
+Present: Lascelles CJ. and Middleton J.June s, ton
+KIRI BANDA v. UKKU BANDA.
+103—D. C. Kegaila, 2,761.
+Evidence— Variation of a notarial instrument by a non-notarial document—
+Ordinance No. 14 of 1893, s. 92.
+There is nothing in the Evidence Ordinance to prevent a variationor modification in a notarial instrument from being proved by asubsequent non-notarial writing, provided that the latter writingis not itself of such a nature as to require notarial execution underOrdinance No. 7 of 1840.
+T
+HE plaintiff-appellant in this case sued the defendant, quaadministrator of the estate of one Mudiyanse, deceased, for
+the balance sum of Rs. 430 and interest due on a mortgage bond.
+Mudiyanse, the original mortgagor, had paid a sum of Rs. 600 onSeptember 29, 1904, and had obtained a writing (D 1) from theplaintiff acknowledging the receipt of the said sum, and stating thatout of it Rs. 320 was in payment of the principal and Rs. 280 inpayment of the interest due on the bond up to that day, and furtherstating that the plaintiff would accept the balance yet due on themortgage without interest.
+Thereafter Mudiyanse died, and. .the defendant, who was dulyappointed administrator of the estate, paid plaintiff on February 8,
+1906, the sum of Rs. 100 and obtained a receipt therefor (P I),which stated that this sum was in payment of the interest thendue. The plaintiff was called upon, in the testamentary case inwhich the estate of Mudiyanse, the mortgagor, was administered,to accept the sum of Rs. 330 in full satisfaction of his claim, whichthe plaintiff declined to do, and the parties were referred by the
+( 182 )
+June 6, 1911 District Judge to a separate action. The sum of Rs. 330 was,Kirji Banda however, not deposited in Court by the administrator till after thePresent action was instituted. The learned Additional Districta Judge (A. C. Allnutt, Esq.) heard the case on February 6, 1911,and in his judgment, delivered on February 20, 1911, dismissed theplaintiff’s claim in excess of Rs. 330, which was admitted by thedefendant, and ordered plaintiff to pay the defendant the costs ofthis action.
+The plaintiff appealed.
+Alms (with him A. St. V. Jayewardene), for the appellant.—Nosubsequent oral agreement can be admitted to prove a variation ofthe contract contained in the mortgage bond. In the case of anotarial instrument a writing which is not notarial is inadmissibleto prove a subsequent variation. The document D 1, which is notnotarially executed, cannot be admitted to vary the terms of themortgage bond, and has been properly rejected in the lower court bythe District Judge and by the parties.
+If D 1 is not admissible, it is quite clear that the oral admission ofthe plaintiff is not enough to vary the terms of the mortgage bond,Counsel referred to De Silva v. De Silva,1 Somasundram Chetty v.Todd?
+Tambyah, for the respondent.—Parol evidence may be admittedto show that the conduct of the plaintiff amounts to a waiver of aright created by the mortgage bond. See Shyama Charan Mandatv. Heras Mollah? (Lascelles C.J.—Is the document D 1 “ oralevidence” within the meaning of section 92 of the EvidenceOrdinance ?) No. It is a written variation of the contract. Therespondent may rely on D 1 in proof of the variation of the originalcontract.
+A. St. V. Jayewardene, in reply.—The mortgage bond being anotarial instrument, can be modified only by another notarial instru-ment. See De Silva v. De Silva? The Evidence Ordinance does not4raw any distinction between notarial and other written instru-ments. But in Ceylon, the Evidence Ordinance must be read withOrdinance No. 7 of 1840.
+Cur. adv. vult.
+June 6,1911. Lascelles C.J.— .The appeal turns upon the admissibility of the document D. 1which is a receipt given by a mortgagee to his debtor for a portionof the principal and interest, to which are appended the followingwords over the mortgagee’s signature : “ It is agreed that nointerest be charged hereafter on the balance amount still due on thebond above mentioned.”
+1 (1907) 1 A. C. R. 107. -2 {1910) 13 N. If. H. 361.
+3 (1S98) 2$ Cal. 161.
+( 18 3 )
+It was agreed by the proctors who represented thfe parties at the
+trial that a.notarial instrument, such as a mortgage bond, couldnot be modified by a writing such as D 1, which was not notariallyexecuted. The learned District Judge seems to have acquiescedin this view ; but in his judgment he has practically given effect tothe undertaking embodied in D 1, on the ground, as I understandthe judgment, that the plaintiff admitted that he made the promisein question. In this the learned District Judge is not right. IfD 1 is not in fact admissible in evidence, it must be ruled out of thecase altogether, and no verbal evidence can be given of its contents,in which case the judgment cannot stand.
+The case, however, has raised a point of real importance. It isindisputable that for a long time past a rule of evidence has obtainedin Ceylon to the effect that notarial documents can be modified orvaried only by notarial writings, and that non-notarial documentsare not admissible for this purpose.
+There is not much authority on the point, but the rule wasstated in De Silva v. De Silva1 as a matter of common knowledgeby Wendt J., than whom no one is better qualified to speak as tothe practice of our Courts. Against the rule itself nothing can beurged ; it is based on the maxim unumquodque ligamen dissolvitureo ligamine quo et ligatur, and rests on the same principles as theEnglish rule that a deed under seal cannot be discharged, or evenpartially dissolved, except by an instrument of equally solemncharacter (see cases collected in Taylon on Evidence, section 1043).
+But in the Evidence Ordinance this rule with regard to thevariation of notarial agreements is not reproduced ; indeed section92 lays down a different and less stringent rule with regard to theevidence, which may be admitted to vary the terms of writtenagreements. It was suggested in argument that, in adopting theEvidence Ordinance from the Indian Act, the distinction which ourlaw draws between notarial and non-notarial writings was inadvert-ently overlooked. But in view of illustration (h) to section 92,which expressly refers to a notarial lease, this cannot be the case.The fact, however, remains that the old rule has not been embodiedin the Ordinance, and we are confronted with the question whetherwe are justified in acting on an unwritten rule of evidence whichhas not been incorporated in the Ordinance.
+Section 2 (1) of the Evidence Ordinance repeals “ all rules ofevidence not contained in any written law so far as such rules are&apos;inconsistent with any of the provisions of this Ordinance. ” Therule under consideration is, I think, inconsistent with the fourthproviso to section 92, which, as is shown by example (A) goes onlyto the length of excluding oral evidence to modify the terms of anotarial agreement; it follows, I think, by necessary implication,that documentary, but not necessarily notarial, evidence is under
+Jun» 6, 1911
+La.sckli.bs
+O.J.
+Kiri Bandav. UkkuBanda&apos;
+1 (1907) 1 A. C. B. 107.
+( 184 )
+June 6,1011
+Lascelles
+C.J.
+Kiri- Bcnvdav, VkkuBanda
+that section admissible for this purpose. But even if the old ruledoes not fall within the scope of the repealing section, the questionremains whether, in determining the admissibility of evidence to•vary written instruments, whether notarial or otherwise, we arenot precluded from going outside those sections of the EvidenceOrdinance which specifically deal with the subject. On the principleslaid down in the often-quoted case of Bank of England v. VaglianoI think that we are bound to look for the law on this subject, which isspecifically and fully dealt with in the Ordinance, within the limitsof the Ordinance itself.
+To have recourse to unwritten rules of evidence in matters whichare within the scope of the Ordinance would be to perpetuate theuncertainty which it was the object of the Ordinance to remove.The result is that there is nothing to prevent a variation or modi-fication in a notarial instrument from being proved by a subsequentnon-notarial writing ; provided that the latter writing is not itselfof such a nature as to require notarial execution under OrdinanceNo. 7 of 1840. On this principle the receipt D 1 in the present casedoes not require notarial execution, inasmuch as it was not given“ for establishing any security, interest, or incumbrance affectingland,” or for any of the other purposes named in section 2. It istherefore admissible in evidence, and the judgment of the DistrictJudge, which is practically based on this document, is not open tothe objection of being founded on inadmissible evidence. Generally,I think, that the judgment of the learned District Judge is inaccordance with the evidence on the merits of the case, and [ thinkthat the appeal should be dismissed with costs.
+Middleton J.—
+This was an action on a mortgage bond against the administratorof the mortgagor, deceased, to recover balance of principal andinterest due on the bond.
+The original mortgagor had paid Rs. 600 on September 26,-1904,on the bond and received from the plaintiff a writing (D 1), in whichthe plaintiff had added the words : “ It is agreed that no interestbe charged hereafter on the balance amount still due on the bond.”To this the plaintiff appended his signature. But on February 8,1906, after the mortgagor&apos;s death, when his administrator paid theplaintiff a further sum of Rs. 100 on account of the mortgage debt,the plaintiff gave him a receipt (P 1) reciting that the sum paid wasinterest due on the mortgage bond.
+On the issues settled the District Judge held that the Rs. 100were paid on account of principal, and that plaintiff had foregonehis interest in consideration of an elephant transaction.
+1 (Ml) A. <?. 107.
+( 185 )
+The questions raised in appeal were—(1) Whether D 1 was June 6>1911admissible in evidence under section 92 of the Evidence Ordinance ; miudluxox
+the probative effect of D 1.J-
+The contention of the appellant’s counsel was that the mortgage /v-hamiabond being of necessity by law notarially executed, no variation of r)^^1it could be proved except through the medium of another notarially°
+executed document, and the case of De Silva v. De Silva&apos; wasrelied on.
+Chapter VIII. of the Evidence Ordinance, in which we findsection 92, is headed by the words, “ Of the exclusion of oral bydocumentary evidence. ”
+In the case before us the evidence&apos; objected to in the shape of D 1is distinctly documentary and not oral, and giving proviso 4 ofsection 92 its literal meaning, a notarial document could not bemodified by an oral agreement, but inferentially it might be modifiedby a written agreement; at least the proviso does not forbid it.
+I think, however, that if the modification took the form of anagreement which according to law had to be notarially executed,not even written evidence of such agreement would be admissible.
+Here the alleged modification by D 1 is an agreement to foregointerest ^.nd it does not modify the original agreement in any respectas regards its effect on land or immovable property. Taking this viewof the proviso to the section, I think D 1 is admissible in evidence.
+The case of De Silva v. De Silva1 relied upon can clearly besupported by the view that the facts as reported show an oralmodification of the original agreement, not a documentary one.
+As regards P 1, the fact that the appellant improperly apportioned tothe payment of interest a sum which should have been set off againstprincipal, and handed the receipt to the defendant worded to thateffect, did not, in my opinion, estop defendant from denying thathe accepted the payment on account of interest. The District Judge,moreover, found that defendant knew of the agreement not to recoverinterest, and had objected at the time to P 1, and that plaintiff trickedhim.
+I would dismiss the appeal with costs.
+Appeal dismissed.
+♦ i
+i {1007) l.A. C. R. 107.

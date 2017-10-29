@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../doc2vec/.idea/doc2vec.iml" filepath="$PROJECT_DIR$/../doc2vec/.idea/doc2vec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lawnet_dataset.iml" filepath="$PROJECT_DIR$/.idea/lawnet_dataset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lownet_dataset.iml" filepath="$PROJECT_DIR$/.idea/lownet_dataset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../word2vec/.idea/word2vec.iml" filepath="$PROJECT_DIR$/../word2vec/.idea/word2vec.iml" />
+    </modules>
+  </component>
+</project>

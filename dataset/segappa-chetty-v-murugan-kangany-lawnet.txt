@@ -1,0 +1,43 @@
+﻿
+( 375 )
+SEGAPPA CHETTY v. MURUGAN KANGANY.
+C. R., Qampola, 2,365.
+Promissory note—Special endorsement—Rights of endorser who retires■note—Right of endorser to whom a note comes back to sue makerthereon.
+A promissory note made by defendant passed by a succession ofendorsements to P, who specially endorsed it to the MercantileBank. The note on maturity was dishonoured, and P paid thebank its-amount, and the bank acknowledged receipt of suchpayment, thus : “ Paid by the last endorser. Received payment“ for the Mercantile Bank of India, Limited—J. B. Bishop,“ Agent,” and delivered the note to P. In this state it came backto plaintiff, a prior endorser—Held, that the plaintiff had rightto sue.
+Held, further, that the signature on the note of the bank by itsagent acknowledging payment is a sufficient endorsement by -thebank, and that, coupled with delivery, gave to P all the rights andpowers enjoyed by a holder in due course.
+rpgE facts of the case appear in the judgment of Withebs, J.
+Bawa, for appellant.
+25th May, 1897. Lawbie, A.C.J.—
+In my opinion the question whether the Bill of Exchange Actof 1882 deprived a mere bearer of the right to sue on a promissorynote on which there are blank endorsements, but on which thethe last endorsement is in full to a person or firm other than the #plaintiff bearer, does not arise here.
+In the present case the plaintiff is not a mere bearer, he is oneof the endorsers whose name appears in the note ; and I have notfound in the Act any provision which deprives an endorser of theright to sue the maker and the prior endorsers.
+Anamala Chetty, to whom the plaintiff transferred the note byblank endorsement, endorsed it in blank to Periannen Chetty, whodiscounted it with the Mercantile Bank, which put on the notethe stamp “ Pay to the Mercantile Bank of India, or order.”
+The note, on maturity was dishonoured by the maker, andPeriannen Chetty, the last endorser, retired it.
+The bank on receiving payment endorsed it in these words:—
+“ Paid by the last endorser; received payment for the Mercantile“ Bank of India, Limited—J. B. Bishop, Agent, Kandy.”
+The plaintiff avers, and for ’the purposes of this argument itmust be taken as true, that he paid the amount to PeriannenChetty and retired the note, and he now sues on it.
+1887.
+May ilk 25.
+( 376 )
+1897.
+Jllay 21 d> 25.
+Lawbxe,A.C.J. .
+It was urged that he could not sue because the bank to whom ithad been endorsed had not endorsed it either in blank or speciallyto the plaintiff. But it seems to me that that argument is foundedon a mistake in fact.
+The bank, by writing the words “ Received payment from the“ last endorser, received payment for the Mercantile Bank,” andby the signature of the agent did endorse the note.
+If that was an endorsement in full to Periannen Chetty, what ishere wanting is not the endorsement of the bank, which is on thenote, but the endorsement of Periannen Chetty ; but I read thebank’s endorsement as a blank endorsement, so that when theplaintiff (one of the prior endorsers) retired the note he had rightto sue the maker and the endorsers prior to himself. I am unableto agree with the judgment of the District Judge of Colombo inD. C., Colombo, 9,302, which was relied on by the appellant; thedecisions of this Court reported in 2 Gren. 125, 6 8. C. C. 87, and3 C. L. B. 33, are binding on us.
+Withebs, J.—
+This is an action on a promissory note which is brought by anendorser against the maker. The history of the note seems to bethis. The note was made on 4th April, 1893, and was payablefour months after date, and the place of payment named in thenote was the office of the Mercantile Bank, Limited, Kandy.The payee endorsed it in blank, and it passed by a succession ofendorsements in blank to one Vena Periannen Chetty. Thisperson seems to have discounted the note with the bank, andhe signs his name in blank on the back of the note. The bankconverted this blank endorsement into a special one by printingabove his name “ Pay the Mercantile Bank, Limited, or order.”It was noted for non-payment, and Vena Periannen Chetty, thelast endorser, paid the note, and the bank acknowledged thereceipt on the note in these words : “ Paid by the last endorser ;“ received payment for the Mercantile Bank of India, Limited—“ J. B. Bishop, Agent, Kandy.” It was then delivered to VenaPeriannen Chetty.
+In this state it came back to the present holder and priorendorser
+Now, the holder of a note is defined by the Act to mean .thepayee or indorsee in possession of it/ or the bearer thereof.
+The plaintiff answers to that description. It is not denied thatplaintiff is a holder in due course as defined by section 29 of the&apos;Act. Why then is he not entitled to sue on the note T
+( 377 )
+It is said that as the note was specially endorsed to the MercantileBank it can only be negotiated by the endorsement of the bank,and the section of the Act relied on was No. 31, sub-seotion (3):“ a bill payable to order is negotiated by the endorsement of the“holder completed by delivery,” and delivery without endorse-ment confers nothing more than the transferrer’s title to the bill.
+This is no doubt true of negotiations forward before the billmatures. But what if it has been met by an endorser and isnegotiated back to prior endorsers ? Section 59, sab-section 2 (6),of the Bills of Exchange Act enacts that where “ a- bill is paid by“ an endorser the party paying it is remitted to his former rights“ as regards the acceptor or antecedent parries, and he may, if he“ thinks fit, strike out his own and subsequent endorsements and“ again negotiate the bilk”
+If he can do this, what is the necessity of a formal endorsementby the special endorser whom he has paid, as an antecedent partyis liable on the bill ? To revert again to the rights and powers ofthe holder of a bill. By section 38 (1) he may sue on the billin his own name. By section 47 (2), subject to the provisionsof this Act, where a bill is dishonoured by non-payment agimmediate right of recourse against the drawer and endorsersaccrues to the holder.
+I cannot think that the provisions of the Act in section 31,sub-sections 3 and 4, relied on by Mr. Bawa, apply to this case.Anyhow, the signature on the note of the bank by its agentacknowledging payment is in my opinion a sufficient endorsement,and that, coupled with delivery, gave to the last endorser all the*rights and powers enjoyed by a holder in due course.
+Since writing this judgment I have had the advantage of readingMr. Justice Browne’s decision as District Judge of the Court ofColombo.
+With every respect to the learned Judge, I do not think the Acthas altered the law in the case of a negotiation backwards up theline of endorsers by the one who has paid the matured bill undersection 37. This is hot a case of a bill being re-issued and furthernegotiated by one to whom it has been negotiated backwards.
+> *
+Assuming that the bank’s signature was not an endorsement,
+no doubt a party whose name is, not oh the bill could not by meredelivery have sued as bearer.5 But plaintiff is not an ordinarybearer. He is a prior endorsee. I am for affirming the judgmentappealed from.
+1897.
+May 21 <b 25.Withers, J.

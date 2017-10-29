@@ -1,0 +1,50 @@
+﻿
+( 132 )
+1900.
+July 16.
+ABDUL CADER v. ASIATIC STEAM NAVIGATION CO.
+C. B., Colombo, 10,847.
+Shipping—Bill of lading—Contract contained in—Action for non-delivery ofgoods—Overcarriage and transhipment—Loss of goods from decay—Liability of shipowner.
+Perishable goods shipped by a steamer pt Bombay to be conveyed toColombo were overcarried to Galle, brought back by another steamerand tendered to plaintiff, when the goods were found to have decayed.The bill of lading contained a clause as follows : “ In case the whole or part“ of the goods cannot from any cause be found for delivery or be delivered“ during the vessel’s ordinary stay at the port of destination, the company“ is only bound to forward the goods to that port from any subsequent
+“ port of any other steamerto be at the risk of the owner of the
+“ goods.”
+In an action brought for the non-delivery of the goods, held, that theshipowner could not claim the benefit of the clause without proof ontheir part that the goods could not be found for delivery or be delivered.
+fT^HIS was an action for the recovery of Rs. 300, being the valueof 146 bags of onions lost to the plaintiff by the conduct ofthe defendant company, who were the owners of the ship in whichthe goods were shipped.
+The Commissioner found as follows: —
+&apos;* The plaintiff had 200 bags of onions, among other things,shipped at Bombay on board the steamship Nawab, of whichdefendants are owners, to be conveyed to Colombo. The shiparrived in Colombo harbour on the 30th March, 1899, but only 54bags were delivered to plaintiff. The remaining 146 were over-carried to Galle, landed there, and brought back by anothersteamer. They were tendered to plaintiff about the 10th April,that is, some eleven days after the arrival of the Nawab in theColombo harbour. Plaintiff sw&apos;ears that the onions were thendamaged, meaning apparently that they had decayed; this is notcontradicted by the other side.
+" Plaintiff’8 cause of action is not that the onions were damagedby any negligent act on the part of defendants, but that the 146bags were not delivered to him.”
+And the Commissioner held that no delivery took place within areasonable time after the steamship Nawab arrived in Colombo,and on the law of the case he held that, whether the onions werenot tendered to plaintiff in proper time or tendered in a decayedcondition, the plaintiff was entitled to succeed. Judgment wasentered for plaintiff for Rs. 300.
+Defendant company appealed.
+( 133 )
+Maartcnsz, for appellant.—The appellants have discharged theonus on them, when it was proved that the defendants hadtendered the bags of onions to the plaintiff. The bill of ladingprotected the appellants from all liability, and even in the case oftheir failure to deliver goods on the arrival of the steamer inColombo, for the bill runs as follows: —
+“ The company is not liable for any loss, damage, or detention“ caused directly or indirectly by any of the following causes" (the causes are enumerated), whether any of the perils, causes, or“ things above-mentioned, or the toss, injury, or detention therefrom,“ be occasioned by the wrongful act, default, negligence, or error in“ judgment of the owners, pilot, master,” &c.
+“ In case the whole or part of the goods cannot from any cause“ be found for delivery, or be delivered, during the vessel’s“ ordinary stay at the port of destination, the company is only" bound to forward the goods to that port from any subsequent
+“ port of any other steamerto be at the risk of the owners
+“ of the goods.”
+De Saram, for respondent.—The tender was made after thesteamer had left the port of Colombo. The onions had beensubsequently sent back to Colombo and the tender was then made,which was no tender under the bill of lading. Besides, if thedefendants desired to protect themselves under the bill of lading,it was for them to show that some cause had arisen which wouldentitle them to such protection. Here none is shown, and thejudgment was rightly given for the plaintiff.
+Gut. adv. vult.
+16th July, 1900. Moncreiff, J.—
+This was an action for damages for the non-delivery of 146 bagsof onions shipped on board the steamship Nawab at Bombayfor delivery in good order and condition to the plaintiff at theport of Colombo. The plaintiff alleges that in consequence of thenon-delivery of the goods they were wholly lost to him.
+In their answer the defendant company say that the goods“ were shipped at shippers’ risk, and the company took no responsi-bility therefor;” and that in fact, although they called upon theplaintiff to take delivery of the goods, the plaintiff refused to doso. It appears that upon the arrival of the Nawab at Colombo54 bags of onions were delivered from her to the plaintiff; butthe 146 bags in question were carried on to Galle and broughtback to Colombo in the steamship Nadir, when the plaintiffrefused to accept them.
+1900.
+July 10.
+( 184 )
+1900.Jidg 16.
+Moncbbiff,
+3.
+The following issue was framed with the consent of the parties:
+“ Did the defendants fail to deliver or tender to the plaintiff 146baskets of onions ?”
+No witness was called for the defendants, but it was urged thatwhat they did amounted to a delivery, and that they were absolved&apos;by the exceptions and conditions of the bill of lading from allresponsibility for any damage sustained by the plaintiff. Thebill of lading may not, strictly speaking, be the contract, becauseit is not signed until the goods are on board, but when—as in thiscase—it is not qualified by other stipulations it is binding uponthe parties. Among the exceptions and conditions which it con-tains is one to the effect that “ the company is not liable for any“ loss, damage, or detention caused directly or indirectly by any of“ the following causeB (the causes are enumerated), Whether any of“ the &apos;perils, causes, or things above-mentioned, or the loss, injury, or“ detention therefrom, be occasioned by the wrongful act, default,“ negligence, or error in judgment of the owners, pilot, master,” &c.
+1 have some doubt as to whether this condition could come intoplay under the issue framed; but I think it has no bearing on thecase, because the loss did not “ arise from any of the perils, causes,or things above-mentioned.” Moreover, if the defendants madea tender of delivery, there is an end of the plaintiff’s claim, andif they did not make a tender of delivery they cannot take thebenefit of a plea that the goods were shipped at shippers’ riskThe phrase refers to the oriiinary risks of the voyage, and doesnot absolve the shipowner from the duty to deliver if he has thegoods on board (D’Arc v. L. & N.W. Ry. Co., L. R. 9 C. P. 325).
+If the voyage ended on the arrival of the Nawab the defendantswere bound—in the absence of contract—to make delivery atthat time.
+Now, there is a clause in the bill of lading to the effect that ‘‘ in’■ case the whole or part of the goods cannot from any cause be“ found for delivery, or be delivered, during the vessel’s ordinary** stay at the port of destination, the company is only bound to for-” ward the goods to that port from any subsequent port of any
+“ other steamerto be at the risk of the owners of the goods.”
+Such provisions may be hard, but there is no.reason why theyshould not be enforced. The company, however, has offered noevidence upon this point. We do not know whether the goodswere overcarried because they could not ” be found for deliveryor be delivered;” and the defendants cannot claim the benefit ofthis clause.
+Now, to quote the words of Lord Esher in Leduc v. Ward (20
+Q.B D. (1888) 451), “ if the only voyage mentioned in the bill of
+( 135 )
+“ lading is from the port of shipment to the port of destination, it“ must be a voyage on the ordinary track by sea of the voyage from" the one place to the other.” There is a clause permitting tran-shipment and deviation in this case. So that those matters do notarise; but it is well established that, where there is no contract tothe contrary, transhipment or deviation is only to be justified bycircumstances amounting more or less to necessity. And in thelatter case it is not for the shippers to show that the damage totheir goods resulted from the deviation (Davis. v. Garrett, 6Bing. 724). The contract is for a particular voyage, and if itpermitted the shipowner as he pleased to overcarry to Hongkongor Cape Town, it would be impossible to carry on business. Inthe ordinary course it is the duty of the master, when his ship hasarrived at the port of destination, to deliver the cargo to themerchants or his consignee, upon production of the bill of ladingand payment of the freight and other charges due-in respect ofit. The company have adduced no reasons absolving them fromthat duty, and I think the Commissioner was right in enteringjudgment for the plaintiff for the amount claimed.
+1900.
+July 16.
+MONORKIirFt
+J.

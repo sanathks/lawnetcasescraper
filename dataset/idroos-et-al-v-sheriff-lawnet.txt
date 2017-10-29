@@ -1,0 +1,129 @@
+﻿
+( 231 )
+Present: Schneider J. and Jayewardene A.J.
+IDROOS et al. v. SHERIFF.
+110—D. C. Colombo, 12,051.
+Partnership—Agreement for establishing partnership where capital exceedsRs. 1,000 — Absence of writing — Reference to partnership indocuments—Ordinance No. 7 of 1840, s. 21 (4).
+A partnership cannot be established in terms of section 21 (4)of the Ordinance of Frauds and Perjuries by means of statements,relative to the alleged partnership, found in documents.
+A third person may offer evidence of such statements to provethe existence of a partnership between others.
+A CTION by the plaintiffs as heirs of one Idroos for declaration^ of title to certain shop goods,- stock in trade, &c., of the valueof Rs. 21,000 lying at No. 1, Hospital street, Colombo, againstthe defendant, Sheriff. The defendant pleaded that Idroos andhe carried on business in partnership at the place, and that he wasentitled to a half share of the business, which he valued at Rs. 22,000.The learned District Judge held that, in the absence of an agreementin writing, the defendant could not establish the alleged partnership,and gave judgment for the plaintiffs. The defendant appealed,and it was contended for him that the documents D 3, D 4, andD 7, in which he was described as a partner by Idroos, were sufficientto comply with the requirements of section 21 (4) of the Ordinanceof Frauds and Perjuries, No. 7 of 1840.
+Allan Drieberg, K.C. (with him N. K. Choksy), for defendant,appellant.—The notification to the Registrar of Business Names(D 3) was signed ly all the three partners as such. So was thenotification of change (D 7). In this Idroos and Sheriff were givenas the sole partners. It was tantamount to a notice to all to whomit may concern that they were partners and trading as such.
+Section 5 of the Business Names Ordinance shows that it wasnot comptilsory on the defendant to have signed the notifications.
+The proviso shows that the section intended to give the fullesteffect to the declaration when signed by all the partners.
+The District Judge requires that all the terms should be embodiedin a document to comply with the terms of section 21 of theOrdinance. Suppose a proper notarial document had been drawnup without a statement of the shares of the partners&apos; If the Judgeis correct, even such a document would not comply with the require-ments of the section. The decisions on the Sale of Goods Act
+1926*
+( 232 )
+1925.
+Idrooe v.Sheriff.
+requiring the “ price ” to be stated, where agreed upon, can haveno application to partnerships, because there can be partnershipswithout any reference to duration, capital, or the respectiveshares of the partners.
+[Schneidbb J.—You can only come in under the word “ agree-ment ” in section 21. Have you such an “ agreement ” signedby the partners ?]
+The only essential of an agreement of partnership is the mutualpromise of the members of it to be partners. Even any capitalis not required {Lindley on Pa/rtnership, 1905 Edition, p. 50).No provision for the sharing of profits is necessary, as the lawimplies, in its absence, an equal division (.Lindley on Partnership,p. 384). Even any definite duration is not required. All that isrequired is a mutual agreement to trade as partners.
+Hayley (with him A. R. H. Canekeratna), for plaintiffs,respondent.—Section 21 distinctly requires “ it,” that is, thepromise, contract, or agreement itself, not a note or memorandumof it, to be in writing.
+Section 4 of the Sale of Goods Ordinance, No. 11 of 1896, followssection 4 of the English Statute of Frauds substantially. Butsection 21 of the Frauds and Perjuries Ordinance, 1840, is expresseddifferently.
+Appellant&apos;s real endeavour is only to set up an estoppel bydocument. The Business Names Ordinance was only intendedto make a provision for ascertaining whether aliens are partners.The appellant’s contention, if correct, would mean that theprovisions of the Business Names Ordinance amounted to a repealof section 21.
+Declarations by A and B to C, on the same document that theyare partners, is not “ an agreement ” between A and B.
+Estoppel by conduct cannot be stronger than a definite contract,and if the alleged “ contract ” is of no avail by not being in writing,the defendant cannot succeed by substituting for it what is, at the ,most, an estoppel.
+Pate v. Pate1 clearly decides that the acts of the alleged partnerscannot be looked at to decide whether or not there is a properagreement.
+In 158, D. C. (Interlocutory) Jaffna, 16,405, S. C. Civil Minutes ofMarch 26, 1923, the plaintiff was examined de bene esse. Undercross-examination he admitted that the defendant was a partner,but the Supreme Court held that that evidence was not conclusivein law.
+[Jaybwabdene A.J.—But if you admit a fact, no other proofneed be adduced by the other side.]
+1 (10J5) 18 N. L. R. 289.
+( 233 )
+1925.
+Idrooa v.Sheriff.
+[Jayewabdene A.J.—Suppose you enter into an agreement ofpartnership and provide that the terms are to be agreed uponthereafter, will it be bad ?]
+Yes.
+[Jayewabdene A.J.—Referred to the second proviso to section92 of the Evidence Ordinance. ]
+That refers to “ matter ” as distinct from “ terms.” Otherwisethis proviso will nullify the Frauds Ordinance.
+Ameer AH on Evidence shows that only matters which do notform part of the original contract can thus be proved by oralagreement. The Court cannot, by the exercise of its discretion,allow those terms to be proved by oral evidence which are requiredby law to be in writing and which should have been put in.
+Drieberg, K.C., in reply—The cases cited are those where,without the mention of the terms omitted, the contract becomes“ indefinite ” or inconceivable. Some of them are leases andcontracts of service, in both of which the duration is of the veryessence and nature of the contract.
+Section 92 of the Evidence Ordinance and section 21 of No. 7 of1840 require only the agreement that certain persons shall bepartners. Only an “ agreement for establishing the partnership,”that is, a proof of the bare partnership, is all that is needed inwriting, and not all its terms. Section 92, proviso 2, applies tothis case.
+Leroux v. Brown6 and Pate v. Pate (supra) establish that theStatute of Frauds is only evidentiary. Therefore, it is not necessarythat the original agreement itself should be in writing. So that asubsequent declaration of an existing partnership is sufficient.The opening recital of the power of attorney is that.
+[Schneider J.—There is no " promise ” from one to the otherin that recital.]
+It is not necessary that the mutual promises—implied injthedeclaration—should be addressed to one another. Oibscht v.Holland,7 Bailey v. Sweeting*
+1 $ M. and W. 109 at 117.* {1857) 8 E. & B. 664.
+* (1834) 10 Bing. 376.• (1862) 12 C. B. 801.
+5 6 Ex., 628.» (1868) L. R. 1. C P. 1.
+4 16 East. 103.• (1861) 6 C. B. 843.
+It has been held that even an admission in the answer does notprevent the defendant from relying on the provisions of section 21.(See Vol. 4 of the Digest of South African Cases, p. 821.)
+Even in England, where a “ note or memorandum ” is all thatis required it has been held that it must contain all the essentialterms. (7 Halsbury 372, 70. L. J. 767, Marshall v. Lynn * Acebalv. Levey* Archer v. Baynes,3 Cooper v. Smith* Bailey v. FitzMaurice.5)
+( 234 )
+1325.
+Idrooa v.Sheriff
+October 13, 1926. Jaybwabdene A.J.—This appeal raises a question with regard to the nature of theevidence required to prove an agreement “ for establishing a part-nership where the capital exceeds one thousand rupees.” whichthe law requires to be in writing. The plaintiffs, the heirs of oneIdroos, sued the defendant, Sheriff, for a declaration of title tocertain shop goods, stock in trade, fittings, &c., of the value ofRs. 21,000 lying at No. 1, Hospital street, Colombo, where Idroosappears to have carried on a tailoring business under the name of“ Idroos and Sheriff.” The defendant pleaded, inter alia, thatIdroos and he had carried on the business at No. 1, Hospital street,in partnership, and that he was entitled to a half share of thebusiness, which he valued at Rs. 22,000. The plaintiff denied thatthe defendant was a partner of Idroos. It was admitted that thecapital of the partnership exceeded Rs. 1,000. At the trial severalissues were framed, but the Court thought that the first and secondissues should be tried first. They were as follows :—
+Was the defendant a* partner of Idroos ?
+Was there a written agreement ? If not, can the defendant
+prove a partnership in the absence of a writing ?
+The learned District Judge, after hearing some evidence andconsidering the documents filed, held that the defendant had failedto prove an agreement in writing, and that he was therefore nota partner of Idroos. He entered judgment for the plaintiffs anddismissed a claim in reconvention which the defendant had set up.
+The defendant appeals, and it is contended for him that thedocuments D 3, D 4, and D 7, in which he is described as a partnerby Idroos, are sufficient to comply with the requirements of section21 (4) of the Ordinance of Frauds and Perjuries, No. 7 of 1840.
+Section 21 runs as follows :—
+“ No promise, contract, bargain, or agreement, unless it be inwriting and signed by the party making the same or bysome person thereto lawfully authorized by him or her,shall be of force or avail in law for any of the followingpurposes:—
+(1) … (2) … (3) .. .
+(4) For establishing a partnership where the capital exceedsone thousand rupees: Provided that this shall notbe construed to prevent third parties from suingpartners, or persons acting as such, and offering inevidence circumstances to prove a partnership existingbetween such persons, or to exclude parol testimonyconcerning transactions by or the settlement of anyaccour > between partners.”
+( 235 )
+This section has been construed by the Privy Council in Pate v.■ Pate (supra), (1915) A. C. 1,100, and it was laid down by theirLordships that the words “ for establishing a partnership ”meant “for establishing by proof coram judice” and that in theabsence of an agreement in writing an action could not bemaintained for an account even where it is alleged that apartnership had in fact existed and had been determined.
+In the present case it is admitted that no agreement in writingcreating a partnership between Idroos and the defendant was everentered into, and it is clear from the evidence of the defendantthat the partnership alleged by him was carried on on a verbalagreement. But it is contended for him that the documents D 3,D 4, and D 7 take the place of such an agreement, and is evidenceof an agreement in writing under the section. Now, D 3 and D 7are extracts from the “ Register of Business Names ” kept underOrdinance No. 6 of 1918. D 3T is dated May 6, 1919, and is “ anapplication for registration by a firm.” D 7, dated July 3, 1923,is a “ statement of change under section 7 ” of that Ordinance.
+In D 3, which was signed by Idroos, one Levana Marikkar andthe defendant appear as his partners, and the business name isgiven as “ Idroos and Sheriff.”v
+In D 7, which was sent in when Levana Marikkar ceased to bea partner (D 5), Idroos and the defendant are entered as partners.D 4 is a power of attorney granted by Idroos, the defendant, andLevana Marikkar to the defendant, appointing him their attorney.There these three persons are described as carrying on the businessof tailors and outfitters in partnership under the name, style, andfirm of “Idroos and Sheriff.”
+These writings prove that the defendant and Idroos were carryingon business in partnership and nothing more. They do not provewhat section 21 (4) requires, viz., that the agreement for carryingon their business in partnership was in writing, or that they hadbecome partners by virtue of an agreement in writing. Now,what the section requires is that the agreement itself should bein writing; proof that in documents the parties have describedthemselves as partners may corroborate the original agreement,but such documents cannot be regarded as substitutes for theagreement in writing. Mr. Drieberg for the defendant, however,strenuously contended on the authority of certain cases decidedunder section 17 of the English Statute of Frauds (now replacedby section 4 of the Sale of Goods Act), which enacts (I give onlythe material parts) that no contract for the sale of any goods, shallbe allowed to be good, except that some notice or memorandumin writing of the said bargain be made, and signed by the partiesto be charged by such contract, or their agents thereunto lawfullyauthorized, that D 3, D 4, and D 7 were sufficient to constitutean agreement in writing for the purposes of section 21 (4). He
+1925.
+JaybwarDENtt A.J
+Idroos vSheriff
+( 236 )
+1926.
+Jayewar-DBJNE A.J.
+Idroo8 v.Sheriff
+Sweeting (supra), this Court went very carefully into thegeneral doctrine, and came to the conclusion that a letterwhich contained an admission of the bargain, and of allthe substantial terms of it, was a sufficient note ormemorandum of the contract to satisfy the 17th section, *notwithstanding the writer repudiated his liability. Tosatisfy the Statute, you must have the oral statementof the contract corroborated by an acceptance of part ofthe goods or a part payment of the price, or you musthave some note or memorandum in writing of the bargain.If so, the danger of perjury, which the Statute wasdesigned to exclude, is abundantly guarded against if therebe a written statement of the terms of the contract,signed by the party to be charged, made to an agent.For these reasons, I feel bound to hold that the require-. ments of the Statute have been complied with in thiscase, and consequently that there should be no rule.”
+And Willes J said :—
+relied on the case of Oibson v. Holland.1 There the plaintiff had solda horse to the defendant’s agent. The agent informed the defend-ant of the purchase, and the defendant wrote back confirmingthe purchase, and stating that he had sold the horse to anotherand promised to send a cheque for the price. The defendantsubsequently refused to pay for the horse, and when sued by theplaintiff Contended that there was no contract in writing tosatisfy the 17th section of the Statute of Frauds. It was heldthat the letters that passed between the defendant and his agentcontained a statement of the bargain amounting to a “note ormemorandum ” of the contract within the meaning of section 17 ofthe Statute which the vendor could avail himself of. Erie C. J. said:
+“ In the case referred to by my brother Willes, of Bailey v.
+• “ Provided you have in writing an admission by the party tobe charged of the bargain having been made, the require-ment of the Statute is satisfied, though the memorandumdoes not show a contract in the sense of its being a completeagreement, and intended to be the exclusive evidenceof the right on the one side and of the liability on theother, as the final written agreement between the partieswould be. This section uses a word which seems toafford a key to its construction; it requires that thereshall be, not any particular kind of memorandum, but‘ some note or memorandum of the bargain.’ There isa note or memorandum of the bargain in this case. Icannot help thinking that Bailey v. Sweeting (supra)disposes of this case, because, though the memorandum1 (1865) L. R. 1. C. P. 1.
+( 237 )
+there did not show a contract in the sense of an agreement,inasmuch as the defendant in terms repudiated hisliability, yet, as the letter contained evidence of the termsupon which he had once contracted to be bound, it waftproperly held to be a sufficient memorandum to satisfythe Statute.”
+In Bailey v. Sweeting (swpra) section 17 was similarly constructedand there too Willes J. drew attention to the words “ some noteor memorandum ” and said that they should be given their naturalmeaning and effect. The English decisions under section 17 arebased on the particular words used in that section. That sectiondoes not require the original contract to be in writing, it may beverbal, and the requirements of the section would be satisfied ifsome note or memorandum signed by the party sought to beaffected comes into existence at any time before an action isbrought. Such a note or memorandum might be embodied ina letter addressed to a third party, in an affidavit, or in a will.The note or memorandum must, however, contain all the termsnecessary to constitute a valid contract of sale. • In Sieverwright v.Archbald,1 where a question arose as to whether a bought notesent to the buyer and a sold note sent to the seller by a broker whohad negotiated the sale of some iron, was a sufficient note ormemorandum of a contract to satisfy the requirements of section 17.
+Patterson J. said :—
+“ The Statute of Frauds (29 Cv 2, c. 3, s. 17) requires that somenote or memorandum in writing of the bargain be madeand signed by the parties to be charged by such contractor their agents thereunto lawfully authorized. Thequestion is whether in this case there was any such noteor memorandum in writing signed by the defendantor his agent ? If there was&apos;, I take it to be clearlyimmaterial whether there was any such note or memo-randum signed by the plaintiff (see Egerton v. Mathews,2where the memorandum was signed by the defendantsthemselves, not by a broker or agent, and none was signedby the plaintiff, yet, it was held that the Statute wassatisfied); for I consider that the memorandum need notbe the contract itself, but that a contract may be madewithout writing ; and, if a memorandum in writing beafterwards made, embodying that contract, and besigned by one of the parties or his agent, he being theparty to be charged thereby, the Statute is satisfied.
+– Still it is plain that, if the original contract was itself inwriting signed by both parties, that would be. the bindinginstrument, and no subsequent memorandum signed by
+one party could have any effect.”
+1 {1851) 17 Q. B. 103.
+1926.
+Jayewab-DE2TC A.J.
+Idroos v.Sheriff
+{1805) 6 East 307.
+( 238 )
+1925.
+Jayewab-DSNE A.J.
+Idroosv.
+Sheriff
+And Erie J. said :—
+“ It seems to be therefore that, upon principle, the mere deliveryof bought and sold notes does not prove an intention tocontract in writing, and does not exclude other evidenceof the contract in case they disagree. Before examiningthe authorities on which this proposition is supposed tobe founded, I would draw attention to the distinctionbetween evidence of a contract and evidence of a com-pliance with the Statute of Frauds. The question ofcompliance with the Statute does not arise until thecontract is in proof. In case of a written contract theStatute has no application. In case of other contracts,the compliance may be proved by part payment, or partdelivery, or memorandum in writing of the bargain.Where a memorandum in writing is to be proved as acompliance with the Statute, it differs from a contractin writing, in that it may be made at any time after* the contract, if before the action commenced; and anynumber of memoranda may be made, all being equallyoriginals ; and it is sufficient if signed by one of theparties only or his agent; and if the terms of the bargaincan be collected from it, although it be not expressed in theusual form of an agreement. (Egerton v. Mathews (supra)).
+This case draws a distinction between the contract or agreementin writing and a note or memorandum of the same. Further, theEnglish Statute of Frauds does not require that the contracts, &c.}referred to in it should be in writing, its object being merely toexclude oral proof of them. As Lindley L.J. said (In re Hoyle,Hoyle v. Hoyle *):—
+“ The object of the Statute was to prevent fraud and perjuryby taking away the right to sue on certain agreementsif only established by verbal evidence. The policy ofthe enactment is well explained in Welford v. Beazely?Barkworth v. Young? and the idea of agreement need notbe present to the mind of the person signing. An affidavitmade with quite a different object was in that case heldto be a sufficient note or memorandum, and so havevarious other documents.”
+And at page 99 Bowen L.J. said :—
+“ It is shown by a catena of cases down to Gibson v. Holland(supra) and Wilkinson v. Evans4 that the question is notone of intention of the party who signs the document, butsimply one of evidence against him. The Court is not
+3 (1856) 4 Drew 1.
+(2866) L. B. 1 C. P. 407.
+1 (1593) 1 Oh. 84, at p. 98.
+» (1747) 3 Aik. 503.
+( 239 )
+in quest of the intention of parties, but only of evidenceunder the hand of one of the parties to the contract thathe has entered into it. Any document signed by himand containing the terms of the contract is sufficient forthat purpose.”
+1925.
+Jaybwab-DENE A.J.
+Idroos v.Sheriff
+The English decisions are the result of the construction placedon the language used in section 17 and particularly, on the words“ some note or memorandum.”
+Now to consider the terms of section 21 (4) of our Ordinanceof Frauds; it is noticeable that, although based on the EnglishStatute, it carefully avoids the use of the words “ some note ormemorandum,” and even in sub-section 3 of the same section(now repealed by the Sale of Goods Ordinance), which dealt withcontracts for the sales of movables or goods, the words used were“ for the purchase or sale of any movable, unless such propertyor part thereof shall have been delivered to the purchaser or theprice or a part thereof have been paid by the purchaser,” and allreference to a note or memorandum was omitted.
+Can it be suggested that in the construction of the sub-section,the English decisions on section 17 can be applied in the absenceof the words “ some note or memorandum ” and where thesection requires that the contract or agreement itself should bein writing, if it is to be of any force or avail in law ?
+In Pate&apos;s case there was evidence that the members of thesyndicate had described each other as partners in writings signed bythem. (See the judgment of this Court reported in 11 N. L. R. 254,)In fact, the first defendant, who took the objection under section 21,had himself written to one of the partners to say “ what was thereto prevent me on the strength of these withdrawals and renunciationsto have ceased to recognize you as partners ” (page 262), butthe Privy Council attached no weight whatever to these admissionsin writing, and learned Counsel who appeared for the plaintiff madeno reference to the English decisions on which reliance has beenplaced here. The conclusion is irresistible that the Privy Councildid not consider the statements made in writing that the partieswere partners sufficient to overcome the absence of an agreementin writing or the English decisions applicable.
+In my opinion section 21 cannot be construed as section 17 ofthe English Statute has been construed, in view of the markeddifference in the language and object of the two enactments. Itmay Be pointed out that in section 2 of the Ordinance of Fraudsand Perjuries, 1840, which deals with the sale, purchase, &e., ofimmovable property, the same words are used as in section 21 inimposing the requirements of a writing and in declaring the conse-quences of the failure to have such a writing. The only difference
+27/18( 240 )
+1925.
+Jaybwar-DENB A.J.
+Id/rooa v.Sheriff
+between the two sections is that while the former requires thedocuments to be executed before a notary, the latter does notinsist on that formality.
+But if Mr. Drieberg’s contention is correct, it must be possibleto say that when an owner allows another who is not a co-ownerto join him in executing a notarial document describing himselfand the other person as the owners of a property, that the otherperson would be entitled to claim a share of that property as owner.In such a case the owner might have to meet estoppels when thirdparties are concerned, but the fact that he described the otherperson as an owner in a notarial document would not create anyright in that other to the land. The only way in which thatperson can acquire a right to* the property is by a transfer orother similar document signed and executed as required bysection 2.
+In the same way, in the absence of an agreement in writinga partnership cannot be proved between so-called partners, andstatements in schedules and deeds that certain persons are partnerswould not entitle the persons so described to claim to be partnersin law or to enforce their rights in a court of law. Such factsmay be regarded as circumstances which sub-section (4) allowsthird parties to offer in evidence to prove a partnership existingbetween the parties referred to in them.
+Mr. Hayley, for the plaintiffs, argued that even assuming thatD 3, D 4, and D 7 amounted to an agreement in writing, they wereinsufficient in law, as they did not contain the essential or materialterms of the partnership agreement. They do not show whenthe partnership commenced, or give the shares of each partner inthe business, &c. He cited several English cases in support of hiscontention. I need not refer to them in view of the provisions ofsections 91 and 92, proviso (2), of the Evidence Ordinance.
+It is no doubt true that all the terms agreed upon at the timea partnership agreement is entered into it must be included in thewritten agreement, but if there be any separate oral agreementas to any of the terms material or otherwise on which the writingis silent, such agreement can be proved by oral evidence accordingto proviso 2 to section 92. This point need not be furtherelaborated in view of my decision that D 3, D 4, and D 7 donot amount to an agreement in writing.
+The defendant has, in my opinion, failed to establish that he andIdroos had carried on business in partnership.
+His appeal must therefore be dismissed, with costs.
+Schneider J.—I entirely agree.
+Appeal dismissed.

@@ -1,0 +1,42 @@
+﻿
+( 31 )
+VALLIAPPA v. PIERIES.
+D.&apos;C., Colombo, 9,640.
+Application for discharge by judgment-debtor—“ Bad faith”—Inquiryinto circumstances of original debt—Civil Procedure Code, ss.306, 307, and 311.
+In the ease of an application by a judgment-debtor under section306 of the Civil Procedure Code for discharge from custody, theconsideration of “ bad faith ” under sub-section (c) of section311 must be limited to the matter of the application for discharge,and it is not open to the Court to go behind the decree into whichthe original debt had been converted to see in what way theoriginal debt had been incurred.
+TN this case the defendant, who was in custody under the warrantof arrest issued at the instance of the plaintiff, petitioned theCourt for his dischaige under section 306 of the Civil ProcedureCode. The decree in the case against the defendant was one on apromissory note for Rs. 2,000. The Acting District Judge (Mr. F.Dias) entered into an inquiry into the circumstances in which thedebt on the promissory note had been contracted by the defendant,and held as follows : “ I think the cross-examination of the“ defendant and the evidence of the plaintiff leave no room for“ doubt that the defendant has deliberately defrauded his creditor,“ and so it. cannot belaid that he had not been guilty of bad faith“regarding the matter of his petition, namely, his release from“ jail in connection with the Rs. 2,000 debt. I think this is a“ matter which I am entitled to take into account under section“ 311 (c) of the Code.” He accordingly refused the application.
+In appeal, W. Pereira, for appellant.—The District Judge hadno right to go behind the decree and see in what way the original
+1897.
+November 3.
+( 32 )
+1897. debt had been contracted. The provisions of the Indian CodeNovember 3. analogous to those of section 306 and the following sections ofthe Ceylon Civil Procedure Code are to be found in sections 344to 360a of the Indian Code. There was a difference in the pro-cedure under the two Codes, the Indian Procedure requiring thedebtor to be first adjudged an insolvent and then discharged.Sub-section (c) of section 311 of the Ceylon Code, however, wasthe same as sub-section (d) of section 351 of the Indian Code, andin Butler v. Lloyd (XII., B. L. R., App. 12) “ bad faith ” in thelatter sub-section was limited to bad faith in respect of the applica-tion, and held not to extend to acts committed in incurring theliability, and in Salamat Ali v. Minahan (I. L. R., IV. AUa., 337)it was held that where the original debt had been converted intoa judgment debt the Judge should not go behind the decree tosee in what way the original debt had been incurred.
+Sampayo, for respondent, cited Bavachi v. Leslie (I. L. R., II.Mad., 219), in which it was held that a Judge is, under the abovesub-section of the Indian Code, entitle^ to enter into all acts ofbad faith towards creditors at the period at which the applicantwas contemplating insolvency.
+W. Pereira, contra.—The case of Bavachi v. Leslie had referenceto certain sub-sections of section 351 of the Indian Code which werenot copied into the Ceylon Code. Besides, the “ period ” mentionedin the judgment in that case can only be, in Ceylon, the period atwhich the applicant was contemplating his application for discharge,and that was, manifestly long after he contracted the originaldebt.
+Cur. adv. vull.
+3rd November 1897. Lawrie, A.C.J. —
+In these proceedings for the discharge from jail of a civil debtorit has been sufficiently proved that he has no property. Theevidence before it ought to have satisfied the Court of the factsrequired to be proved in section 311.
+But while the District Judge seems to be satisfied that thesefacts have been proved, he has refused&apos; to discharge the debtorbecause he deliberately defrauded his creditor in the making of thenote sued on.
+During the argument in appeal, I expressed the opinion thatthat was not one of the issues or matters which were relevant inan inquiry under sections 306 to 311. I remain of that opinion.I did not then remember the provisions of section 299, by whicha discretion is given to a Court to order in the decree that a defendantwho has fraudulently incurred a debt may be taken anddetained in execution for any time not exceeding six months.
+( 33 )
+That section seems to me to be in this debtor’s favour. Hiscreditor sued him for debt on a promissory note, and at the ex partehearing he said nothing about fraud, so that the Court had no reasonto include in the decree an order of detention in execution. Itseems to me to be too late now to make charges which ought to havebeen earlier made and substantiated, and that the penniless debtorought not to be remitted to jail.
+I897.
+Norember 3,
+I&apos;A.wriE-
+A.C.J.
+I agree that the order should be set aside and the debtor bedischarged.
+Browne, A.J.—
+Beading together our Insolvency Ordinance and the provisionsof sections 306-312 of the Civil Procedure Code, it would appearthat when a debtor in insolvent circumstances is now arrested hemay do one of three things :—
+Suffer detention for twenty-one days and then file his petitionfor adjudication (Ordinance 7 of 1853, sections 19 and 20).
+Petition at once, showing he can pay Rs 2 ■ 50 on every Rs. 10(section 20).
+Offer to hand over all his property whether or not it wouldpay such a dividend, or, if he has none, prove his poverty (CivilProcedure Code, sections 306, 307), and thereafter he may apply forhis discharge from the arrest. We are in this case concerned withthe third of these only.
+Ih the Indian Code of Civil Procedure this last course may(section 351, Indian Civil Procedure Code) pass him into the insol-vency side of the Court, but our Code limits the relief allowable tohim under section .311 to the mere discharge from the arrest, and ifhe or his creditors desire insolvency proceedings to follow thereafter,the ordinary procedure under the Insolvency Ordinance mustfollow.
+It was very possibly in view of the procedure in India beingsusceptible of extension to insolvency procedure [for which purposethe debtor there has (351 c) to negative any reckless contracting ofdebts 01 giving undue preference which our section 311 does notrequire] that it was there held that under the procedure now beingconsidered when a debtor applies to obtain his discharge from thearrest the Judge (not ought to, but) was entitled to enter into anyexamination of all acts of bad faith towards ere &apos;itors at the periodat which he was contemplating insolvency. In other cases verypossibly when the Court did not think it a proper oase for insolvencywith the formalities of receivership, &c., the consideration of bad
+Vol. III.12(56)29
+( 34 )
+1807.
+November 3.
+Browne,
+A.J.
+faith was limited to the matter of the application for dischargefrom custody, and it was held that the Judge should not go behindthe decree into which the original debt had been converted to see inwhat way the original debt had been incurred.
+I therefore consider that under our section 311 our courts havenot to consider this more remote question, for that is properly andonly determinable on the consideration of allowance of certificate ofconformity when insolvency proceedings shall supervene. Were itto be now considered and ruled in defendant’s favour it might bepossibly argued to be res judicata on an objection to allowance ofcertificate, and that section 312 might bar the detaining creditorfrom obtaining certificate R afterwards. The procedure in theCode must therefore be kept entirely distinct from our insolvencyprocedure.
+The order of this Court of the 19th August last therefore rightlylimited the procedure it directed to the consideration of bad faithin the matter of the application for discharge, and the District Courtwas wrong when it declined to read it in that restricted extent. Noconcealment, &c., of property has been established against the debtor,nor. any falsity in his averments made to satisfy what section 307requires, and the appellant is consequently entitled to his dischargefrom this arrest with costs of his application and of this appeal.

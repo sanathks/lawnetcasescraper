@@ -1,0 +1,61 @@
+﻿
+( 177 )
+Present: Lascelles C.J. and -Middleton J.
+RAMANATHAN CHETTY v. CASSIM et al.
+102—D. C. Matara, 4,835.
+– Mortgage bond—Action by mortgagee—No notice to subsequent lessee—Subsequent action against lessee does not lie—Civil Procedure Code,ss. 643, 644—Merger.
+A mortgagee who fails to give notice of his action on the mortgagebond to a subsequent lessee, who had duly registered his lease andaddress under section 644 of the Civil Procedure Code, cannot aftersale of the mortgaged land under his decree bring an action againstthe lessee to have the lessee’s interest in the land sold declaredbound and executable for the balance of the debt.
+A mortgage is, as a general rule, extinguished when themortgagee, by purchase or otherwise, becomes the owner of themortgaged property.
+JJlHE facts of this case are set out by Middleton J. as follows:—
+In the present case the plaintiff, as mortgagee of certain property,got a mortgage decree against his mortgagors—the first five defend-ants—without citing the sixth, seventh, and eighth defendants,lessees of the land by deed of lease from the first five defendants
+1 (1S74) L. R. 9 C. P. 400.May 30,1911
+17—J. S’. A 83848 (U/49)
+( 178 )
+May SQy 1911 dated subsequently to the mortgage. The ninth defendant wasRamanaihan a sub-lessee of one-fourth from the sixth, seventh, and eighthChmy v. defendants.
+The land was sold in execution and bought by the plaintiff at theFiscal’s sale, who obtained a Fiscal’s transfer. The sixth, seventh,and eighth defendants refused to give possession to the plaintiff.Later, the plaintiff, who had still some Rs. 10,000 to recover underhis mortgage debt, sued all the lessees in this hypothecary action,making the mortgagors again defendants, claiming that the leaseholdinterest of the sixth to the ninth defendants should be declaredbound and executable under his mortgage.
+The sixth defendant only answered, and the District Judge gavejudgment dismissing the plaintiff’s action, holding apparently thatthere was a merger of plaintiff’s mortgage bond in his former decree,and that the sixth defendant’s interest under his lease was notexecutable under the mortgage bond, as the lessee was not joinedin the hypothecary action, and &apos;his lease was prior in date andregistration to the plaintiff’s Fiscal’s transfer.
+The plaintiff appealed.
+Sampayo, K.C., for the appellant.—The District Judge is wrongin holding that the mortgagee’s and mortgagor’s rights have becomemerged. What the plaintiff bought was the land minus the lease.The right of the plaintiff as mortgagee is, therefore, not mergedaltogether in his ownership of the land.
+Lebbe v. Siddik1 relied on by the District Judge is no authority inthis case ; if the plaintiff had sued the lessee in ejectment, that casewould apply. In the present action we seek to. have the lessee’sinterest declared bound and executable. The plaintiff did notknow of the existence of the lease till after the decree. The plaintiffwas, therefore, unable to gather up all the interests in the first action.
+A. St. V. Jayewardene, for the respondent.—The mortgagee isnow the owner of the property. He cannot now get a hypothecarydecree. [Middleton J.—Is the plaintiff barred by section 34, CivilProcedure Code ?] Yes ; he should have included every claim inthe first action.
+The plaintiff had not complied with the provisions of sections 643and 644 of the Civil Procedure Code ; if he had, the lessee wouldhave been bound to give him notice of his lease ; and if the lessee didnot, he would lose his rights.
+The old hypothecary actions are no longer available under ourlaw ; the provisions of the Civil Procedure Code have to be followed.Counsel cited PunchiKira v. Sangu2, Santiago v. Fernando,3 Goonarwardene v. Silva,* and Bank of England v. Vagliano*.
+1 (1906) 3 Bal. 226.
+* (1900) 4 N. L. R. 42.
+(1901) 2 Br. 126.
+(1900) 1 Br. 254.
+8 (1897) A. C. 107.
+( 179 )
+Sampayo, K.C., in reply.—All that Bonser C.J. holds in the Mayio.micases cited is that a mortgagee cannot bring a hypothecary action ffnirrrflna^Linwithout joining the mortgagor, and nothing more. Under the Chettyy.Roman-Dutch law the mortgagee could either sue the debtor, or Gatl*msue the party in possession without suing the debtor. Bonser C.J.has merely held that this second action is not open now.
+Cur. adv. vult.
+May 30,1911. Lascbllbs CJ.—
+The first five defendants mortgaged certain property to theplaintiff. Subsequently to the mortgage the mortgagors leased theproperty to the sixth, seventh, and eighth defendants, who assignedone-fourth of their leasehold interest to the ninth defendant.
+Whether the mortgagee had notice of the lease is not clear. Theaverment in the answer of the sixth defendant, that the plaintiff waswell aware of the lease, and that it was executed with the plaintiff’sknowledge and consent, stands untraversed. But the point is notreferred to in the statement of facts to which the parties agreed, noris it the subject of an issue.
+The lessees and their assignor were not made parties to the action,nor did they receive notice of the summons under section 643 ofthe Civil Procedure Code ; presumably because the mortgagee, byfailing to furnish an address to the Registrar under section 644, hadnot given the lessees the opportunity of notifying their lease to themortgagee in accordance with section 643.
+The plaintiff proceeded to seize and sell the land under this decree,and at the sale he purchased it himself, and it was duly conveyedto him by a Fiscal’s transfer. A balance of the mortgage debt isstill due, and the plaintiff by this action claims that the propertymay be declared executable as against the sixth, seventh, eighth, andninth defendants for the balance of the debt. His claim for otherrelief has not been pressed either at the hearing or at the appeal.
+The appellant contends that it is now open to him notwithstand-ing his purchase of the mortgaged property, to enforce his mortgageagainst the leasehold interest of the respondent.
+On the other hand, it is contended that the occasion for the presentaction is the appellant’s failure to comply with the provisions ofchapter XLVI. of the Civil Procedure Code, and that the appellant,having failed to comply with the procedure there laid down, cannotbe allowed to maintain this action. It is clear-that if the appellanthad registered an address as provided by section 644, the res-pondent and the other lessees would have been bound by the decree,unless they had taken the steps prescribed by section 644 to bejoined as defendants.
+Sections 643 and 644 of the Civil Procedure Code were clearlyenacted with the intention of enabling all rights with regard to themortgaged property coining into existence subsequently to the date
+( 180 )
+May 30,2011
+Lascj&ujss
+(U.
+Ramcmathan
+(1heliy v.Cassii)
+of the mortgage to be disposed of once and for all in the course ofthe mortgage action. A mortgagee who has registered his mortgagebond, and also furnished an address to the Registrar, is amply pro-tected. Subsequent encumbrancers must either give him noticeof their encumbrances, so that they may be joined as defendants,or, if they fail to do so, they are bound by the decree in the action.To allow a mortgagee to neglect this procedure (the object of whichis to avoid expense and litigation) would be to drive a coach andsix through the statutory provisions of chapter XLVI. of the Code.It is true that it would have been open to the mortgagee to havejoined the lessees as defendants, the actio hypothecaria being stillavailable against puisne encumbrancers (Meyappa Chetty v. Rawther1)but the question here is, whether, having failed to do this in the firstinstance, and also having failed to protect himself by the procedurelaid down in chapter XLVl., he can now maintain this action.
+On the view which I take of the scope of Chapter XLVI. theanswer must be in the negative.
+There is another, and perhaps an even more substantial objectionto the present action. A mortgage is, as a general rule, extinguishedwhen the mortgagee, by purchase or otherwise, becomes the ownerof the mortgaged property (Voet 20, 6, I). Though there are someexceptions to this rule, it has not been shown, and I am unable tosee, that the plaintiff in this case is entitled to the1 benefit of anyof these exceptions, and on this ground, if no other, his actionmust fail. I would dismiss the appeal with costs.
+Middleton J. (after setting out the facts, continued):—
+The doctrine of merger of the mortgage bond in a judgment laiddown in The Government Agent v. Hendrick Hamy2 has been repu-diated apparently by the judgments of this Court in MadarLebbe v.Nagammd* and O. L. Meera Saibo Lebbe v. M. B. MohamaduIbrahim,4 and I think this case must be decided under chapter XLVI.of the Civil Procedure Code. The lessees duly registered their leaseand their addresses under section 643 of that chapter, and theplaintiff did not cite them, as he ought to have done, if he desired tobind them by his original hypothecary decree.
+The purchase by the plaintiff under the Fiscal’s transfer was,therefore, as Mr. de Sampayo admits, subject to the lessees’ rights.The remedy the plaintiff had against the lessees was available tohim at the date of his first hypothecary action, and his cause ofaction on the bond would entitle him to include a claim against thelessees, which he failed to make.
+I think, therefore, that he is now barred by section 34 from bringinga second action without having obtained the leave of the Court todo so.
+1 (1903) 6 N. L. R. 220.3 (1902) G N. L. R. 21.
+* {1894) 3 C. L. R. SO.4 (1901) > Brown* 210.
+( l«i )
+As regards this view being an infringement of the substantive lawof a mortgagee’s rights to follow the mortgaged property—if this bethe effect—the Legislature, and not the Courts, must be deemedresponsible.
+I cannot see also that counsel for the respondent in the argumentsraised by him has gone behind the first issue, which would have hadto be answered in the negative at the inception of the present actionas at this stage. 1 would dismiss the appeal with costs.
+Appeal dismissed.
+May 30,1011
+MlDDLKXOir
+J.
+ItamanalhanChetly v.Cat-vim

@@ -1,0 +1,154 @@
+﻿
+( 465 )
+Present; Bertram C.J. and Garvin and Jayewardene A.JJ.RAN MENIKA v. DING1RI BANDA.
+63—D. C. Ralnapura, 3,661.
+Decree for declaration of tide and costs—Execution against the person forcosts—Writ cannot issue against person before writ issues againstproperty—Civil Procedure Code, ss. 353, 209, 298, and 299.
+An order for payment of costa is enforcible by attachment of theperson. The circumstance that the person in whose favour theorder for costs was made is also the holder of a decree for declarationof title and ejectment does not affect his rights.
+A writ of execution against person cannot issue, unless a writagainst property had issued previously.
+I
+N this case the judgment-creditor sued the judgment-debtor fordeclaration of title to a three-eighth share of a piece of land
+and damages.
+The Supreme Court on appeal entered judgment declaring thejudgment-creditor entitled to a one-eighth sh&re of the lands inclaim, and decreeing that the judgment-debtor be ejected therefromand the judgment-creditor be put, placed, and quieted in possessionthereof, and also that the judgment-debtor do pay to the judgment-creditor her /taxed costs of this action in the District Court aS wellas in appeal.
+The judgment-creditor’s, bill having been taxed at Rs. 752*84£,she made an application for writ which having been allowed, shethereafter issued notice on the judgment-debtor under section 219of the Civil Procedure Code.
+The judgment-debtor stated when examined: “ I have noproperty whatever. All I had has been sold.”
+The judgment-creditor thereupon, without applying for writagainst property, applied for and obtained a writ against theperson of the judgment-debtor to recover the sum of Rs. 752&apos;84£due from him as costs.
+The proctor for the judgment-debtor moved that the warrant ofarrest issued against the defendant be cancelled, and that noproceedings be taken against the person of the defendant, in viewof the fact that the decree against the defendant is not one inexecution of which writ can issue against the person of the defendant.The learned Judge made order allowing the application.
+The judgment-creditor appealed.
+Soertsz (with him Da Brera), for the plaintiff, appellant.—TheDistrict Judge has refused a writ following Soysa v. Soysa.1 This
+1 (1892) 2 C. L. R. 15.
+34-xxv.12(60)29
+1924*
+( 466 )
+1924.
+Ran Menikav. DingiriBanda
+judgment is not sound. It is not based on a correct interpretationof the relevant sections of the Code. It would be most anamolousif a defendant, who is entitled to costs only of, say, Rs. 201, shouldbe entitled to writ against the plaintiff’s person, but that aplaintiff who gets both declaration of title to land and costs, say,Rs. 1,000, should not be entitled to writ against the defendant’sperson. Such results could not have been intended. An orderfor costs ought to be treated as a decree for money by virtue ofthe provisions of section 353 of the Civil Procedure Code, andexecution against person can issue in the ordinary course as in .allmoney decrees.
+Jayasuriya, for- the defendant, respondent.—Where there is adecree for some specific movable or immovable property, togetherwith an order for costs, no writ against the person can issue, asthere is no “ sum awarded ” exclusive of costs within the meaningof section 299 of the Civil Procedure Code. The Code does notseem to have intended to treat orders for costs as decrees for moneyfor all purposes. Where costs are to be treated as money decrees,the Code makes express provision to that effect. See sections 209and 635. Counsel cited Soysa v. Soysa (supra), Pullenayagam v.Pullenayagam,1 and Fraser v. Vytianathan.2
+No writ against property was issued in this case. No writAgainst person can issue before writ against property is issued.The mere fact that the respondent was examined under section 219,and that he declared that he had no property, is not a sufficientground for issuing writ against the person of the defendant. Section298 is a penal provision, and should be strictly construed (see Costav. Perera3 and Nadar v. Nadar4).
+Soertsz, in reply.—The debtor stated in Court when examinedunder section 219 that he had no property. There was no use inissuing writ against property.
+July 2, 1924. Gabvin A.J.—This case, which was first heard by my Lord the Chief Justiceand myself, was after argument reserved for a Bench of threeJudges, as doubts had arisen as to the soundness of the ruling ofthis Court in the case of Soysa v. Soysa (supra).
+The question for decision is, whether a person who has by a decreebeen declared entitled to immovable property and to eject thedefendant therefrom can take the person of the defendant inexecution in yespects of the costs of action awarded him by the
+1 (1892) 2 C. h. R. 82.3 (1913) 17 N. L. Rt 319.
+* (1922) 23 N. L. R. 488.4 (1916) 19 N. L. R. 268.
+( 467 )
+Court. The propositions laid down in Soysa v. Soysa (supra)are as follows :—
+A plaintiff is entitled to take the defendant’s person in
+execution only when the decree awards him a sum ofmoney and that sum exceeds Rs. 200.
+When by a decree some other specific relief (such as a
+declaration of title or ejectment) is awarded, the decree-holder may not in enforcement of an award of costswhich exceeds Rs. 200 take the person of the judgment-debtor in execution.
+A “ decree ” for costs only may be enforced by seizure of
+the plaintiff’s person.
+These propositions, it was thought, followed necessarily from aconsideration of section 299 of the Civil Procedure Code andcertain other sections of that Code referred to in the judgment ofBurnside C. J., who, in the course of his judgment, observes—
+“ What the remedy is for costs upon such decrees (i.e., decreesfor specific relief other than a sum of money)—and theremust be some remedy—I am not called on to decide inthis case.”
+The concession in favour of a “ decree ” for costs only wasapparently made for the reason that the learned Judge thoughtthat section 209 declared that an order for costs only was a decreefor money. But that section only declares it to be a decree formoney “ within the provisions of section 194 as to payment byinstalments ” and not for every purpose of the Code. This sectiondoes not afford a sufficient foundation for the proposition that anorder for costs only is “ a decree for money ” and enforceable assuch.
+If the law as stated in Soysa v. Soysa (supra) be correct, then inthe numerous actions which eventuate in other than moneydecrees a successful plaintiff is not only debarred from taking theperson of the defendant in execution for his costs which oftenamount to several times two hundred rupees, but is presumablywithout any remedy at all in respect of an award of costs made inhis favour..
+On the other hand, in every case in which an action is dismissedwith costs, the defendant may, if his costs exceed Rs. 200, claim toto be the holder of a decree for money, and proceed to enforce it,if need be, by attachment of the plaintiff’s person.
+I must respectfully dissent from the view that a correct readingof the Civil Procedure Code leads to any such anomalies or distinc-tions. In the interpretation of a Code it is of importance to bearin mind the particular meanings which are assigned by theinterpretation clause to the words and expressions used in thatCode. “ Decree ” as used in the Civil Procedure Code means
+1924.
+Gabvin A.J.
+Ban Menikav. DingiriBanda
+( 468 )
+1®24.“ the formal expression of an adjudication upon any right claimed
+Oabvxk a.J. or defence get up in a Civil Court when such adjudication so far as
+„ &apos; &apos; -.. regards the Court expressing it decides the action or appeal.” InRan Menika ®,.r "T®.,
+v. Dingiri its correct significance, therefore, a decree is the formal expression
+Banda 0f the Court’s adjudication on the right claimed or the defenceset up. It has no concern with costs which a Court may or may. not order, though for purposes of convenience an order for costswhen made is recorded as a further order—not decree—on thesame paper as the decree, vide form No. 41.
+Out of this practice has grown the somewhat loose user ofexpressions such as “ costs decreed,” “ decree for costs only,”“ decree for substantive relief and costs,” “ the part of the decreewhich relates to costs,” which in their turn give rise to the mis-conception that the Civil Procedure Code contemplates “decreesfor costs ” or “ decrees for substantive relief and costs.”
+Having defined a “ decree ” the Court proceeds in section 217to classify decrees, with reference to the nature of the relief whicha Court may grant under the following heads :— –
+To pay money;
+To deliver movable property;
+To yield up possession of immovable property
+To grant, convey, or otherwise pass from himself any rights
+to, or interest in, any property ;
+To do any act not falling under any one of the foregoing
+heads;
+or it may enjoin that person—
+(/) Not to do a specified act, or to abstain from specified conduct&apos;or behaviour;
+or it may without affording any substantive relief or remedy—
+(g) Declare a right or status.
+It then lays down a separate procedure to be followed in the1enforcement of each of the several classes of decrees. Neither inthe classification of decrees, nor in the 50 odd sections which relateto their enforcement, is there any warrant for the notion that costsare a part of the decree, or that the word decree is used in aDysense other than that which is assigned to it in the interpretationclause.
+In the procedure prescribed for the enforcement of a decree topay money there are two stages : First, the seizure and sale of thedebtor’s property in pursuance of a writ of execution in that behalfissued to the Fiscal; and second, where the debt remains unsatisfied,the attachment of the person of the (debtor.
+As has already been observed a special and separate procedureis prescribed by the Code for each class of decrees. So that it iscorrect to say that the procedure-for the attachment of the person
+( *69 )
+of the judgment-debtor is by the Code limited to the case of decreesto pay money.
+This brings one to section 299 of the Code, which is the foundationfor the decision in Soysa v. Soysa (supra). The material words inthat section are—
+No warrant for the arrest of a judgment-debtorshall, except as in this section otherwise provided, issue inexecution of a decree wherein the sum awarded, inclusiveof interest, if any, up to the date of the decree, butexclusive of any further interest and of costs, shall notamount-to two hundred rupees or upwards.”
+The meaning of the section is plain and unambiguous. It.prohibits the issue of attachment against the person of the judgment-debtor unless fcln decree itself awards a sum of Rs. 200 exclusive ofinterest after date of decree, and expressly forbids such furtherinterest or the amount of any costs awarded being added to theamount decreed for the purpose of bringing the total up to Rs. 200or more.
+The section is explicit in itself, and being one of a* series of sectionsconcerned with the enforcement of decrees to pay money, it isbeyond question that its provisions have no application to decreesfalling under any of the other heads of the classification made insection 217, and cannot .therefore refer to a decree declaring aplaintiff entitled to land. It appears to have been assumed inSoysa v. Soysa (supra) that this concludes the question. Butdoes it ? It leaves the whole question of the enforcement of aCourt’s award of costs undecided. This matter of costs is whollyindependent of decrees and the enforcement thereof. A Courtderives its power to award costs from section 209 of the Code,which runs as follows :—
+“When disposing of any application or action under thisOrdinance, whether of regular or of summary procedure,the Court may, unless elsewhere in this Ordinanceotherwise directed, give to either party the costs of suchapplication or action, or may reserve the consideration ofsuch costs for any future stage of the proceedings; anyorder for the payment of costs only is a decree for moneywithin the provisions of section 194 as to payment byinstalments.”
+It is by virtue of the power thereby conferred that a Court makesan order as to costs. – Such.an order is not a decree, and finds noplace either in the classification of decrees or in the procedureprescribed for the enforcement of decrees. It is frequentlyembodied in the same paper as the decree by way of a further and
+1924*
+Gabvin A.J.
+Ban Menthav. DingiriBanda
+( 470 )
+additional order. An order for costs only is to be deemed & decreeQABvnr A.J. for money, but only for the purpose of section 194 as to paymentBan3denika ^7-instalments.
+v. Dingiri How is such, an order to be enforced ? Is there no remedyBanda at all ? The answer is to be found in section 353 of the Code—
+“ Every order made by a Court, in any action or proceedingbetween parties, for payment of money not being a fine,shall have the effect of a decree for the payment ofmoney, and on default of payment according to its termsshall be enforceable upon the application of the partyat whose instance it was made in like manner as a decreefor money.”
+An order for costs is undoubtedly an order for payment ofmoney. It is not a decree for the payment of money, but has theeffect of a decree for payment of money and is enforceable “ inlike manner as a decree for money.”
+The procedure for the enforcement of a decree for money noticedearlier in this judgment entitles the holder of such a decree to writagainst property, and should that fail in its purpose to proceed,subject to the limitations prescribed in sections 298 and 299, toattach the person of the judgment-debtor.
+An order for payment of costs is similarly enforceable. Itfollows, therefore, that a person in whose favour an award for costshas been made may, if those costs amount to or exceed Bs. 200,proceed to the attachment of the person of the party againstwhom the award is made. The circumstance that such a person isalso the holder of a decree for specific relief other than the paymentof money is immaterial and cannot affect the matter. Theenforcement of the decree depends on the class of the decree andthe procedure prescribed by the Code for the execution of suchdecrees; an order for costs is enforceable in the same manner as adecree for money.
+A consideration of all the material provisions of the Code leadsme to the following conclusions :—
+i
+—An order for costs is not a decree except when it is—
+(а)An order for costs only which is deemed to be a
+decree for the purposes of section 194 as topayment by instalments.
+(б)An order for costs made upon the dismissal of an
+action for want of jurisdiction which a Court is&apos; empowered to make and which is speciallydeclared to be a decree for the payment ofmoney within Chapter XX. of the Code (videsection 635).
+( 471 )
+—A decree for money may be enforced by attachment, subject i924.
+to the exceptions-and limitations prescribed by the Code, gabvtn A.J.
+when the sum awarded computed up to the date of theaward amounts to or exceeds Rs. 200.
+—An order for costs is enforceable in like manner as a decree
+for money, and where the amount of costs payableestimated up to the date of the order amounts to orexceeds Rs. 200, attachment of the person may similarlybe obtained.
+—In the result a person who* obtains a decree for money as
+well as an order for his costs may issue attachment againstthe person of the defendant—
+If the sum awarded by the decree amounts to or
+exceeds Rs. 200 ; or
+If the costs awarded amount to or exceed Rs. 200.
+But he may not attach the person of the defendant
+if the amount decreed and the amount of costs
+awarded each fall below Rs. 200 but together
+amount to or exceed that limit.
+%
+—A decree for substantive relief other than the payment of
+money is enforceable in the manner prescribed for theenforcement of decrees of the class to which it belongs.
+When the holder of such a decree has also been awardedhis costs, he may proceed to enforce the order for his costsin the manner prescribed for the enforcement of decreesfor money, and if the costs awarded amount to or exceedRs. 200, he may, subject always to the limitations imposedby the Code, proceed to the attachment of the person ofthe judgment-debtor.
+The learned judges who decided the case of Soysa v. Soysa(supra) appear to have been in error in supposing that the Codehad provided no procedure for the enforcement of an order forcosts made in favour of a person who has obtained a decree forspecific relief other than the payment of money. In my viewof the law, the appellant would have been entitled to succeed.
+But learned counsel for the respondent sought, to maintain theorder of the District Judge upon a ground other than that uponwhich it was based.
+In this case an application for a writ of execution against theproperty of the judgment-debtor had been applied for and allowed.
+But no writ was actually issued to the Fiscal. The judgment-creditor moved to examine the defendant under section 219 of theCode. In the course of that examination the defendant statedthat he had no&apos;property at all. Thereupon, and specifying thatas the ground of his application, the judgment-creditor, who is theappellant, moved for attachment of the person of the defendant.
+Ran Menikav. DingiriBanda
+( 472 )
+1924.
+Garvin A.J.
+Ran Menikav. DingiriBanda
+This was granted, but upon a motion by the defendant’s proctorthe warrant was recalled on the authority of the ruling in Soysa v.Soysa (supra).
+It is contended that the Court had no power to issue attachmentagainst the person of the defendant, inasmuch as writ againstproperty was never issued. Counsel relies on the language ofsection 298, which he contends requires as a condition precedentto the issue of attachment that a writ of execution against propertyshall have issued to the Fiscal.
+Section 298 runs as follow^ :—
+“ If the Fiscal return to the writ of execution that he is unableto find any property of the judgment-debtor, movable orimmovable, or if before the return to the writ of executionis made the Court is satisfied oh the application of thejudgment-creditor made by petition, to which thejudgment-debtor need not be named respondent, thatthe judgment-debtor—
+(a)………
+<*>
+………
+&apos; (d)
+the Court may issue a warrant for the arrest of thejudgment-debtor, but in no case whatever shall the Courtissue a warrant ….
+The words, of the section appear to me to support the contention.It is argued, however, that “ before the return to the writ ofexecution,” marks a point of time at any time before which aCourt is satisfied of any of the matters specified in heads (a), (6),(c), or (d) may issue attachment. I cannot assent to the argumentthat a Coqrt may issue attachment even though amt has neverissued.
+The stage before which a Court may be so satisfied is the stagebefore return is made to the writ, and this seems necessarily toconnote that a writ has been issued. There can never be a returnby the Fiscal to a writ which has not been issued. The provisionsof the Code relating to the arrest of the person of a judgment-debtorare in their nature penal, and should be strictly construed (videCosta v. Perera (supra)). A j udgment-debtor may, of course, proceedby petition to satisfy the Court of all or any of the matters specifiedin clauses (a), (6), (c), and (d) immediately after the writ has issuedto the Fiscal, and it may seem somewhat futile to have to waittill the writ is so issued. But in a matter affecting the liberty ofthe subject, even a mere formality must be complied with so longas it is required by the law.
+( 473 )
+No writ of execution against his property was issued in this case,and no attachment of the defendant’s person could therefore issue(vide Nadar v. Nadar (supra) ).
+The appeal must be dismissed with costs.
+Bertram C J.—I agree.
+JAYEWARDENE A*J
+I have had the advantage of reading the judgment of my learnedbrother Garvin A. J., and I entirely agree with his reasoning and theconclusions reached.
+In Soysa v, Soysa (supra), Burnside O.J. stated 1n the form ofpropositions the rules regulating the issue of warrants against theperson of parties directed to pay costs. One "of his propositionswas that “a plaintiff obtaining a specific decree in respect ofmovable or immovable property with costs can never issue executionagainst the person whatever the costs may be, because the decreeis not one for money, but for some substantive relief together withcosts, and execution could not go for costs alone because there isno sum awarded exclusive of costs.”
+•This proposition was based on the words of section 299 whichdeals with the issue of writs against persons&apos; in action for debt ordamages. This section (299) is one with a history locally. .Itdoes not appear in the Indian Civil Procedure Code, from whichmost of the other sections dealing with execution have beenborrowed. It was first enacted as section 164 of the InsolvencyOrdinance, and ran thus—
+“ That from and after the commencement of this Ordinance,no person shall be arrested in mesne process or taken orcharged in. any execution upon any judgment obtainedin any Court of this Colony in any action for the recoveryof any debt contracted subsequently to the time whenthis Ordinance comes into operation, wherein the sumclaimed or recovered shall not exceed the sum of tenpounds, exclusive of interest and of the costs recoveredby such judgment.”
+Section 164 was repealed by Ordinance No. 24 of 1884 andre-enacted with an alteration in section 5 thus—
+“ From and after the passing of this Ordinance, no person shallbe arrested on mesne process, where the sum claimedshall not exceed- Bs. 100, and no person shall be taken orcharged in execution upon any judgment obtained in anyCourt of this Colony in any action for the recovery of anydebt contracted subsequently to the passing of the principalOrdinance (No. 7 of 1853) aforesaid, wherein the sumrecovered shall not exceed the sum of Bs. 100, exclusiveof interest and of the costs recovered by such judgment.”
+1924.
+Gabvin A.J.
+Ran Menikav. DingiriBanda
+1924.
+JaybwabDBNB A.J.
+Ran Menikav. DingiriBanda
+When the Code was enacted this section was embodied in themain provisions of section 299 with the alteration that the interestup to the date of the decree should be regarded as part of the sumawarded. According to the provisions of this section historicallyconsidered, a defendant is not entitled to a writ against the personof the plaintiff for costs.
+The issue of a writ by a defendant for costs can only be justified&apos;under section 353 of the Civil Procedure Code. Section 299must, in my opinion, be confined to cases where the claim is for adebt or damages. The Code makes no express provision for theissue of writs against the. person for costs where the Court makes aspecific decree for movable and immovable property and alsoallows costs. In such cases the order for costs has been left to bedealt with under the general sections 209 and 353. For a Code isintended to be exhaustive on any point dealt with by it.
+Appeal dismissed.

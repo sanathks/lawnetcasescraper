@@ -1,0 +1,38 @@
+﻿
+( 210 )
+Preeent: Lascelles C.J. and Wood Benton J.
+FONSEKA v. TJKKUBALA.201~-D. C. Kunmegala, 4,237.
+Claim—Claimant absent at inquiry owing to mistake of the Court—Claimdismissed—Order &apos; notconclusive—Civil Procedure Code, ss. 247
+end 245.
+Where the claimant was prevented from attending1 at the inquiryprosecuting hisby a mistake on the part of the Court,
+and the Court dismissed the claim owing to the absence of theclaimant—
+Jield, that the order was not a valid order under section 245 ofthe Civil Procedure Code, and that it was not conclusive within themeaning of section 247.
+fjl HE facts are fully set out in the judgment.
+4- St. V. Jayewardene, for the appellant,if. A. Jayewardene, for the respondent.
+The following cases were cited at the argument: Muttu Menikav. Appuhamy,1 Sinnatamby v. Rarnanathan,2 Silva v. Wijesinghe*Chandra Bhusan Gangopadhya v. Ramkauth Banerji.4
+Cur. adv. vult.
+February 16, 1912. Lascelles C.J.—
+This is an appeal from a decision of the District Judge of Kurune-gala in the course of a partition action. The question relates tocertain shares purchased by the plaintiff under a writ against oneKuramuttu Chetty, which at the time of the sale were claimed bythe defendant, and the question is whether or not a certain ordermade in the claim proceedings is res judicata against the defendant.The material facts and dates are the following. On October 10the Fiscal forwarded the claim, and the inquiry was fixed forNovember 14, notice being returnable on November 1. OnNovember 1 the journal entry is “ Claimant absent, and has failedto issue notice; claim disallowed This order is admittedly wrong.It was made under the mistaken impression that the inquiry wasfeed for November 1. However, the land was sold on November 27.On December 6 the Judge made an order to &apos;Vacate the order dis-allowing the claim. On December 24 another District Judge refused
+1 c1911) 14 N. L. R. 329.* 2 C. L. R. 14$.
+* (1905) 2 Bat. 38.* I. JU B. 12 Cal. 108.
+( 220 )
+1912.
+Lasckli.es.
+C.J.
+Fonaeka v.Ukkurala
+to inquire into the claim, apparently treating the order vacating theorder disallowing the claim as a nullity. In the present case thelearned District Judge considers that the order vacating the orderof November 1 was a proper order, and that, in any case, so long asthat order stands, there is no adjudication on the claim. Before theplea of ret judicata can. succeed, it must be established (1) that theorder of November 1 is such an order as is conclusive within themeaning of section 247 of the Civil Procedure Code, and (2) thatorder vacating the above-mentioned order is a nullity, so that theformer order is in force.
+With regard to the first point, the question&apos; whether the order ofNovember 1 is conclusive within the meaning of section 247 of theCivil Procedure Code depends upon whether it is an order passedagainst a party, under section 245 (for sections 244 and 246 are notapplicable). Can, then, an order be regarded as an order passedunder section 245, when it was made in the absence of the claimantand not on the date for which the inquiry was fixed, but oo anotherdate, of which the claimant had no notice? In. other words, can anorder be treated as a valid order made under section 245 in thecourse of a claim investigation when- the claimant was preventedfrom attending at the inquiry and prosecuting his claim by aTr.intn.ltfl on the part of the Court? Apart from authority, it seemsto me that the answer to these questions must be in the negative.But the Indian case of Chandra Bhutan Oangopadhya v. RamUauthBannerji 1 is in point, although the facts in that case were not thesame. There the claim was disallowed on the ground of a discre-pancy between the boundaries of the property seized and thosestated by the claimant, and it was held that the order disallowingthe claim on this ground was not .an order under section 281,corresponding with section 245 of our Code. But the observationsof the learned Judge are in point. “ The order contemplated bythat section ”, said Field J., “ is an order made after the investigationmentioned in section 278. Section 280 commences, * If upon thesaid investigation the Court is satisfied ’, Ac. Section 28.1 begins,‘ If the Court is satisfied ’.‘ Satisfied ’ clearly means satisfied upon
+the investigation ”.
+In the present case it seems to me that the investigation contem-plated by the Code was never made, inasmuch as a mistake wasmade in fixing the date of the inquiry, which for all practical purposesprecluded the claimant from attending the inquiry and puttingforward his claim. The present case is, of course, essentially differentfrom the case where a claimant having received notice of the dayfixed for inquiring fails to appear, and the claim is disallowed inhis absence. It being clear that the order of November 1 is not aconclusive order made under a claim inquiry, and that it does not
+» I. L. ft. U Cai. 108.
+( 221 )
+constitute an adjudication of the title to the property now in dispute,it is not necessary to discuss the value and effect of the order vacatingthe order of November 1.
+In my opinion the appeal should be dismissed with costs, and thecase go back for trial on the other issues.
+Wood Benton1 J.—
+The plaintiff-appellant sues the defendant-respondent for thepartition of two lands, allotting to himself a one-half share of each.The appellant purchased the shares in execution of a writ againstKuramuttu Chetty. The respondent claimed them on October 10,1905. The claimant was directed to issue notice for November ltand the claim inquiry itself was fixed for November 14, 1905. OnNovember 1 the District Judge made an entry that the claimantwas absent and had failed to issue notice, and disallowed his claim.The claimant brought no action under section 247 of the CivilProcedure Code. Under these circumstances, the question has nowarisen whether the disallowance of the respondent’s claim operatesas res judicata, so as to preclude him from disputing, as he seeks todo, the appellant’s title to the lands in suit in the present action.The District Judge has answered this question in the negative,and I think that he is right. There is, to my mind, no doubt butthat where, as in Muttu Menika v. Appuhamy,1. the provisions ofsection 247 of the Civil Procedure Code apply, a claimant whoseclaim is disallowed must adopt the remedy prescribed by thatsection. But section 247 applies only in cases where an order hasbeen made under section 244, 245, or 246, and these sectionscontemplate something in the nature of an investigation as acondition precedent to the order. In Muttu Menika v. Appu-hamy,1 as I have just satisfied myself by reference to the originalrecord, the claimant had express notice of the date of the inquiry;the inquiry was held on the day fixed, but she did not appear or putbefore the Court, as she might have done, even if absent, as shesubsequently and, perhaps, truly said,, from illness, other evidence insupport of her case. Both sides would seem to have been legallyrepresented. On. these facts, the order disallowing her claim was,in my opinion, one to which the provisions of section 247 applied.In the present case, however, the inquiry was held on a day forwhich notice had not been given; and a claim was dismissed onNovember 1, which the claimant was not bound to support tillNovember 14. I do not think that it can fairly be said to have beenthe subject of any such investigation as. to attract to the orderdisallowing it the provisions of section 247. I would dismiss theappeal with costs, and send the case back to the.District Court fortrial on the remaining issues.
+Appeal ditmiseed.
+1 (1911) 14 N. L. R. SS9.
+1912.
+Lascelt.es
+OJ.
+Fonaeka v.Ukkurala

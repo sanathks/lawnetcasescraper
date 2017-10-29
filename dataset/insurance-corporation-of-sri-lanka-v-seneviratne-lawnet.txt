@@ -1,0 +1,101 @@
+﻿
+396
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+INSURANCE CORPORATION OF SRI LANKA
+v.SENEVIRATNE
+COURT OF APPEALWEERASURIYA, J. (P/CA) ANDBALAPATABENDI, J.
+CA NO. 1176/95 (F)
+DC COLOMBO NO. 6096/MJANUARY 30, 2002
+Insurance – Contract of Insurance – Damages – Breach of the policy of Insurance- Is the owner entitled to claim damages as consequential loss arising from thebreach of contract? – Does the law of insurance permit recovery of consequentialloss? – Does the doctrine of remoteness prevent a claim for damages fromconsequential loss?
+The plaintiff-respondent claimed a sum of Rs. 200,000 as damages for breachof the contract of Insurance entered into with the defendant-appellant in respectof his car and a further sum of Rs. 100,000 and Rs. 5,000 per month asconsequential loss purportedly arising from the said breach of contract.
+The District Court granted all reliefs.
+On Appeal –
+Held:
+It is a fundamental rule of Insurance Law that the Insurer is only liableto losses proximately caused by the peril covered by the policy.
+It is a general rule applicable to contracts of insurance that if the insurancepolicy is a valid policy the amount recoverable by the assured is the agreedvalue.
+The plaintiff-respondent has failed to produce any documentary evidencein proof of any claim in respect of expenses incurred in obtaining alternativetransportation.
+CA
+Insurance Corporation of Sri Lanka v. Seneviratne
+(Weerasuriya, J.)
+397
+The award of Rs. 100,000 and Rs. 5,000 per annum as consequentialloss has no basis.
+APPEAL from the judgment of the District Court of Colombo.
+Cases referred to :
+Hadley v. Baxeudale – 1854 9 EX 341.
+Victoria Laundry v. Newman – 1949 vol. 22 KB 528.
+Eeise v. Aguiar – 1811 – 3 Taunt.
+S. A. Parathaiingam, PC with Kuvera de Soyza for defendant-appellant.
+A. S. M. Perera, PC with Hemantha Situge for plaintiff-respondent.
+Cur. adv. vult.
+March 07, 2002
+WEERASURIYA, J. (P/CA)
+The plaintiff-respondent brought this action against the defendant- 1appellant claiming a sum of Rs. 200,000 as damages for breach ofthe contract of insurance entered into with the defendant-appellant inrespect of car bearing registered number 15 Sri 2890 and a furthersum of Rs. 100,000 and Rs. 5,000 per month as consequential losspurportedly arising from the said breach of contract.
+The defendant-appellant in its answer whilst denying liability prayedfor dismissal of the action.
+This case proceeded to trial on 14 issues and the learned DistrictJudge by his judgment dated 11. 01. 1995, entered judgment for the 10plaintiff-respondent as prayed for in the plaint. The present appealis from the aforesaid judgment.
+398
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+At the hearing of this appeal, learned President&apos;s Counsel for thedefendant-appellant did not seek to canvass the award of Rs. 200,000as damages arising from breach of the policy of Insurance in respectof car bearing registration No. 15 Sri 2890.
+However, he submitted that learned District Judge has misdirectedhimself in awarding damages in a further sum of Rs. 100,000 andRs. 5,000 per month on the basis of consequential loss purportedlyarising from the said breach of the contract of insurance.20
+The plaintiff-respondent was the owner of motor car bearingregistration No. 15 Sri 2890 and on or about 28. 12. 1987, the plaintiff-respondent and the defendant-appellant entered into a contract ofinsurance No. A/11/084966/10/10 in respect of the said motor car,for a sum of Rs. 200,000. On or about 29. 02. 1988 the said motorcar driven by the plaintiff-respondent met with an accident resultingin damages beyond repair. The plaintiff-respondent made his claimfrom the defendant-appellant for the total insured sum of Rs. 200,000.The defendant-appellant offered a sum of Rs. 190,000 on a total lossand directed the plaintiff-respondent to surrender the damaged vehicle 30along with the relevant documents. Thereafter, the defendant-appellantby letter dated 10. 06. 1983, acting contrary to the aforesaid offer,rejected the claim of the plaintiff-respondent on the ground that, hehad violated the provisions of clause 5 of the general exceptionscontained in the policy of insurance.
+The finding of the learned District Judge that, there was a breachof the contract by the defendant-appellant and therefore it was liableto pay Rs. 200,000 remain unassailed, since learned Counsel for thedefendant-appellant did not seek to canvass it.
+CA
+Insurance Corporation of Sri Lanka v. Seneviratne
+(Weerasuriya, J.)
+399
+However, the question that arises for determination in this appeal 40is whether the plaintiff-respondent is entitled to claim damages asconsequential loss purportedly arising from the said breach of contract.
+The contention that no liability could be attached to the defendant-appellant to pay damages for any consequential loss purportedlyincurred by the plaintiff-respondent was founded on the followingbasis :
+that in the law of contracts doctrine of remoteness of damagesprevents a claim for damages arising from consequentialloss;
+that the law of insurance does not permit recovery of 50consequential loss; and
+that clause 1 in the policy of insurance (PI) exempts thedefendant-appellant from any liability to pay any consequentialloss.
+Learned President&apos;s Counsel for the defendant-appellant cited thefollowing cases in support of his contention :
+Hadley v. Baxendale.m
+Victoria Laundry v. Newman.®
+In Hadley v. Baxendale (supra) it was held that where two partieshave made a contract which one of them has broken, the damages sowhich the other party ought to receive in respect of such breach shouldbe such as may fairly and reasonably be considered either arisingnaturally, ie according to the usual course of things from such breachof contract itself or such as reasonably may be supposed to havebeen in the contemplation of both parties at the time they made thecontract as the probable result of the breach of it.
+400
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+In Victoria Laundry v. Newman (supra) following propositions werelaid down :
+that in cases of breaches of contract the aggrieved party
+is only entitled to recover such part of loss actually resulting ?oin as was at the time of the contract reasonably foreseeableas liable to result from the breach;
+that what was at that time reasonably so foreseeable dependson the knowledge then possessed by the parties or at allevents by the party who later commits the breach;
+that for this purpose &apos;knowledge possessed&apos; is of two kinds,one imputed the other actual. Everyone as a reasonableperson is taken to know the ordinary course of things andconsequentially what loss is liable to result from a breachof contract in that ordinary course.80
+Macgillivary and Parkington on Insurance Law (8th edition – page1562 – chapter 22) states as follows on consequential loss :
+"An insurance policy will prima facie cover only loss or damageto the property insured and not consequential damages. Thus, asimple insurance on property does not cover loss of rent, occupancy,business, profits, wages of servants or workmen rendered idle orother consequential damage. Any such loss can however beexpressly insured and loss of rent and non-occupancy duringrepairs are very common subjects of insurance. Business profitmay also be insured and owners of monopolies such as patent 90rights may insure against diminution of royalties consequent uponthe premises of licensee being destroyed by fire. Similarly, no
+CA
+Insurance Corporation of Sri Lanka v. Seneviratne
+(Weerasuriya, J.)
+401
+policy will be held to cover a merely sentimental loss. It is usuallysaid that such losses are too remote to be recoverable sincethey are not proximately caused by the peril insured against, butthe better view is probably that on a true construction of the policiesconcerned, such losses are not provided for."
+It is a fundamental rule of insurance law that the insurer is onlyliable for losses proximately caused by the peril covered by the policy.
+The consequential loss claimed by the plaintiff-respondent is based 100upon the following averments in paragraph 11 of the plaint :
+that the plaintiff-respondent is a medical specialist;
+that the plaintiff-respondent does extensive travellingislandwide;
+that the plaintiff-respondent as a matter of practice travelsto see his patients.
+Those averments were clarified by him in his testimony as follows :
+that he is a specialist in treating snake-bites;
+that he is the only such specialist in Sri Lanka;
+that he conducts lectures at the Police Training School, 110Teachers Training Schools and Universities; and
+that he has to travel to these places for the said lectures.
+402
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+It is unfortunate that the plaintiff-respondent has failed to produceany documentary evidence in proof of any of these claims in respectof expenses incurred in obtaining alternative transportation.
+The policy of insurance contains the address of the plaintiff-respondent as Visha Veda Rohala and therefore the question maybe justifiably posed whether an ordinary reasonable man can assumewhether he travels islandwide when he has a hospital for treatmentfor snake-bite. In the circumstances, the defendant-appellant could 120never have foreseen the plaintiff-respondent as a person travellingislandwide for his vocation or profession. Therefore, such facts cannotbe within the knowledge of the defendant-appellant.
+The exemption from damages arising from consequential losscontained in clause 1 of the Insurance Policy (P1) reads as follows :
+"Corporation shall not be liable to make any payment in respectof consequential loss, depreciation, wear and tear mechanical orelectrical breakdown, failure of breakages."
+It is a general rule applicable to contracts of insurance that if theinsurance policy is a valued policy the amount recoverable by the 130assured is the agreed value. (Fe/se v. Aguiar*3* – vide Macgillivaryand Parkington on Insurance Law page 1558).
+For the above reasons the award of Rs. 100,000 and Rs. 5,000per mensum as consequential loss has no basis.
+Learned District Judge having made a finding that the plaintiff-respondent is entitled to claim damages on the insurance policy, hasalso answered issues 9 – 12 in the affirmative in respect of the claim
+CA
+Insurance Corporation of Sri Lanka v. Seneviratne
+(Weerasuriya, J.)
+403
+for damages purportedly arising from consequential loss as pleadedin the plaint.
+Therefore, I proceed to set aside that part of the judgment relatingto the award of Rs. 100,000 and Rs. 5,000 per mensum as consequentialloss.
+In the circumstances, the plaintiff-respondent would be entitled toclaim only Rs. 200,000 with legal interest from the defendant-appellant.
+The learned District Judge is directed to vary the decree accordingly.
+Subject to the above variation in the judgment and the decree,this appeal is dismissed without costs.
+BALAPATABENDI, J. – I agree.
+Appeal partly allowed.

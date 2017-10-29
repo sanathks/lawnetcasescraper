@@ -1,0 +1,73 @@
+﻿
+378
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+VANIK INCORPORATION LIMITED
+v.HETTIARACHCHI
+SUPREME COURTS. N. SILVA, CJ„
+BANDARANAYAKE, J. ANDYAPA, J.
+SC (CHC) APPEAL NO. 38/98HC NO. 221/97 (1)
+MARCH 23, 2002
+Bills of Exchange – Requirement of presentation for dishonour – Situations wherepresentation is unnecessary for dishonour.
+The plaintiff-appellant company (the appellant) advanced monies on three differentdates (a bill discount facility) for the purpose of hardware business which wasowned by the defendant-respondent (the respondent). For securing the advance,the respondent tendered to the appellant three Bills of Exchange. When the Billsof Exchange fell due for payment they were dishonoured; and the respondentissued three cheques which were also dishonoured.
+In an action for the recovery of money, the High Court took the view that theBills could not be considered as “dishonoured bills” in view of the issue of thecheques. The High Court also held that the appellant had instituted another “action”to recover the monies on the three cheques. At the argument it was also contendedthat there was no presentation for the payment of Bills of Exchange by theappellant; hence, the respondent was not liable to make payment thereon.
+Held:
+The so called “action” instituted by the appellant was only a charge uponan indictment in criminal proceedings against the respondent for an allegedfraud over the dishonoured cheques. Hence, it was not correct to referto such proceedings as “another action” by the appellant to recover moniesdue on the cheques. Hence, the dismissal of the action by the High Courton that ground was in error.
+When the cheques issued by the respondent were dishonored, therespondent’s debt revived, reverting him back to the position of a debtorand the respondent was liable on the Bills issued by him. It was not
+sc
+Vanik Incorporation Limited v. Hettiarachchi
+(Shirani A. Bandaranayake, J.)
+379
+necessary to present the three Bills for payment In view of sections 52(1) and 19 (4) of the Bills of Exchange Ordinance (the Ordinance), theacceptance to pay the three Bills being a general acceptance.
+In view of section 46 (2) of the Ordinance presentment may be excusedby waiver of presentment express or implied. In terms of the writtenarrangement between the appellant and the respondent, the respondentwas liable to pay the Bills on maturity notwithstanding non-presentmentof the Bills. The arrangement also provided that “notice of dishonor iswaived”.
+APPEAL from the judgment of the High Court.
+Prasanna Jayawardena with A. Siriwardena for appellant.
+Padma Bandara with Paiitha Mathew and Ms. Fareena Jaleel for respondent.
+Cur. adv. vuit.
+June 14, 2002
+SHIRANI A. BANDARANAYAKE, J.
+This is an appeal from the judgment of the High Court of Colombo idated 14. 08. 1998.
+The plaintiff-appellant (hereinafter referred to as the appellant) is aduly incorporated company which carries on business as a MerchantBank. In the course of its business as a Merchant Bank, the appellantgrants bill discounting facility to its customers and advances moniesto its customers on such facility. The defendant-respondent (hereinafterreferred to as the respondent) carried on at the time material to thiscase the sole proprietorship business under the names of ‘NawalaHardware’ and ‘Janahitha Hardware’. At the request of the respondent, 10a bill discounting facility was granted in terms of which, the appellantlent and advanced the following amounts to the respondent:
+380
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+Rs. 928,000 issued on 30.08.1994 (B) Due date 28.11.1994
+Rs. 971,541.65 issued on 21.10.1994 (C) Due date 28.11.1994
+Rs. 1,899,541.65 issued on 30.11.1994 (D) Due date 30.12.1994
+Thereafter, the respondent failed and neglected to repay the saidsums and the appellant filed action to recover the said sums of moneytogether with interest in terms of the said bill discounting facilityreferred to above. The learned Judge of the High Court dismissedthe appellant’s action with costs. The learned Judge of the High Court 20was of the view that, although the three (3) Bills of Exchange on whichthe said bill discounting facility was granted were dishonoured, theycannot be considered as “dishonoured bills”, since the respondent hadissued three (3) cheques marked P5, P7 and P12 in the paymentof said sums due to the appellant. Learned High Court Judge wasalso of the view that, the applicant had instituted another “action” torecover the said monies due on the three (3) cheques. At the hearing,it was also contended that there was no presentment for paymentof the Bills of Exchange by the appellant and therefore the respondentwas not liable to make payment thereon.30
+Section 59 of the Bills of Exchange Ordinance, No. 25 of 1927(as amended), refers to the discharging of a bill and reads as follows:
+“Section 59 (1) – A bill is discharged by payment in due courseby or on behalf of the drawer or acceptor.
+“Payment in due course” means payment made at or afterthe maturity of the bill to the holder therefore in good faith andwithout notice that his title to the bill is defective.”
+Referring to what amounts to payments, Ryder and Bueno in Byleson Bills of Exchange (26th edition, Sweet and Maxwell, 1988, p 135),states that -40
+sc
+Vanik Incorporation Limited v. Hettiarachchi
+(Shirani A. Bandaranayake, J.)
+381
+“A plea of payment of a bill should be supported by proofof payment in money, and not merely by proof of a satisfactionof it by an agreement. If payment otherwise than in money isalleged, it must be proved that the party to whom such paymentwas made elected to treat a payment in that form as equivalentto a payment in money. Thus, if bonds are accepted in payment,the payment is good though they prove to be valueless.
+A cheque is normally conditional payment, the debt reviving onits dishonour [emphasis added”.
+It is common ground that the respondent tendered three (3) Bills 50of Exchange (P4, P7 and P11) which were drawn by him to theappellant and the appellant granted the respondent a bill discountingfacility. It is also common ground that when the three (3) Bills ofExchange fell due for payment the respondent issued three (3) cheques(P5, P8 and P12) in favour of the appellant, which were dishonoured.Payment by cheque, which amounts to a conditional payment, wouldbe completed only after the realization of the cheque and money beingcredited to the drawee’s account. When the appellant realized thatthe cheques given to him by the respondents were dishonoured, therespondent’s debt revived, reverting him back to the position of a sodebtor. In such circumstances, the mere issuance of the three (3)cheques by the respondent did not amount to any payment in settlementof the three (3) Bills of Exchange. Therefore, the three (3) Bills ofExchange remain dishonoured since they were not discharged by therespondent by payment.
+The learned Judge of the High Court had taken the view that theappellant had filed another ‘action1 to recover the monies due on thethree (3) cheques. Even though, the appellant admitted that there wereproceedings pending against the respondent over the dishonouredcheques these were criminal proceedings filed by the State. In other 70words, there was an indictment against the respondent for the allegedfraud. Hence, it is not correct to refer to such proceedings in the HighCourt as “another action” filed by the appellant to recover the monies
+382
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+due on the three (3) cheques. Therefore, the dismissal of the appellant’sapplication on that ground would be a serious error made by thelearned Judge of the High Court.
+It was submitted that there was no presentment of the bills forpayment and therefore the respondent was not liable to pay the valueof the bills. Admittedly, a Bill of Exchange must be presented forpayment in order to render the drawer and indorser liable, as provided sofor in section 45 of the Bills of Exchange Ordinance. This sectionreads as follows:
+“subject to the provisions of the Ordinance a bill must be dulypresented for payment. If it be not so presented, the drawer andindorser shall be discharged.”
+However, section 52 (1) of the Bills of Exchange Ordinance specifiessituations where presentment for payment becomes unnecessary inorder to render the acceptor liable. Accordingly, when a bill is “acceptedgenerally” presentment for payment is not necessary. Section 19 ofthe Bills of Exchange Ordinance refers to two types of acceptance, 90namely general or qualified acceptance and subsection 2 of thissection explains that, ‘a general acceptance assents without qualificationto the order of the drawer whereas a qualified acceptance in expressterms varies the effect of the bill as drawn’. A further clarification onthe categorization of the kind of acceptance is given in section 19
+of the Ordinance, which reads as follows:
+“An acceptance to pay at a particular place is a generalacceptance, unless it expressly states that the bill is to be paidthere only, and not elsewhere.”
+The three Bills of Exchange in question specifically state that after100sight they are to be paid to ‘Vanik Incorporation Ltd. or to its order"thereby indicating that the acceptance of the bills was a generalacceptance which did not need presentment for payment.
+sc
+Vanik Incorporation Limited v. Hettiarachchi
+(Shirani A. Bandaranayake, J.)
+383
+Moreover, section 46 (2) (e) of the Bills of Exchange Ordinancestipulates that presentment may be excused ‘by waiver of presentment,expess or implied’. The special conditions in the reference letter issuedby the appellant to the respondent (P1) included the following:
+“The applicant shall be liable to pay face value of the bill to
+Vanik on the date of maturity of the bill notwithstanding non-presentment of the bill for payment to the company . . .
+Notice of dishonour is waived.”
+This, in my view amounts to express waiver of presentment.
+On a consideration of the totality of the material before this Court,it is evident that there was no necessity for the appellant to take stepsfor the presentment of the three Bills of Exchange, for payment.
+In the circumstances, the appeal is allowed and the judgment ofthe High Court of Colombo, dated 14. 08. 1998 is set aside. We enterjudgment in favour of the appellant as prayed for with costs fixed atRs. 5,000.
+S. N. SILVA, CJ. – I agree.
+YAPA, J. – I agree.
+Appeal allowed.

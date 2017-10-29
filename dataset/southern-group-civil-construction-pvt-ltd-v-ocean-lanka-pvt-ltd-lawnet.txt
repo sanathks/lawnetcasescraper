@@ -1,0 +1,86 @@
+﻿
+190
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+SOUTHERN GROUP CIVIL CONSTRUCTION (PVT) LTD
+v.OCEAN LANKA (PVT) LTD
+SUPREME COURTS. N. SILVA, CJ„
+BANDARANAYAKE, J. ANDISMAIL, J.
+SC APPEAL NO. 69/99
+HC NO. ARB/39/97
+24 MAY AND 14 JUNE, 2001
+Arbitration Act, No. 11 of 1995 – Application for setting aside arbitral award -Section 32 of the Act – The need to set out in the application the grounds forsetting aside the award – Period for making the application – Whether groundsset out in written submissions after the lapse of that period can be considered.
+The appellant applied to the High Court in terms of section 31(1) read with section40 of the Arbitration Act, No. 11 of 1995 (the Act) for enforcement of an arbitralaward made against the respondent. The respondent applied in terms of section32 of the Act to set aside the award. Under section 32 such application has tobe made within sixty (60) days of the receipt of the award. The High Courtconsolidated both applications.
+In his written submissions filed beyond the requisite period of sixty (60) days,the respondent urged that the award should be set aside on the ground set outin section 32 (1) (b) of the Act that it is in conflict with the public policy in SriLanka, a ground which he had not set out in his petition. Counsel for the appellanttook up a preliminary objection to that ground that the same had not been setout in the petition but in his written submissions filed beyond the period of sixty(60) days for making the application.
+Held:
+The High Court has no power ex mere motu to set aside an award onthe ground stated in section 32 (1) (b) of the Act, in the absence of materialsupporting such a finding being contained in the application.
+The time bar of sixty (60) days contained in section 32 (1) should bestrictly applied and all grounds of challenge with supporting material onthe basis of which a party wishes the High Court to come to a finding
+sc
+Southern Group Civil Construction (Pvt) Ltd. v.
+Ocean Lanka (Pvt) Ltd.
+191
+in terms of section 32 (1) (b) should be adduced by an applicant in theapplication under section 32.
+APPEAL from the judgment of the High Court.
+K. Kanag-iswaran, PC with Chandaka Jayasundera for appellant.
+Shibly Aziz, PC with P. Wimalachanthiran, A. P. Niles and Rohana Deshapriyafor respondent.
+Cur. adv. vult.
+February 25, 2002
+SHIRANI A. BANDARANAYAKE, J.
+The appellant is a company engaged in the business of civil iconstruction work, heavy equipment hiring, earth moving and fillingand metal industries. The appellant also undertakes work in the natureof rock blasting, crushing the blasted rock into specified sizes andquarrying. The respondent carries on business of manufacturingknitted fabrics. By an agreement made and entered into on01. 06. 1995, the appellant and the respondent entered into a contractfor the appellant to provide services to clear the rock out croppingsituated in the respondent&apos;s land in EPZ Zone B. This was to be doneby drilling, blasting and crushing the blasted rock boulders and piling 10the crushed rock at the project site. In terms of the agreement, theparties agreed to refer to arbitration all disputes or differences thatwould arise between the appellant and the respondent.
+Disputes arose between the appellant and the respondent and thesole arbitrator delivered the arbitral award on 04. 06. 1997 (X2).The appellant in terms of section 31 (1) of the Arbitration Act,
+No. 11 of 1995 (hereinafter referred to as the Act), read with section40 of the Act, made an application for the enforcement of the saidaward in the High Court (X3). The respondent made an applicationin terms of section 32 of the Act to set aside the said award in the 20High Court (X4). The High Court consolidated the two actions in termsof section 35 of the Act.
+192
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+The appellant objected to the respondent&apos;s application in theHigh Court on several grounds which are as follows :
+in order to set aside the award, specific grounds given insection 32 have to be urged within 60 days of the award.This has not been done by the respondent;
+respondent&apos;s ground to set aside the award on the basis of
+section 24 is misconceived in law as it is not a ground enun-ciated in terms of section 32;3C
+section 26 of the Act makes the award final and binding onthe parties to the arbitration agreement and does not permitany challenge on the merits of the award.
+The respondent contended in the High Court that the award wasfundamentally flawed and submitted that it should be set aside onthe ground that it is in conflict with the public policy of Sri Lankain terms of section 32 (1) (£>). The respondent&apos;s position is that,although section 32 (1) of the Act requires an application to set asidean award to be made within sixty (60) days of the receipt of the award,this requirement does not apply to section 32 (1) (b) of the Act. 40
+Learned President&apos;s Counsel for the appellant took up apreliminary objection that one of the grounds on which the respondentsought to set aside the award, relating to the conflict with thepublic policy of Sri Lanka, has not been set out in the petition, butonly contained in the written submissions filed beyond the periodof 60 days after the award was made. The learned High Court Judgeoverruled the preliminary objections raised by the appellant andfixed the case for further inquiry.
+The appellant sought leave to appeal from the order of the High
+Court dated 29. 06. 1999 (X9).
+50
+sc
+Southern Group Civil Construction (Pvt) Ltd. v.
+Ocean Lanka (Pvt) Ltd.
+193
+Leave to appeal was granted by this Court on 20. 08. 1999 onthe following questions :
+&apos;Was the learned Judge of the High Court in error in holding:
+that section 32 (1) entitled the Court ex mere motu to set asidethe award whether such grounds were included in the petitionor not;
+whether the learned Judge of the High Court was in error inconcluding that a party may seek to have an award set asideunder section 32 either by way of oral or written submissions,not necessarily within 60 days of the receipt of the award. 6o
+An overall examination of the provisions of the Arbitration Act,clearly indicates that the grounds on which an arbitral award couldbe set aside are contained only in section 32. In terms of this provision,a party seeking to set aside an award should make an applicationto the High Court within sixty (60) days of the receipt of the award.Section 32 (1) is subdivided into paragraphs (a) and (b). Paragraph(a) imposes limitations on the finality of the award by setting out thespecific grounds on which a party may challenge the validity of anaward.
+Section 32 (1) (a) reads as follows :70
+"Where the party making the application furnishes proof that –
+a party to the arbitration agreement was under some incapacityor the said agreement is not valid under the law to which theparties have subjected it or, failing any indication on thatquestion under the law of Sri Lanka; or
+the party making the application was not given proper noticeof the appointment of an arbitrator or of the arbitral proceedingsor was otherwise unable to present his case; or
+194
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+the award deals with a dispute not contemplated by or not fallingwithin the terms of the submission to arbitration, or contains sodecisions on matters beyond the scope of the submission toarbitration :
+Provided, however, that, if the decision on matters submittedto arbitration can be separated from those not so submitted,only that part of the award which contains decisions on mattersnot submitted to arbitration may be set aside; or
+the composition of the arbitral tribunal or the arbitral procedurewas not in accordance with the agreement of the parties, unlesssuch agreement was in conflict with the provisions of this Act,or in the absence of such agreement, was not in accordance 90with the provisions of this Act : or . . . "
+Sub paragraph (b) of section 32 (1) provides for settingaside an arbitral award on the finding of the High Court on one ofthe grounds set out therein. This paragraph reads as follows :
+" Where the High Court finds that –
+the subject-matter of the dispute is not capable of settlementby arbitration under the law of Sri Lanka ; or
+the arbitral award is in conflict with the public policy of SriLanka."
+In terms of the provisions of the Act, the arbitral tribunal is vested nwwith the power to &apos;decide the dispute&apos; submitted for arbitration. TheHigh Court is vested with the jurisdiction for the enforcement andrecognition of an award or in the alternative to set aside such anaward. In terms of section 31 of the Act, a party to an arbitrationagreement, pursuant to which an arbitral award is made, may applyto the High Court within one year after the expiry of 14 days of the
+sc
+Southern Group Civil Construction (Pvt) Ltd. v.
+Ocean Lanka (Pvt) Ltd.
+195
+making of the award for its enforcement. However, according tosection 32 (1), in order to set aside an arbitral award, an applicationhas to be made within sixty (60) days of the receipt of the award.
+A plain reading of section 32 (1) reveals clearly that the opening noparagraph applies to both sub paragraphs (a) and (b) of section32 (1). The difference between the two sub paragraphs (a) and (b)is that the former requires an applicant to furnish proof of foursituations, whereas the latter permits the High Court to find and arriveat a conclusion on the two situations which would enable an arbitralaward to be set aside. However, for the High Court to find that thesubject-matter of the dispute is not capable of settlement by arbitrationunder the law of Sri Lanka or that the arbitral award is in conflictwith the public policy of Sri Lanka, as stated in sub paragraph (b),it would be necessary for the party making an application for setting 120aside an arbitral award, to adduce necessary material for this purposein his application filed in terms of section 32 (1).
+The words in sub paragraph (b) of section 32 (1), &apos;where the HighCourt finds&apos; are clearly referable to the application made in terms ofsection 32 (1) and the material adduced in such application. A findingcannot be made by the High Court in terms of sub paragraph (b)of section 32 (1) other than on the averments of the application andthe material contained therein. Therefore, I am of the view that theHigh Court was in error when it came to the finding that it has thepower &apos;ex mere motU to set aside an award on the grounds stated 130in sub paragraph (6) of section 32 (1) even in the absence of materialsupporting such a finding being contained in the application.
+The next question that has to be considered relates to theapplication of the time bar contained in the opening paragraph ofsection 32 (1). I have at the commencement of this judgment advertedto the distinction between the respective time periods with whichapplications could be made for recognition and enforcement on theone hand and to set aside an award on the other. The clear legislative
+196
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+intent in having a shorter time period for setting aside an arbitral awardis to ensure that a challenge to the validity of the award should be nomade early and the party having the benefit of the award may takea longer time to enforce it. Such a distinction is not uncommon toour procedure regulating civil action. Even in the case of a decreeof the District Court in a regular action, a party seeking to challengethe validity of the decree has to file the notice of appeal within 14days and the petition within 60 days, whereas in terms of section337 of the Civil Procedure Code an application for enforcement couldbe made within 10 years. Therefore I am of the view that the timebar of sixty (60) days contained in section 32 (1) should be strictlyapplied and all grounds of challenge with supporting material including 150the material on the basis of which a party wishes the High Court tocome to a finding in terms of section 32 (1) (b), be adduced by anapplicant in terms of section 32 in the application.
+For the aforementioned reasons, the appeal is allowed and theorder made by the High Court dated 29. 06. 1999, is set aside. Thismatter is referred back to the High Court for inquiry de novo.
+There will be no costs.
+S. N. SILVA, CJ. – I agree.
+ISMAIL, J. – I agree.
+Appeal allowed.
+Inquiry de novo ordered.

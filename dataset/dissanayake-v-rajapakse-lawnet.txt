@@ -1,0 +1,95 @@
+﻿
+( 368 )
+Present: Bertram G.J. and Ennis J.DISSANAYAKE v. KAJAPAKSE.
+198—D. C. Negombo, 12,105.
+Broker — Agreement to -pay commission on receipt of money — Defeotite
+title—Sale not carried out—Claim for commission.
+The defendant engagedtheplaintiff,abroker, to negotiatethe
+sale of an estate. He wrote: “I will pay commission 1} per cent,if yon get me the Bawita money (money .realized by the sale of theBawita land).” The plaintiff found a purchaser, who instructedhis lawyer to draw up the deed, but when the title was examined,it transpired that defendant had settled this land in trust for hischildren. Thesale fellthrough. Thedefendant imaginedthat
+the trust wasnot binding,as itwas notregistered, and as itwas
+subject to an arrangement with his father, which, in fact, hadgone off.
+Held, thatthe brokerwas entitledtohis commission, though
+the defendant had not received the ” Bawita money.”
+Where an agent is engaged to sell property on a commission, anda sale is arranged, but proves abortive through the act or defaultof theprincipal,thecommissionagent is entitledto remuneration
+for his exertions, and a reasonable measure of that remunerationis the commission which he might have earned but for the act ordefault of his principal.
+This principle applies even where that act or default occurredbefore the agent had commenced to exert himself.
+Bertram G.J.—The right of a commission agent to sue on aquantummeruitmaybe madedependent uponaspecial condi-tion  The principal may guard himself even against his own
+defaults, if he takes the proper measures to do 90. As Blackburn J.said:“ It might be prudent in cases of this kind to introduce
+into thecontract a clause such as‘ if this -goes offwithout fraud on
+my part,you arenotentitled toyour commission,’’’but this was
+not done in this case. The special words relied upon are ,not wideenough for this purpose.
+rJ1 HE facts are set oat in the judgment.-
+A. St. V. Jayawardene (with him J. S. Jayawardene), for appellant.Brito-Muttunayagam, for respondent.
+Cur. adv. vult.
+September 9, 1918. Bertram C.J.—
+This case raises a very difficult question in connection withthe law governing the rights of commission agents. Ordinarily acommission agent is only entitled to a commission for introducing
+1818.
+( 354 )
+1918.
+Bertram
+C.J.
+Diasanayakev. Rajapakae
+a purchaser if in fact the sale takes place, but it has been recognizedby a series of- decisions of long standing that in certain circumstanceshe may obtain his commission even if there is no sale. The questionis whether this case belongs to that class of cases.
+The material facts are that the defendant engaged the plaintiflto negotiate the sale of a particular property—Bawita estate.The terms of the engagement may be taken as comprised in thefollowing extract from a letter or memorandum signed by thedefendant: “ I will pay commission per cent, if you get methe Bawita money (money realized by the sale of Bawita land)."As a matter of fact, the defendant had no title to sell. He hadsettled this very land in trust for his children. He imagined thatthe trust was not binding, because it was not registered, and becauseit was subject to an arrangement with his father, which, in fact, hadgone off. But &apos;in this he was mistaken. The trust was binding uponthe land (at any rate, to such an extent as to justify the purchaserin refusing to complete the sale). The vendor’s title, therefore,was defective, and the purchaser introduced to him declined to.complete the sale because of this .defect. &apos;It should be noted, how-ever, that this was not simply a case of a sale going off because ■of a defective title. The plaintiff’s effort to effect a sale provedabortive, because of the voluntary act of his employer; in fact,the employer, before he had employed the agent, had by his own actdisabled the agent from effecting the sale.
+The question is, What are the rights of the plaintiff underthese circumstances? It has been recognized, as I have said, by aseries of cases that in certain circumstances a commission agentis entitled to his commission, even though no sale is effected. Theprinciple on which those cases are supposed to rest has been thoughtto be embodied in a formula to the effect that if a commission agenthas done all that it was necessary to do on his side he is entitled tohis commission, even though no sale has been effected. (See forexamples of this principle in our own books, the cases of Simpson v.Soyza 1 and Perera v. Soysa,.2) The plaintiff claimed commission on.the authority of these cases. For the defendant, on the other hand,without disputing these, or the English authorities on which they arebased, it was argued that they have no application in the presentcase, because in this case the defendant made a special contract,expressly stipulating that the commission should only be paidif the purchase price was realized. To this the plaintiff repliesthat the principle that a commission agent is entitled to his com-mission, whether the sale is effected or not, when he has done allthat has to be done on his side by introducing a purchaser willingand able to purchase, equally applies to cases where it is providedthat no commission is to be payable unless the purchase money isrealized; at any rate, where the vendor is to blame for the sale
+* ( 1900) 4 N. L. R. 90.
+2 {1910) 13 N. L. R. 85.
+t
+( 355 )
+going off. He argues that if this were not the case, the vendorunder such a contract could himself disentitle the agent from remu-neration by his own wilful act in refusing to complete, and thatsuch an interpretation of the contract could not possibly be intended.
+It is important to understand the principle on which the Courtsgive rewards to commission agents for commissions on sales whichdo not in fact take place. On what principle is this done? It isnot sufficient to say that the commission agent has done all thatis reasonable on his side, and that; therefore, he should be re-munerated. The Courts do not give remuneration simply onthe ground that it is reasonable that a man should receive it. Theright to remuneration must be founded upon a contract. Is thecontractual light in this case due to an implied term in the contractof agency, or is it due to a substituted contract? It clearlycannot be due to an implied term in the contract of agency; therecannot be implied in a contract to pay money on a particular event,an obligation to pay the same money upon an entirely differentevent. The principle on which this remuneration is accorded isclearly explained in the case of Prickett v. Badger,1 and is basedupon an old principle of English law discussed in the notes ofGutter v. Powell in 2 Smith’s Leading Cases 1. In Prickett v. Badger 1it was laid down by the Lord Chief Baron that “ the defendanthaving declined, from whatever cause, to sell the land after theplaintiff had succeeded in procuring a purchaser willing to takeit at the price proposed, and the plaintiff having thus done all hecould to entitle him to the stipulated commission, although theplaintiff could not maintain an action upon the special contract,he was, nevertheless, entitled to recover upon the common count(t.e., a quantum meruit) a reasonable remuneration for his work andlabour.” The principle is further explained as follows, quotingfrom Smith’8 Leading Cases, at page 16:” It is an invariably true
+proposition that; wherever one of the parties to a special contractnot under seal has, in an unqualified manner, refused to performhis side of the contract, or has disabled himself from performing itby his own act, the other party has thereupon a right to elect torescind it, and may, on doing so, immediately sue on a quantummeruit for anything which he had done under it previously to therescission.” Again, at page 31:‘‘It being, therefore, established
+that, where one contractor has absolutely refused to perform, or &apos;rendered himself incapable of performing, his part of the contract,the other party may,, if he please, rescind; such act or such refusalbeing equivalent to a consent to the rescission; the remaining partof the proposition above stated is that, upon such a rescission, hehas a right, if he have done anything under the contract, to sueimmediately for compensation on a quantum meruit.” It is thusclear that the right of remuneration is a right to compensation for1 (1856) 1 C. B. (N. S.)296 ; 26 L. J. C. P. 33.
+IMS.
+Bkbt&am
+ojr.
+Dissanayake
+v. Rajapakte
+( 866 )
+1818.
+Bembam
+C.J.
+Dissanayafcep. Rajapakee
+work and labour done, independently of the contract, and the agentcan only su.e for this remuneration if the carrying out of his contracthas been rendered impossible by the act or default of his principal.It may be asked why the rescission of the special contract is insistedupon. This is because of the rule in the English law, explainedin the notes in Gutter v. Powell,1 that it was not competent for aplaintiff who has been engaged upon a special contract to sue upona quantum meruit so long as the special contract “ remained open.”He can only sue upon a quantum meruit if he can get rid of thespecial contract; he can only-get rid of the special contract byrescinding it; and he can only rescind the special contract eitherby agreement with his principal, or on the ground that the conductof his principal justifies him in rescinding it without an agreement.It may also be noted that the amount recovered on the quantummeruit is not recovered qua commission; but the amount agreedupon as commission is taken as a convenient measure of the valueof the agent’s exertions. (Par Wiles J. in Prickett v. Badger.2)
+Now, if this is the principle, it is clear that it equally applies,whether the contract expressly makes the commission dependenton the realization of the purchase money or not. Thus it wasapplied in the case of Fisher v. Drewett,3 where, by the terms of theagreement, commission was only payable ‘‘ on&apos; any money received,”and where the argument of the present appellant was most forciblypressed upon the Court by Mr. Dickens, K.C., but expressly rejectedby Bramwell L.J. in his judgment. In that case the act of thevendor which caused the sale to go off was his refusal, on the groundof expense, to furnish an abstract of title which the purchaserreasonably required.
+The next question is this. In the present case the act of theprincipal which caused the contract to go. off was one committedbefore the agent had exerted himself to bring about the sale—indeed, long before the sale was ever contemplated. Does the ruleabove explained include such a case? I confess that but forexpress authority I should have concluded from the above quota-tions that it did not. But it appears to me that- the authoritiespreclude this view. In Green v. Lucas * the act of the principalwhich caused the contract to be abortive was a representation as tohis title made before the proposed lender was approached, and on.the basis of which he was prepared to offer the loan. Similarly,in our own Courts, in Perera v. Soysa 5 the sale went off becausethe agent of the vendor had, in employing the plaintiff for the saleof the German Club, assured him that the extent of the propertywas 3 acres, and the plaintiff had so told the purchaser, but ondiscovering that the property was less than 3 acres in extent,
+,i Smith’s Leading Oases 1.8 {1878) 39 L.T. (N.S.) 253.
+• (1856) 1 C. B. (N. S.) 296; 26 L. J. C. P. 33. « (1875) 33 L. T. 584.
+8 (1910) 13 N. L. B. 85.
+( 357 )
+the purchaser raised difficulties, and the land was sold elsewhere.In both these cases, therefore, the act of the principal, by which theagent’s claim was justified, was an act committed before the agenthad taken any steps in the matter at all.
+I quite appreciate that there is a difference between the facts ofthis case and those of Green v. Lucas 1 and Per era v. Soysa,2 In thosetwo cases the act of the principal which destroyed the possibilityof an effective sale was an act which, though committed before thepurchaser was approached, was committed in the transaction itselfand for the purposes of the transaction. Whereas, in the presentcase, the act of the principal was committed long before the transac-tion, and before the commission agent was engaged for the purposesof the sale. But it seems to me that when once we admit that theact of a principal which entitles the agent to rescind and sue on aquantum meruit need not necessarily be an act subsequent to theexertions of the agent, but may be an act committed before anypurchaser was actually approached, we are driven by logicalnecessity to extend the principle to acts which are altogetherantecedent to the transaction itself. In (preen v. Lucas1 and Pererav. Soysa 2 the position was this. The commission agent could say:
+‘ ‘ By your own act in asserting, in the. one case, that your title wasfree from extraordinary covenants, or, in the other case, that yourland was 3 acres in extent, you sent me into the negotiations sohandicapped that any trouble and expense I had incurred in thematter was bound to be wasted when the purchaser ascertained thetrue facts.” So, here, in this case, he can say: “ By encumberingyour property with the trust you placed me in such a position thatany arrangement made with a purchaser was bound to prove abor-tive when he discovered the true state of the title.” There is noEnglish or Ceylon case which goes to Ihis length, but it seems to methat this follows inevitably from the cases I have cited.
+There are certain expressions both in our own cases and in theEnglish reports that seem to suggest that a commission agent hasthe right to sue for what in English law is called a quantum meruit,even in cases where the sale or loan goes off simply because thetitle to the property proves to be defective, whether the defectis due to the act of the principal or not. Thus, the principle aslaid down by Wood Benton J. in Perera v. Soysa2 was as follows:
+“ Whenever the agent who is employed to negotiate such a bargainhas introduced to his principal a person who is able and willing toenter into the contract, so that nothing further remains for theagent to do, he is entitled to his commission, taIthough the negotia- •tions afterwards fell, through in consequence of circumstances overwhich the agent has no control.” (See also the dicta of Bonser C.J.in Simpson v. Soyza.3)
+1918.
+Bbbtbak
+C.J.
+Dissanayakev. Rajapakse
+5(1875) 33 L. T. 584.a (1910) 13 N. L. R. 85.
+• (1900) 4 N. L. R. 90.
+( . 358 )
+1918.
+Bbbtbam
+C,J.
+Dieaanayakev, Bagapakae
+It -appears to me, as at present advised, that these statementsof the law go beyond the recognized English authorities, which arebased upon the principle laid .down in Smith&apos;s Leading Cases, viz.,iihat it is only where the principal has by his own act or defaultabsolutely refused or rendered himself incapable of performing hispart of the contract that the right to sue on a quantum meruit arises.
+There is no doubt that the right of the commission agent to sueon a quantum meruit may i>e made dependent upon a special condi-tion. This was so in the cases of Beale v. Bond,1 Bull v. Price,2 andChapman v. Wilson,3 but those were not cases in which the failureto complete the contract was due to the default of the principal.It is quite true also that the principal may guard himself evenagainst his own defaults, if he takes the proper measures to do so.As Blackburn, J. said in Green v. Lucas 4: “It might be prudent, incases of this kind, to introduce into the contract a clause such as4 if this goes off without fraud on my part, you are not entitled toyour commission,&apos; " but this was not done in this case. The specialwords relied on are not wide enough for this purpose.
+In my opinion, therefore, the plaintiff is entitled to succeed, and theappeal of the defendant must accordingly be dismissed, with costs.
+Ennis J.—
+In this case the plaintiff, who is a broker, sued for Rs. 3,000,commission promised by the defendant for negotiating a sale ofRawita estate, dr, in the alternative, for Rs. 2,250, being 2J percent, on the purchase price, the plaintiff&apos;s customary commission.During the hearing of the case –a writing signed by the defendant(D 1) was put in. In it the defendant said:“ I will pay commission
+per cent, if you get me the Rawita money."
+The learned Judge found that the plaintiff did all that he could.He negotiated the sale of Rawita and found a purchaser, whoinstructed his lawyers to draw up a deed for execution. When thetitle was examined, it transpired that the defendant had alreadyalienated Rawita by gift to his children, and the sale in consequencefell through., The learned Judge found against the plaintiff on thealleged promise to pay Rs. 3,000, and held on D 1 that the agreementwas for a commission of 1 per cent., for which amount he gavejudgment for the plaintiff.
+The defendant appeals,* and it was urged by his counsel that nocommission was payable, as defendant had not received any moneyfrom the sale of Rawita estate.
+The principle upon which it has been held that a broker is entitledto commission was enunciated in Perera v. Soysa,$ viz., " thatwhere it is agreed that an agent shall be paid a certain commission
+ (1901) 84 L. T. 313.3 (1904) 91 L. T. 17.
+ (1831) 7 Bing. 237.4 (7875) 33 L. T. 584.
+6 (1910) 13 N. L. R. 85.
+( 359 )
+in the event of his finding a purchaser for the property, it is sufficient,as a general rule, if he procures a complete and binding contractwhich is accepted by the principal, although the transaction isnever completed.”
+Where the terms of the agreement expressly provide that thecommission is to be paid on the receipt of the money, as in this case,the same rule holds good, and if the sale has fallen through by thedefault of the principal, the commission is still payable. See Fisherv. Drewett1 and Bull v. Price.2
+On the finding of fact by the learned District Judge, the decreeappealed from is, in my opinion, right, and I would dismiss theappeal, with costs.
+1918.
+Ennis J.
+Diasanayakev. Rajapafae
+Appeal dismissed.

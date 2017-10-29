@@ -1,0 +1,251 @@
+﻿
+sc
+Kristley (Pvt) Limited v. The State Timber Corporation
+225
+KRISTLEY (PVT) LIMITED
+v.THE STATE TIMBER CORPORATION
+SUPREME COURTFERNANDO, J„
+GUNASEKERA, J. ANDWIGNESWARAN, J.
+SC APPEAL NO. 51/99HC NOS. ARB 50/97 AND 52/98
+20 MARCH, 10 APRIL, 20 JUNE AND 12 SEPTEMBER, 2001
+Arbitration – Arbitration Act, No. 11 of 1995 – Applications to enforce / set asideaward – Failure to file a certified copy of the award – Lack of legal competenceof the claimant at the time of reference to arbitration – “Incapacity" as a groundfor setting aside the award – Objection to award on the grounds of public policy- Consolidation of Applications – Sections 31 (2) (a), 31 (2) (ii), 32 (1) (a) (i),32 (1) (b) (ii) and 35 (1) of the Act – Issues in arbitration – Natural justice.
+In October, 1993, the appellant an Australian Company (the claimant) and therespondent State Timber Corporation (STC) signed a contract for the supply of300 cubic metres of sawn pine radiata timber from Australia. When oneconsignment of goods supplied by the claimant reached Colombo by ship on
+12. 1993, the STC terminated the contract for certain stated reasons.
+On 24. 10. 1994 the claimant gave notice of arbitration in terms of the contractagreement and submitted its claim on 04. 06. 1996 on the ground that thetermination of the contract by the STC was unlawful. On 09. 07. 1996 the termsof reference for arbitration were signed by the parties.
+The STC in its statement of defence dated 20. 06.1996 objected to the jurisdictionof the Arbitral Tribunal and pleaded that the contract had been lawfully terminated.The objection to jurisdiction was later withdrawn.
+On 16. 08.1996 during the cross-examination of the claimant&apos;s Managing Director,counsel for the STC stated that the claimant had been de-registered and dissolvedon 28. 08. 1995, hence the claimant was non-existent at the date it made itsclaim; and consequently arbitration proceedings were a nullity. Counsel contendedthat an issue was unnecessary but the Arbitrators compelled him to raise issueswhich was followed by counter issues for the claimant. Documents were tenderedto prove that the claimant had been restored to the roll with effect from
+226
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+11. 09. 1996. After inquiries arbitrators held that there was no proof that theclaimant had been dissolved and that upon re-registration it was in the sameposition as if its registration had never been cancelled.
+In the course of the arbitration, an allegation was also made that a cetificatesupplied by the claimant including on seasoning of timber was a forgery andevidence of one Morrison was led but without raising an issue in that regard.This was in the background of a unanimous ruling by the Arbitrators thatforgery should be established beyond reasonable doubt.
+On 10. 12. 1997 by a majority decision (the Chairman and another arbitrator)it was held that the termination of the contract was wrongful. In two separateawards they upheld the claimant&apos;s award. The third arbitrator disagreed.
+The Chairman held (with the other arbitrator agreeing) that the genuineness ofthe impugned certificate was never put in isssue, that in the absence of a specificissue which would have enabled the claimant to know the case it had to meet,the claimant was not obliged "to counter the conjecture suggested by Bill Morrison".The third Arbitrator held that there was a "preponderance of evidence" that theimpugned certificate was a forgery; and that the claimant had not establishedit genuineness. He opined that whilst the counsel for the STC was remiss infailing to raise a specific issue, it was the duty of the Tribunal to have raisedthe issues on the evidence of Morrison.
+On 29. 12. 1997 the STC applied to the High Court to set aside the awardannexing copies of the separate awards. On 21. 10. 1998 the claimant appliedfor the enforcement of the award annexing copies of the separate awardscertified by an attorney-at-law. The applications were consolidated undersection 35 (1) of the Arbitration Act (the Act). The High Court Judge by hisorder dated 09. 02. 1999 refused the application and set aside the majorityaward on the grounds :
+that the application for enforcement was not accompanied by a dulycertified copy of the award.
+that the award was based on a forged certificate, hence it was contraryto public policy; and
+that the claimant had been de-registered and lacked legal capacity at thetime of the reference to arbitration.
+Held:
+On the facts and circumstances of the case, copies of the awardstendered with the claimant&apos;s application were duly certified copies withinthe meaning of section 31 (2) (ii) of the Act.
+sc
+Kristley (Pvt) Limited v. The State Timber Corporation
+227
+Obiter
+Even in a case where the copy of the award filed with the application is not a
+duly certified copy the application may not be summarily rejected without
+giving an opportunity to tender duly certified copies interpreting "accompany" in
+section 32 (2) purposively and widely.
+In the circumstances of the case, the majority was justified in refusing toconsider the question of forgery without a specific issue. Natural Justicedemands such issue to enable each party to know from the beginning whatcase it has to meet and to afford the affected party an opportunity of meetingthe case against it. In any event, the third Arbitrator&apos;s finding was on a“preponderance of evidence" contrary to the Tribunal&apos;s previous unanimousruling that forgery required proof beyond reasonable doubt which is aproposition supported by a long line of decisions. Therefore, the High Courtwas not entitled to review the decision on the ground of publicpolicy, in terms of section 32 (1) (b) (ii) of the Act.
+“Incapacity" which is a ground for setting aside an award in terms ofsection 32 (1) (a) (i) is established where a party to the arbitrationagreement was under some incapacity, i.e. some incapacity to which aparty was subject to when the arbitration agreement was entered into. Inthe instant case, the de-registration of the claimant which was relied uponoccurred much later on 28. 08. 1995, but the High Court considered thequestion of incapacity as at 09. 07. 1996 (the time of reference to arbitration)and not at the date of the arbitration agreement (October, 1993), whichcontained the arbitration clause. In any event, it was established that theclaimant was restored to the roll the legal effect of which was to placeit in the same position as if its registration had never been cancelled. Assuch, the High Court erred in holding that the claimant was under anincapacity within the scope of section 32 (1) (a) (i) of the Act.
+Cases referred to :
+Lanka General Workers&apos; Union v. Samaranayake – (1996) 2 Sri LR.
+Nagappa Chettiar v. Commissioner of Income Tax – AIR 1995 Madras 162.
+Narayan Chettiyar v. Official Assignee – AIR 1941 PC 93.
+Coomaraswamy v. Vinayagafnoorthy – (1945) 46 NLR 246, 249.
+Selliah v. Sinnammah – (1947) 48 NLR 261, 263.
+Muthumenika v. Appuhamy – (1948) 50 NLR 162, 164.
+Lakshmanam Chettiar v. Muttiah Chettiar – (1948) 50 NLR 337, 340.
+226
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+Yusoof v. Rajaratnam – (1970) 74 NLR 9, 13.
+Soleimany v. Soleimany – (1998) 3 WLR 811.
+Westacre Investments v. Jugimport – SPDR (1998)3WLR770.
+International Brotherhood of Electrical Workers v.IowaElectric Light and
+Power Company – 834, F. 2d, 1424.
+APPEAL from the judgment of the High Court.
+H. L. de Silva, PC with S. Mahenthiran, PC and A. Athurupana for claimant-appellant.
+S.Marsoof, PC, Additional Solicitor-General with T. W. Karunaratne, State Counseland Riyad Ameen, State Counsel for respondent.
+Cur. adv. vult.
+March 15, 2002FERNANDO, J.
+This is an appeal against a judgment and order of the High Court 1setting aside an arbitration award. The High Court held that theapplication for enforcement made by the claimant-appellant (theclaimant) was not accompanied by a duly certified copy of the award;that award was based on a forged document produced by the claimant,and therefore that it was contrary to public policy to enforce it; andthat at the time the claimant referred the matter to arbitration, it hadbeen deregistered and lacked the legal capacity to do so. Severalquestions of law arise in regard to the interpretation of sections 17,
+26, 31 (2) (a), 31 (2) (ii), 32 (1) (a) (i) and 32 (1) (b) (ii), of the 1°Arbitration Act, No. 11 of 1995.
+The claimant is a company incorporated under the laws ofAustralia, while the respondent-respondent is the State TimberCorporation (STC) a public corporation established under the lawsof Sri Lanka.
+sc
+Kristley (Pvt) Limited v. The State Timber Corporation
+(Fernando, J.)
+229
+Pursuant to a tender floated by the STC, the parties entered intoa contract in October, 1993, under which the claimant agreed to supply300 cubic metres of sawn pine radiata timber of specified gradesand dimensions suitable for building construction. The followingspecifications are relevant to this appeal :
+GradeIn accordance with Australian Standard.
+AS 2858 – 1986 the grades required areas follows :
+(Stress Grade)
+Structural Grade 2F11
+Structural Grade 3F 8
+Treatment Condition Pressure treated timber is not required.
+But, antistained Sap stained treatment isnecessary to prevent any decay or fungalattack in transit. The timber should be 30antistained Sap treated.
+Seasoning Condition . . .
+Seasoned Timber (a) [moisture content] of timber should
+not be more than 15% m.a.
+Under the terms of the contract, the claimant was required to furnisha performance bond to the value of 10% of the contract price, within14 days of the acceptance of its tender; within seven days of thereceipt of the performance bond, the STC was obliged to establishan irrevocable letter of credit; and the claimant had to ship the totalquantity in one shipment within^ 45 days of the date of the letter of 40credit. Other relevant terms were as follows :
+MODE OF PAYMENT : Payments will be made by means of Irrevo-cable Letter of Credit . . . [providing] for payment of 90% of the C&F
+230
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+value … to be made against the relative set of Shipping Documentswhich shall consist of :
+Full set of Clean, On Board, Freight pre-paid Marine Bill ofLading in a set of 03 originals . . .
+Manually signed invoices . . .
+Certificate of origin . . .
+Certificate of Grading, Species, Quantity and Quality from Stand- 50ards Association of Australia or approved Timber Authority ofthe country of origin [acceptable] to STC . . .
+Manufacturer&apos;s certificate of inspection.
+Packing list . . .
+Certificate from the beneficiary that he has faxed direct to theChairman, STC . . . copies of documents listed in (a) to (/)
+. . . within 02 days from the date of Bill of Lading . . .
+ADVANCE NOTIFICATION : Immediately before the goodsare shipped the seller shall send to the buyer a Fax/Telexstating the name of the vessel, ETA of the vessel, the quantity soshipped . . .
+TERMINATION OF CONTRACT : If the seller violates any ofthe Terms or Conditions … the buyer shall be entitled toforthwith teminate this Tender/Contract.
+Should seller anticipate at any time . . . that he will be unableto deliver the goods wtihin the time specified in this contract,he shall at once give notice accordingly in writing to the buyerexplaining the cause of the delay. Upon the receipt of such
+sc
+Kristley (Pvt) Limited v. The State Timber Corporation
+(Fernando, J.)
+231
+notification of the seller, the buyer will have the option of eithergranting extension or termination of this contract …70
+There was no requirement of a certificate regarding "treatment" or"seasoning".
+The claimant having duly furnished a performance bond on05. 11. 93, sought permission on 09. 11. 93 to effect a partial shipmentof 182.5 cubic metres. Having first refused, the STC later agreed,on 16. 11. 93. The claimant then confirmed that it would notify on
+11. 93 the exact amount of the first shipment, to be shipped onthe vessel Fishguard Bay leaving Melbourne on 23. 11. 93, and thatthe balance would be shipped on another vessel on 14. 12. 93. Theclaimant then sent the pro forma invoice on 19. 11. 93; the STC 80acknowledged receipt by fax dated 22. 11. 93, but pointed out anerror, whereupon the claimant sent a corrected invoice the same day.
+The STC established a letter of credit on 03. 12. 93, which reachedthe claimant on 06. 12. 93. That called for a certificate different tothe stipulation in clause (ct) above, namely :
+"certificate of grading, species, seasoning, treatment, quality andquantity from Forestry and Forest Products Industry Council…" [emphasis added].
+The letter of credit also required that certain identification marksbe placed on each bundle of timber. The vessel had already left 90Melbourne by then, and the claimant immediately notified STC thatit was not possible to fulfil some of these new and/or amended terms.Further, it was admitted that the Assistant General Manager of STCknew that the Forestry (etc) Council had ceased to exist in 1990.
+The letter of credit also required negotiation within fourteen days ofshipment, which period expired on 07. 12. 93.
+Naturally, by fax dated 06. 12. 93, the claimant requested severalamendments. Although there was evidence, in the arbitration proceed-ings, that the matter had been discussed by telephone, and that the
+232
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+Deputy General Manager of the STC had agreed, the letter of credit 100was never amended. Instead, by fax dated 08. 12. 93 the STC askedthe claimant to courier the shipping documents, which it did. Theseincluded a certificate (which I will refer to as "the impugned certificate")from the "Timber Promotion Council" (TPC of Victoria, Australia, oneentry in which referred to "seasoning" as "green".
+The vessel arrived in Colombo on 09. 12. 93. Without any exami-nation of the goods, by letter dated 09. 12. 93 the STC immediatelyterminated the contract for six stated reasons :
+The goods had been shipped before the letter of credit was
+established.110
+Amendments to the letter of credit could not be made inviolation of the tender conditions.
+The letter of credit required a certificate from the Forestry(etc) Council, but what was submitted was from the TPC.
+The specifications in that certificate did not conform totender and letter of credit specifications. (The nature of thatnon-conformity was not then clarified).
+There were two bills of lading, and not one; besides, they didnot indicate the quantity in cubic metres.
+The bill of lading was dated prior to the establishment of the 120letter of credit.
+There was no complaint that the moisture content of the timberexceeded 15% m.a.
+The claimant duly gave notice of arbitration by letter dated24. 01. 94 and submitted its claim on 04. 06. 96. The basis of that
+sc
+Kristley (Pvt) Limited v. The State Timber Corporation
+(Fernando, J.)
+233
+was claim that the STC "had wrongfully and/or illegally and/ormaliciously and/or fraudulently terminated the contract".
+The STC in its statement of defence dated 20. 06. 96 objectedto the jurisdiction of the arbitral tribunal, and pleaded that the STChad lawfully terminated the contract.130
+On 09. 07. 96, "the terms of reference for the arbitration” weresigned by the parties. Thereafter, fourteen admissions were recorded,and 39 issues were framed by the parties : nine by the claimant,
+26 by the STC, and a further four consequential issues by the theclaimant. Counsel for the STC withdrew his objection to jurisdiction.Evidence was led on 16. 07. 96, 18. 07. 96, 23. 07. 96, 31. 07. 96,
+08. 08. 96 and 16. 08. 96.
+On 16. 08. 96, in the course of his cross-examination of theclaimant&apos;s Managing Director, Counsel for the STC stated that theclaimant-company had been deregistered and dissolved on uo
+08. 95; that, therefore, the claimant was not in existence at thetime the statement of claim was filed; and consquently that thearbitration proceedings were a nullity. On 29. 08. 96, although Counselfor the STC contended that "actually an issue is not really necessary",all three Arbitrators insisted that an issue must be raised in regardto that matter. Counsel then raised five issues, which were allowed.
+On a subsequent day, 12. 11. 96, Counsel for the claimant raisedfour consequential issues, and tendered certain documents in proofof the fact that the company had been restored to the roll with effectfrom 11. 09. 96. On 18. 11. 96, both Counsel stated that they did 1 sonot intend to lead any evidence as to the Australian law. Having heardCounsel on 29. 08. 96, 12. 11. 96 and 18. 11. 96, the arbitral tribunalruled against the STC on 28. 11. 96. One Arbitrator held that -assuming, on the basis of the admissions, that the claimant-companyhad been deregistered – it had not been proved that it had beendissolved. The other two Arbitrators held that the claimant-companyhad been restored to the roll, and was thereupon in the same positionas if its registration had never been cancelled.
+234
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+On 16. 08. 96, before that question of deregistration arose, theclaimant&apos;s Managing Director had testified that the impugned certificate 160had been received from the supplier of the timber, ’’Thompson SawMills", who had obtained it from TPC. Counsel for the STC thentendered an affidavit dated 06. 08. 96 from Bill Morrison (describedas Quality Assurance Manager of TPC) to the effect that the impugnedcertificate tendered by the claimant was a forgery. Counsel for theclaimant objected, submitting that the impugned certificate had alreadybeen produced without objection, that forgery must be established bythe best evidence, and that the maker of the affidavit should giveevidence and be cross-examined. Counsel for the STC then said hewould get down Morrison only if the affidavit was rejected. The 170Chairman of the arbitral tribunal then asked him to make up his mindwhether he was calling Morrison, to which Counsel&apos;s response was"provided the claimant deposits the costs incurred in the tribunal”. TheChairman then ruled that :
+"According to Morrison this document which is a vital documentproduced by the claimant is a forgery. The issue of forgery hasbeen raised, and in our view forgery should be established beyondreasonable doubt by positive evidence. It is not sufficient to baseour conclusion that an important document such as [this] is aforgery on the belated affidavit of one Mr. Morrison purported to isobe from Australia. We know that Mr. Morrison has been listed asa witness for the [STC], but [its Counsel] states that he is not callingMr. Morrison. The position of the tribunal is that we cannot accepta series of allegations on forgery without the person testifying andsubjecting himself to cross-examination . . . Therefore, we rejectthe affidavit.” [emphasis added].
+This ruling, and in particular the observation "the issue of forgeryhas been raised" did not mean that the question of forgery had beenduly put in issue. In the context, it only meant that an allegation offorgery had been made, and that the arbitral tribunal was not iso1i—,-f nmuort nn the basis of an untested affidavit
+sc
+Kristley (Pvt) Limited v. The State Timber Corporation
+(Fernando, J.)
+235
+No issue was framed, the affidavit was rejected, and the matter was- for the time being at least – closed. The fact that immediatelythereafter, on the same day, the tribunal insisted on formal issues(in regard to deregistration) serves to emphasise that that was theprocedure which the tribunal chose to adopt.
+The question of forgery was reverted to on 12.11. 96. After counselfor the claimant had raised four more issues regarding deregistration,counsel for the STC stated that he would be calling Morrison to testifyin regard to forgery. Although by then counsel had, between them, 200raised 48 issues on a very wide range of matters, and despite thearbitral tribunal&apos;s previous insistence on issues on 29. 08. 96, counselfor the STC did not raise any issue regarding forgery.
+One other matter merits mention. The claimant&apos;s Managing Directoralso testified that in January, 1994, the Chairman of the STC hadinduced him to hand over an undated letter, dictated by the latter,containing an admission that the timber had been shipped contraryto the tender conditions and the letter of credit, upon the latter&apos;sassurance that "if you give me a letter like this with these words,we will cancel the L. C. and take your timber". Although listed as 210a witness, the Chairman of the STC did not give evidence to contradictthat accusation. An issue on that point was answered in favour ofthe claimant by the majority of the tribunal.
+On 10. 12. 97 the Chairman and one Arbitrator held that the timbershipped was in conformity with the contract specifications (includingmoisture content), that partial shipment was with the consent of theSTC, and that the termination of the contract was wrongful. In twoseparate awards, they upheld the claimant&apos;s claim. The third Arbitratordisagreed. Their findings in regard to the allegation that the impugnedcertificate was a forgery are most relevant to this appeal.220
+The Chairman held that the genuineness of the impugned certificatewas never put in issue; that a specific issue would have enabled the
+236
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+claimant to know what case it had to meet; and that, therefore, theclaimant was not obliged "to counter the conjecture suggested by BillMorrison". The Arbitrator who agreed with him did not add anythingon that point. However, in his previous ruling on the question ofderegistration, he had cited with approval the following passage fromThe Law and Practice of Commercial Arbitration (Mustill & Boyd, 2ndedition, page 317) :
+"In many arbitrations, the issues lie within a narrow compass, 230and it is plain from the outset what points the arbitrator mustdecide, and what case each party will have to meet. In otherinstances, the dispute opens up a wide field of issues, or potentialissues; and in these cases it is desirable to carry out, in one formor another, a process whereby the issues are defined in writing."
+The third Arbitrator held that there was "a preponderance ofevidence" that the impugned certificate was a forgery, and that theclaimant had not established its genuineness. In considering such"preponderance" to be sufficient, he overlooked the tribunal&apos;s previousunanimous ruling that "forgery should be established beyond reason-able doubt by positive evidence". As for the lack of an issue, he 240observed :
+“The concept of framing of issues of matters in contest betweenthe parties is a concept in the Civil Procedure Code. There is noprovision for the framing of issues in the Arbitration Act. However,as a matter of convenience to spotlight the case presented byeach party, and where there is no agreement issues are framed. . .[citing certain decisions]. The parties are entitled to suggestissues but it is the ultimate responsibility of the Court to framethe issues …250 I
+I have adverted [to] the question of framing of issues since itcan be contended that no issues had been raised regarding the[impugned] certificate being a forgery. Undoubtedly, this is a seriouslapse on the part of the counsel for the [STC]. He should have
+sc
+Kristley (Pvt) Limited v. The State Timber Corporation
+(Fernando, J.)
+237
+specifically raised this issue after the evidence of Bill Morrison wasled. However, in view of the expenses incurred and the time takento have his evidence recorded and the substance of what hastranspired in evidence, both in examination-in-chief and in cross-examination, I am of the view that the placing of the evidence ofMorrison in these proceedings was not meant to be an exercise 260in futility. This evidence was specifically led because of [s/&apos;c] theimpact of the facts deposed to by him was of vital importance.Though counsel for [STC] had failed to do so, / think it was theduty of this tribunal to have raised the issues on this evidence.
+The issue that would arise therefore would read : Is the [impugned]certificate a forgery? The answer of which would be in theaffirmative. The consequential issue to this would be : If so hadthe claimant failed to furnish a valid certificate as required by… the tender documents? The next issue would then be : Ifso can the claimant claim relief in these proceedings? The answer 270of which would be no." [emphasis added].
+The STC made application dated 29. 12. 97 to the High Courtto set aside the majority award, annexing copies of the three awards.
+The claimant made an application dated 21.01.98 for the enforcementof the award, annexing copies of the three awards. Those copies werecertified by an attorney-at-law, and were described in paragraph 13of the application as "duly certified" copies. The STC, in its objectionsdated 27. 02. 98, admitted paragraph 13. The two applications wereconsolidated in terms of section 35 (1) of the Arbitration Act, and afterinquiry the learned High Court Judge made one order dated 28009. 02. 99, delaing with both applications together. He refused theapplication for enforcement and set aside the majority award, on theground that the application for enforcement was not accompanied bya duly certified copy of the aw^rd; that the award was based on aforged certificate, and therefore that it was contrary to public policyto enforce it; and that the claimant-company had been deregisteredand lacked legal capacity at the time of the reference to arbitration.
+The claimant appealed to this Court with leave on those questions.
+238
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+Both counsel made extensive oral and written submissions whichhave helped me greatly in reaching a decision.
+DULY CERTIFIED COPY OF THE AWARD :
+Section 31 (2) (a) requires an application to enforce an awardto be accompanied by "a duly certified copy of such award", andthat :
+"… a copy of an award . . . shall be deemed to have beenduly certified if –
+it purports to have been certified by the arbitral tribunalor by a member of that tribunal; or
+it has been otherwise certified to the satisfaction of theCourt."
+The learned High Court Judge held :
+" I am afraid that the certification by an attorney-at-law cannot beaccepted as duly certified under the second limb of that section. Whatis envisaged as “duly certified" in that section is certification by theArbitral Tribunal or by a member of the Tribunal or by the Registrarof the Arbitration Tribunal and certainly not an attorney-at-lawrepresenting a party. However, in this case [subesquently claimant&apos;scounsel] had filed the certified copies of the Arbitral Agreement andthe Arbitration awards duly certified by the Registrar of the NationalArbitration Centre.:
+Section 31 (2) … is a mandatory provision. It provides that theapplication to enforce the award shall&apos;be accompanied by the originalof the Arbitration Agreement and the original of the award or dulycertified copies to the satisfaction of the Court.. .[if not] the applicationwill have to be dismissed in limine. The defect cannot be cured bysubmitting the said duly certified documents at a subequent stage.
+sc
+Kristley (Pvt) Limited v. The State Timber Corporation
+(Fernando, J.)
+239
+An award made by an arbitrator is equivalent to the judgment ofa civil court. The Arbitration Act provides that on application beingmade to enforce the award, by the High Court, the award is madea decree of the High Court. For the High Court to enter decree on 320the same lines as the award either the original of the award ora duly certified copy certified either by the Arbitral Tribunal or amember of the Arbitral Tribunal or by the Registrar of the ArbitrationCentre has to be tendered with the application. This is to ensure thatthe decree that will be entered by Court will be only on the linesof the arbitral award. Otherwise there can be abuse of process. If,for example, an unscrupulous person files a copy of a fictitious awardin the High Court falsely certified by a dishonest attorney-at-law,on such application being made, the High Court is required toenter decree on the lines of the fictitious award and enforce the 330same . . .To prevent such abuse of the process of Court, theLegislature in its wisdom had made it mandatory for a party seekingenforcement to produce the original or a duly certified copy along withthe application to enforce the award at the time the application is filedto Court and not thereafter." [emphasis added].
+The learned High Court Judge failed to give full effect to clause(ii) of section 31 (2). That clause unambiguously provides for a modeof certification additional to that prescribed by clause (i). But, for thatclause certification by the Registrar of the Arbitration Centre wouldnot have been acceptable. Clause (ii) requires the High Court in each 340case, having regard to the facts of the case, to decide whether thedocument is certified to its satisfaction. The learned Judge erred inlaying down a general rule – founded on a virtual presumption ofdishonesty – which totally excludes certification by an attorney-at-lawregardless of the circumstances. The position might have been dif-ferent if the application for enforcement had been rejected promptlyon presentation, for then there might well have been insufficient reasonto be satisfied that the copy was indeed a true copy : and that wouldhave caused no injustice, as the claimant could have filed a freshapplication. But, I incline to the view that even at that stage the3so
+240
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+application should not have been summarily rejected. The claimantshould have been given an opportunity to tender duly certified copies,interpreting "accompany" in section 31 (2) purposively and widely(as in Sri Lanka General Workers&apos; Union v. Samaranayake0) andNagappa Chettiar v. Commissioner of Income Tax. ) Undoubtedly,section 31 (2) is mandatory, but not to the extent that one opportunity,and one opportunity only, will be allowed for compliance. In the presentcase, however, the order was not made immediately, but only afterthe lapse of the period of one year and fourteen days allowed foran application for enforcement. By that time, the learned Judge had 360consolidated the proceedings : hence he could not have ignored thecertified copies filed in the STC&apos;s application, which admittedly, wereidentical in all material respects to the copies tendered with theclaimant&apos;s application. He had also to consider (even if he was notbound by it) the admission in the STC&apos;s statement of objections thatthose copies were "duly certified”, as well as the fact that, by then,the claimant had also tendered copies certified in terms of clause (i).
+It was on all that material that the learned Judge had to decide whetherthe copies had been certified to his satisfaction. In deciding that issue,he was perfectly correct in noting that the Court had to ensure that370it "gave judgment according to the award" (cf section 31 (6)) : theobject of section 31 (2) was to ensure that the High Court did havetrue copies of the award. It was not reasonable, on the facts of thiscase, to conclude that the copies initially filed were anything but truecopies of the originals. There was not even the faintest suspicion orsuggestion that they were inaccurate. I
+I hold that the learned High Court Judge erred in law in rejectingthe copies of the award filed by the claimant.
+DEREGISTRATION OF CLAIMANT :
+The learned High Court Judge held that the claimant :380
+"was suffering from an incapacity at the time [it] filed the letter
+[referring] the matter for arbitration … on the 9th of July, 1996,
+sc
+Kristley (Pvt) Limited v. The State Timber Corporation
+(Fernando, J.)
+241
+when [the claimant] was deregistered. Therefore, when [the Man-aging Director] signed [that letter] the company was legallya non-existent entity. Hence, there was no valid reference toarbitration.”
+The question of incapacity depended upon Australian law relatingto the effect of deregistration and registration and restoration to theroll. Upon the invitation of the parties, the arbitral tribunal decidedthat question, as a preliminary issue, against the STC. Such a decision, 390made in the course of arbitral proceedings, is binding by virtue ofsection 19 of the Act, which – unlike section 26 – has not been madeexpressly subject to any other provision of the Act.
+Let me assume, however, that section 19 is subject to Part VIIof the Act, and that section 32 (1) (a) (i) gives the High Court adiscretionary power to set aside the award. However, that provisionis applicable only upon proof that "a party to the arbitration agreementwas under some incapacity1&apos;, i.e. that there was an incapacity to whichthe party was subject when that arbitration agreement was enteredinto. Such incapacity would vitiate that agreement. That provision, 400however, does not apply to a valid arbirtration agreement, where aparty later became subject to some incapacity.
+Further, what is relevant is the arbitration agreement, and not othersteps in the arbitration proceedings. The arbitration agreement meansthe agreement to refer to arbitration – and here that means thearbitration clause contained in the contract entered into in October,1993. At that time, there was no question of deregistration.
+The learned High Court Judge has considered the question ofincapacity as at 09. 07. 96. Afty incapacity on that date was not inrespect of the arbitration agreement, and was, therefore, irrelevant. 410In any event, he has given no reason whatever for the view that theclaimant was legally non-existent on 09. 07. 96. The legal effect ofrestoration to the roll has not even been mentioned. No reference
+242
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+has been made to the findings of the Arbitrators, let alone anydiscussion of their reasons.
+I hold that the learned High Court Judge erred in holding thatthe claimant was under an incapacity falling within the scope ofsection 32 (1) (a) (i).
+PUBLIC POLICY :
+Section 17 of the Act gives the parties the freedom to agree on 420the procedure to be followed by the arbitral tribunal. Section 19makes any decision made in the course of arbitral proceedingsbinding. Section 26 provides :
+"Subject to the provisions of Part VII .. . the award made by the
+arbitral tribunal shall be final and binding on the parties to the
+arbitration agreement."
+Part VII contains section 32 (1) (b) (ii), which empowers the HighCourt to set aside an arbitral award where "the arbitral award is inconflict with the public policy of Sri Lanka".
+The learned High Court Judge held (after referring very briefly to 430Morrison&apos;s evidence) that the impugned certificate had been provedto be a forgery. He then added that there was a finding by oneArbitrator that the impugned certificate was a forgery. He noted that"although the Chairman . . . had faulted the STC for not framing anissue on . . . forgery", in terms of section 17 “the parties haveapparently followed the Civil Procedure Code and have framedissues", that under section 146 of the Code "it is the duty of the Courtto frame issues and that duty is nob* cast on the parties"; and thatat least after Morrison had testified that the impugned certificate wasa forgery, it was the duty of the arbitral tribunal to have framed an 44«issue on the question of forgery. He observed that no such issue wasframed, and that the majority had accepted that certificate as a genuine
+sc
+Kristley (Pvt) Limited v. The State Timber Corporation
+(Fernando, J.)
+243
+certificate "and proceeded to make awards based on this forgeddocument". He concluded that forgery is an offence under the lawsof Sri Lanka and Australia, and that it is against public policy to acton a forged document, and to enforce an award based on a forgeddocument.
+It would be an oversimplification to describe the question fordetermination as being "Is it contrary to public policy to enforce themajority award on the ground that it was based on a forged 450document?"
+Several questions arise. Did the majority err in refusing to considerthe question of forgery in the absence of a specific issue? Could thequestion of forgery have been raised in the High Court? Was theHigh Court right in concluding that the impugned certificate wasforgery?
+It is very clear that the arbitral tribunal and the parties adoptedthe procedure of framing issues. There were numerous disputes andpotential disputes, including several matters not raised in the letterof termination dated 09. 12. 93. All these had to be identified with 460sufficient precision for several reasons. The arbitral tribunal neededto know what exactly it had to decide in its award – deciding all thematters, and only the matters, which it was required to decide, andnot deciding any others. Each party needed to know from the beginningwhat case it had to meet, so as to ensure an orderly presentationof evidence and submissions. Since parties sometimes changepositions, or adopt new positions, in the course of an arbitration, thequestions which then arise need to be recorded with clarity andcertainty. Issues were, therefore, necessary. Thus, when at one pointcounsel for the STC submitted that an issue on deregistration was 470not really necessary, the arbitral tribunal insisted that it was. Indeed,the learned High Court Judge rightly observed that "the parties haveapparently followed the Civil Procedure Code and have framed issues".While it is certainly not desirable that Arbitrators should mechanically
+244
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+copy court procedure and practice in every respect, this was a casein which issues were essential, and that was accepted by all threeArbitrators.
+The learned High Court Judge erred in holding that it was the dutyof the arbitral tribunal to have framed an issue on the question offorgery. A party and its legal advisers are presumed to know best 480what its case is, and what matters it should urge – and what mattersit should not. It is true that section 146 (2) of the Civil ProcedureCode expressly imposes a duty on a trial Judge to frame issues,where the parties are not agreed as to the issues. It is unnecessaryto decide whether that same duty is cast upon an arbitral tribunalbecause this was not a case where the parties were not agreed asto an issue; it was, rather, a case where the STC failed to suggestan issue. It was not even an issue which arose from the pleadings.The tribunal was not obliged to frame an issue as to forgery.
+The third Arbitrator ventured to frame, and to answer, what he 490considered to be the issues relevant to forgery. Even if I were toassume that, in the circumstances, the arbitral tribunal did have apower to frame such issues, natural justice required that the affectedparty should have been informed of those issues, and given anopportunity to suggest consequential issues and to lead furtherevidence – particularly, because the standard of proof of forgeryproposed to be applied was lower than that notified to the parties.
+I hold that, in the circumstances, the majority was justified inrefusing to consider the question of forgery without a specific issue,and the High Court was not entitled to review that decision on the 500ground of public policy or otherwise, under section 32 (1) of the Act.
+Even if the question of forgery could have been raised in the HighCourt, I hold that the learned High Court Judge&apos;s conclusion that theimpugned certificate was a forgery is unsustainable. That conclusionwas based partly on his own evaluation of the evidence and partly
+sc
+Kristley (Pvt) Limited v. The State Timber Corporation
+(Fernando, J.)
+245
+on the third Arbitrator&apos;s finding. Not only did he fail to consider theburden of proof required, but he overlooked the fact that the thirdArbitrator&apos;s finding was on a mere "preponderance of evidence" contraryto the arbitral tribunal&apos;s previous unanimous ruling that forgery requiredproof beyond reasonable doubt – a proposition amply supported by 510a long line of decisions delaling with proof of fraud, forgery andother criminal conduct in civil cases (Narayanan Chettyar v. OfficialAssignee,{3) Coomaraswamy v. Vinayagamoorthy,{4> Selliah v.Sinnammah,(5> Muthumenika v. Appuhamy,(6) Lakshmanan Chettiar v.Muttiah Chettiar,m Yusoof v. Rajaratnam,<8)) Finally, that conclusionwas reached without appreciating that it involved a denial of naturaljustice to the claimant.
+I must now refer to some of the decisions cited by learned counselfor the STC.
+In Soleimany v. Soleimany, it was apparent on the face of an 520arbitration award that the arbitrator was dealing with an illicit enterpriseunder which it was the joint intention of the parties that carpets wouldbe smuggled out of Iran illegally. The arbitrator considered thatillegality to be of no relevance since he was applying Jewish law underwhich it would have no effect on the rights of parties. It was heldthat that illegality did not invalidate the arbitration agreement; that thearbitrator had jurisdiction to consider the question of illegality; that aclaimant seeking to enforce the award in England could do so onlysubject to English law; that the interposition of an arbitration awarddid not isolate the successful party&apos;s claim from the illegality which 530gave rise to that claim; and that, therefore, enforcement of the awardwould be contrary to public policy.
+In Westacre Investments v. Jugoimport-SPDR!&apos;° it was held thata party resisting enforcement of an arbitral award would not normallybe permitted to adduce evidence that the award had been obtainedby perjury, unless that evidence was so cogent and weighty as tobe likely to have materially influenced the arbitrators&apos; conclusions hadit been adduced before them but was not available or reasonably
+246
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+obtainable either at the time of the arbitration proceedings or in therelevant court of supervisory jurisdiction.54C
+Another decision cited was International Brotherhood of ElectricalWorkers v. Iowa Electric Light and Power Company}&apos;^ An arbitratorordered reinstatement of a nuclear power plant employee who hadbeen dismissed for deliberately violating important federally mandatedsafety regulations for no better reason than that he wanted to getan early start for lunch. That order was set aside, the Court holdingthat "once the public policy question is raised, we must answer it bytaking the facts as found by the arbitrator, but reviewing hisconclusions de novo".
+In view of my conclusion that forgery was not duly put in issue 550and proved, none of those decisions assist the STC. A finding offorgery was not among the facts found by the majority of the arbitraltribunal, and such a finding was not apparent on the face of theaward. The STC despite having had evidence of the alleged forgeryat least midway through the proceedings, nevertheless failed to raisethe relevant issue.
+ORDER :
+For the above reasons, I allow the appeal, and set aside the orderdated 09. 02. 99 of the High Court. The application made by the STCto set aside the arbitral award is refused. The claimant&apos;s application 56ofor the enforcement of that award is allowed, and the High Court isdirected to file the award, give judgment according to the award, andto enter decree accordingly. The claimant will be entitled to costs ofappeal in this Court, and to costs in respect of both applications inthe High Court, in a sum of Rs. 100,000.
+&apos;•V
+GUNASEKERA, J. – I agree.
+WIGNESWARAN, J. – I agree.
+Appeal allowed.

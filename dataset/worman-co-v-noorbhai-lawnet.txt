@@ -1,0 +1,70 @@
+﻿
+( 355 )
+Present : Lascelles C.J. and De Sampayo A.J.WOBMAN & CO. v. NOORBHAI142—D. C. Colombo, 30,435.
+Action on a foreign judgment—Is defendant bound by the judgment t
+Plaintiffs obtained judgment against the defendant in the Courtof Small Causes ofCalcutta, but thedefendant wasnotdomiciled
+within the jurisdiction of the Indian Courts, and was not residentthere as the time ofthe action againsthim, and didnotappear to
+the process or agreeto submit to thejurisdiction oftheCourt of
+Small Causes.
+The plaintiffs subsequently sued the defendant in the DistrictCourt of Colombo on the judgment of the Calcutta High Court.
+Held, that the defendant was not bound by the decree of theCalcutta Court.
+T
+HE facts are set out in the judgment of the District Judge(H. A. Loos, Esq.): —
+The plaintiffs seek to recover from the defendant the &apos;sum of Rs. 2,282/which is the amount for which they obtained judgment against him inthe Court of Small Causes of Calcutta in India.
+The defendant pleads that the Calcutta Court had no jurisdiction. toentertain the action against him, presumably meaning that the contractsued upon was made in Colombo, and that he was a resident in Colomboat the date of the institution of the action in Calcutta, although he doesnot say so in his answer.
+He also pleads thathe was not servedwith summons inthat action,
+andhad no. notice whateverof anyproceedingsagainst him inthe
+Calcutta Court.
+The parties went to trial on the following issues, viz.: —
+(1) Hadthe-CourtofSmallCauses, Calcutta, jurisdictionto
+entertain the action against the defendant?
+(2) Was summons served upon the .defendant in that action?
+The plaintiffs statedthat the contractsned upon wasexecutedin
+Calcutta, and presumably satisfied the Calcutta Court that it wasexecuted at Calcutta, for otherwise&apos; that Court would have had nojurisdiction to try theaction, the defendant being residentoutsidethe
+jurisdiction of that Court,, admittedly.
+If, as a matter offact, the contractin question wasexecutedin
+Colombo, as the defendant states, and showed on the face of it that itwasexecutedinColombo,itis quiteclear thatthe defendant, would
+haveproducedacopy ofthecontractin supportof his statement.He
+has not produced it, however, and he- gives no explanation of bis failure28-
+1912.
+1912.
+Worman<fc Co. v.
+Noorbhai
+( 356 >
+to do bo. He aayg he may have a copy of the contract, but he cannotremember ifhelookedforit. I cannotbelieve thatthe defendant
+would not remember if he looked for hie copy of the contract, nor thathe would not have produced it, or have noticed the plaintiffs to producea copy of it, if it would have established that it was executed in Colomboand not in Calcutta as stated by plaintiffs.
+If what the defendant states is true, that the contract on the face ofit shows that the place of its execution was Colombo, there is no doubtthat a copy of the contract would have been produced by him. Hisfailure to do so convinces me that the contract was executed in Calcutta,and that the CalcuttaCourt accordingly had jurisdiction toentertain
+that action.
+The other issue raised is as to whether summons was served upon thedefendant inthataction.Itis provedthatthe summonswas forwarded
+to the defendant underregisteredcoverbypost.Thedefendant
+admits thatif aregisteredletter hadbeenforwarded tohim there is
+no doubt that he would have received it; but he states that he receivedno registered letter fromCalcutta containingasummons inrespect of
+the contract in question.
+From the copy of theproceedings(C) oftheactionin the Calcutta
+Court, is appears that that Court was satisfied that summons had beenduly served on the defendant, andrecordedafindingtothat effect.
+I see no reason whatever to doubt that the summons was served uponthe defendant in the Court of Small Causes action.
+The onuslayon thedefendant toestablish that theCalcutta Court
+had no jurisdiction to entertain the action referred to, and that summonsin that action had not been served upon him. He has, in ray opinion,failed to discharge that onus, and the plaintiffs are entitled to succeed.
+Let judgment be entered in favour of plaintiffs as prayed with costs.
+The defendant .appealed.
+Haylcy (with him Talaivasingham), for the defendant, appellant.—The appellant was resident in Ceylon; the contract was made inColombo; there is nothing to support the finding of the DistrictJudge that the contract was entered into in Calcutta. The causeof action arose in Colombo; the cause of action was the refusal toaccept delivery in Colombo. The Calcutta Court had, therefore, nojurisdiction to entertain this action. See section 20 of the IndianCivil Procedure Code. Even if it had jurisdiction, summons wasnot served on the defendant. The production of the cover of theregistered letter forwarding the summons to defendant is notsufficient proof of service; the defendant denied the service ofsummons on oath.
+The judgment of the Calcutta Court, which was a foreign Court,;is not binding on the defendant as he was not resident or domiciledin Calcutta, and as he did not appear in the case or submit himselfto the jurisdiction of the Court. A foreign Court is defined in theCivil Procedure Code as a Court situate beyond the limits of, and nothaving authority in, Ceylon (see section 5).
+( 357 )
+Counsel cited 4 Nathan’s Common Law of South Africa 2080,Sirdar Ourdyan Singh v. The Rajah of Faridkote,1 Emanuel v. Symon36 Halsbury&apos;s Laws of England 284, Williams v. Richards.3
+Seneviratne, for the plaintiffs, respondents.—The Indian Courthad jurisdiction to try the case, as the place where the contract wasmade is the place where the cause of action arises. See section 17 ofthe old Indian Code, where the term “ cause of action &apos;&apos; is defined.The term “ cause of action ” has a wider meaning in India thanin Ceylon.
+A foreign judgment in personam is conclusive, and cannot beimpeached on the ground of want of jurisdiction. See Laws ofEngland, vol. VI., p. 289.
+Counsel also cited King v. van Langenberg.*
+Cur. adv. vult.
+July 11, 1912. Lascelles C.J.—
+This is an appeal from a judgment of the District Judge ofColombo giving judgment against the defendant on a judgment ofthe Court of Small Causes of Calcutta. The argument on appealprincipally turned on a point which does not appear to have beenurged before the learned District Judge. But as the considerationof that argument involves no further finding of fact, I think wecannot refuse to entertain that argument. Now it is urged byMr. Hayley that, accepting the findings of the District Judge onthe two points in issue, namely, the competence of the Court inIndia and the service of the Summons in Colombo, the presentaction is still one that is not maintainable on general principles ofinternational law. It is argued that, inasmuch as the defendantwas not domiciled within the jurisdiction of the Indian Courts, andwas not resident there at the time of the action against him, anddid not appear to the process or agree to submit to the jurisdictionof the Court of Small Causes he is not bound by the judgment ofthat Court. The authorities which Mr. Hayley has cited to us areexplicit on the point, and being authorities on questions of inter-national law they are binding on us. In the case of Emanuel v.Symon2 the facts were on all fours with the facts of the present case.The defendant had been in Western Australia and had carried onbusiness there. He then left Australia and went to live in England.His former partners then obtained a judgment against him in theAustralian Court. The defendant was served with the writ inEngland, but he entered no appearance, and did not defend theaction. The Australian Court gave judgment against him, and anaction was brought in England against- the defendant to enforcethe Australian decree; and it was held on the grounds that I havei (1894) A. C. 670.3 (1870) 6 Q. B. 155.
+* (1908) 1 K. B. 302.* (1889) 9 S. G. C. 13.
+IMS.
+WomanAt Oo. o.Noorbhai
+( 358 )
+1912.
+Tmsobixbs
+C.J..
+Woman<9 Co. v.Noorbhai
+mentioned, that the defendant was not bound by the decree of theAustralian Court. In an Indian case, Sirdar Qurdyan Singh v. TheRajah of Faridkote,1 the same principles were enunciated. I regardthese judgments as binding on us, and I would set aside the judgmentof the District Court and dismiss the action against the defendant.I think the defendant is entitled to have the costs of the appeal.As the case has proceeded on the ground that was not urged in theCourt below, I think each side ought to pay their own costs in theDistrict Court.
+Dis Sampayo A.J.—I&apos;entirely agree.
+Appeal allowed.

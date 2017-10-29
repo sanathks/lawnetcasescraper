@@ -1,0 +1,60 @@
+﻿
+( 357 )
+[Full Bench.]
+Present: The Hon. Sir Joseph T. Hutchinson, Chief Justice,
+Mr. Justice Middleton, and Mr. Justice Grenier.
+THE KING v. ABEYSEKERA.
+D. C. (Grim.), Kegalla, 1,562.
+I)verl oi <jifl—Stamp duty— Ordinance No. 3 of JS90, s. 2iI—Ordinance• No. 1 of1907, s. 29.
+A deed Of gift of land must bear an ad valorem stamp.
+A PPEAL from a judgment of the District Judge of Kegalla.In this case the accused, a notary public, was charged undersection 23 of Ordinance No. 3 of 1890 with having executed a deedof gift without having duly stamped it; and under section 29 ofOrdinance No. 1 of 1907, with having permitted one Ekneligoda to
+1 16 S. C. 366 (Nathan, voU III., p. 1700).
+1909.
+November 25.
+( 358 )
+1909. execute the said deed, which was insufficiently stamped. The deedNovember 25. of gift in question bore a stamp of Rs. 10, and was not stampedaccording to the value of the land transferred by it. The learnedDistrict Judge convicted the accused on both counts. He appealed.
+Baum (with him Batuwantudawa), for the appellant.—As this deedtakes effect after the death of the person executing it, it amounts toa will, and requires no stamp. [C.J.—It takes effect immediately—on the execution of the deed.] This is a Kandyan deed of gift,and the donor reserves a life interest. It may be revoked at anytime during the donor’s lifetime.
+If the deed cannot be treated as a will, the stamp duty payableon it is (according to the Stamp Ordinance) the same as on a con-veyance of property of the same value.
+Conveyances may be divided into three classes for purposes ofstamp duty :—
+Conveyances for pecuniary consideration.&apos;
+Conveyances for other than pecuniary consideration (i.e.,
+partly pecuniary and partly other than pecuniaryconsideration).
+Conveyances not provided for (covering cases which have6
+no pecuniary consideration whatever).
+Stamp duty on deeds of gift cannot fall under (a) or (6). It fallsunder (c).
+Walter Pereira, K.C., S.-G., for the Crown.—It is clea^that theintention of the law is that a deed of gift is to be stamped ad valoremas a conveyance. If the Legislature intended that a deed of giftshould bear a stamp of Rs. 10 irrespective of value, nothing wouldhave been easier than to have said so.
+The term “ consideration ” in the schedule to the Stamp Oidinancemust not be given a narrow interpretation; the term amounts tocausa. See Tomlin’s Law Dictionary. Consideration as used inthe Stamp Ordinance is not restricted to valuable consideration.The meaning of consideration and causa has been explained inLiptutt v. Buchanan.1 See also Van der Linden 1, 14,1.
+Usage is in favour of stamping deeds of gift ad valorem.
+Bawa, in reply.—Consideration is an English word, and weshould follow the English meaning. We should not adopt theRoman-Dutch Law interpretation of causa in explaining the term“ consideration.” Counsel cited Stroud’s Judicial Dictionary, 2Nathan&apos;s Common Law of South Africa, and judgment of theDistrict Judge (Ferdinands) in D. C., Colombo, 19,424, May, 1890.
+Cur. adv. vult.
+1 S N.L. B. 49 and 10 N. L. R. 158.
+( 359 )
+November 26, 1909. Hutchinson C.J.—
+The appellant was indicted and convicted on the charges that(1) he, being a notary public, on February 19, 1908, executed adeed No. 10,946 dated February 14, 1908, without its being dulystamped) and thereby committed an offence under section 23 ofOrdinance No. 3 of 1890; and (2) at the same time and place hepermitted one Ekneligoda to execute the aforesaid deed, which wasinsufficiently stamped, and thereby committed an offence undersection 29 (6) of Ordinance No. 1 of 1907.
+At the trial there was no evidence that he was a notary, or thathe ever executed any deed, and no deed was put in- evidence, and,with the exception of his statement (presently mentioned), therewas no evidence that he ever permitted any one to execute any deed.At the preliminary inquiry when he was charged with omitting tostate the true value of the property conveyed in deed 10,946 ofFebruary 14, 1908, his statement to the Magistrate was: “I didnot commit an offence under section 23 of Ordinance No. 3 of 1890.I acted bona fide in attesting the deed” ; and he then argued thatthe deed was properly stamped. And the prosecution contends thatthat statement, which was put in evidence at the trial before the-District Court, was an admission that he permitted Ekneligoda toexecute the deed.
+But how can I decide whether the deed is sufficiently stampedunless I see it, or at least a copy of it ? It seems that the DistrictJudge treated the documents which had been put in evidence at thepreliminary inquiry as though they had been put in at the trial.But it would be very unsatisfactory to quash the conviction forthis reason; if it were necessary, I should send the case back, so thatthe deed might be formally put in evidence ; but I do not think itis necessary, and I will deal with the real question which is at issue,which is this : whether a deed of gift of land requires an ad valoremstamp ?
+The Judge says that the deed is a deed of gift; that it purportsto be a transfer, in which the transferor, in view of his infirmityand old age and the desirability of a settlement, grants certainlands to his children ; and that no consideration is mentioned in it.And the question is, whether such a deed requires to be stampedwith an ad valorem stamp, i.e., according to the value of the property,or whether it comes under the heading in the schedule to the StampOrdinance: “Conveyance or transfer of property of any kindwhatsoever not charged in this schedule nor expressly exemptedfrom stamp duty,” which is to bear a stamp of Rs. 10. The scheduleexpressly says that on a deed of gift there shall bethe same dutyand conditions as to calculation of duty as on a conveyance ofproperty of the same value.” And as to conveyances, the provisionsare : “ Conveyance or transfer of any property for any consideration,
+1909.
+November 96.
+( 360 )
+1909. where the purchase or consideration money therein or thereuponNovember 25. expressed, or if the consideration be other than a pecuniary one, orHutchinsonpecuniary and partly other than pecuniary, the value of the
+O.J. property shall be ” so much, the duty shall be so much, accordingto scale. Then, after a special mention of conveyances by executorsand administrators and trustees, it goes on: “ Conveyance ortransfer of property of any kind whatsoever not charged in thisschedule nor expressly exempted from stamp duty, Rs. 10.”
+It seems to me that a conveyance by way of gift is not a conveyance“ for any consideration ” ; that, on the contrary, it is both intechnical and non-technical language voluntary, gratuitous, withoutconsideration. And yet what can the Legislature have meant bysaying that a deed of gift shall bear the same duty as “ a conveyanceof property of the same value ” ? If it is not a conveyance for anyconsideration, it is chargeable with a Rs. 10 stamp, whatever itsvalue may be. Did the Legislature mean that it shall bear thesame duty as a conveyance for a consideration ?.
+The Soiicitor-General stated, in the course of the argument beforeme, that in practice deeds of this kind in Ceylon always bear anad valorem stamp. There is no evidence of this; but, as the matterdid not seem to me at all clear, and it is of considerable importance,I directed it to be argued again before a Full Court, and that hasbeen done. I have now come to the conclusion that deeds of giftof land must be stamped ad valorem. I cannot accept the contentionthat the word “ consideration ” is used as equivalent simply tomotive or reason. If that were so, every deed would be made for aconsideration, and the special provision about deeds of gift wasunnecessary. No doubt the word is used sometimes loosely in thatsense, as where a man says that he makes a gift &apos;* in considerationof my advanced age,” or “ in consideration of my affection forthe donee ” ; but it is obviously here used of deeds made for aconsideration in the ordinary technical sense, as opposed to thosewhere there is no such consideration. And I do not see much forcein the District Judge’s remark that if deeds of gift were only liableto a Rs. 10 duty, there would be an easy method of evading successionduty; for it is the fact that in England deeds of gift are and alwayshave been liable to only a Rs. 10 stamp. But the provision in theschedule about deeds of gift is absolutely meaningless, unless weread it as meaning that they are to bear the same duty as “ con-veyances for a consideration ” of property of the same value; and, assome meaning ought to be given to it, that is the meaning which Ithink we should hold that it bears.
+I accordingly hold that this deed required to be stamped advalorem. And there is evidence that the value of the land conveyedby it was such that a Rs. 10 stamp was insufficient. The appellant■ opens his petition of appeal with the statement that he is a notarypublic, and he stated to the Magistrate that he attested the deed.
+( 361 )
+There is no evidence that he executed the deed, but there is sufficient1909.
+evidence that he committed the offence charged in the second November 26.
+count.Hutchinson
+The Court, besides imposing a fine, ordered the appellant to make C.J.good the deficiency of stamp duly, Rs. 122*60. I cannot find anyjurisdiction for that order. I confirm the conviction on the secondcount with a fine of Rs. 12*50, and set aside the conviction on thefirst count and the order for payment of Rs. 122*50.
+Middleton J.—
+The simple and only question before us in this case was whethera deed of gift of land requires an ad valorem, stamp, or whether itcomes under the heading in the schedule to the Stamp Ordinance,
+“ conveyance or transfer of property of any kind whatsoever notcharged in this schedule nor expressly exempt from stamp duty,” .and is liable only to a stamp duty of Rs. 10.
+In the present case the deed of gift in question reserves a lifeinterest, and will therefore come under that part of the schedulewhich says, “ gift or deed of gift of any property reserving to thegrantor any life interest or estate in property: the same duty andconditions as to calculation of duty as on a.conveyance of propertyof the same value.”
+The difficulty is as to the meaning of the words in the last ,paragraph taken in conjunction with the rules as to a conveyanceon consideration. The duty on a conveyance of property forany consideration is calculated either on the consideration money,if such is paid, or if it be other than a pecuniary one, or partlypecuniary and partly other than pecuniary, then on the value ofthe property.
+It seems to me that the provision with regard to a deed of giftbeing stamped as a conveyance of property of the same value musthave reference to the provision for the stamping of deeds made fora consideration other than pecuniary or partly pecuniary andpartly otherwise, and^so must be stamped on the value of theproperty. If this is not so, it seems difficult to give the provisionas to gifts any meaning. This I understand has been the prevailing &apos;rule. No other expression of opinion is required of us in this case,
+I understand.
+Grenier J.—
+I agree with the rest of the Court that the deed in questionrequired to be stamped ad valorem. I have had the advantage ofreading the judgment of my Lord and my brother Middleton, andthere is nothing I can add to the reasons given by them for arrivingat this conclusion.
+Varied.
+27-

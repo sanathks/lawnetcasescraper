@@ -1,0 +1,50 @@
+﻿
+( 407 )
+[Full Bench.]
+Present: Bertram C.J., Ennis and De Sampayo JJ.
+ANNAMALAI CHETTY v. MENIKA et ah190—C. R. Kurwnegala, 177.
+Joint promissory note—Right of action against survivor and executor oradministrator of deceased maker.
+A holder of a joint promissory note cannot sue in one action boththe surviving maker and the legal representative of the estate ofthe deceased maker.
+fj~^H Hi facts appear from the judgment.
+G. Koch, for appellant.—This is a matter of procedure, and notof substantive law. The two joint makers are jointly liable duringtheir lives. Why should the estate of a joint maker be not liablewhen he is dead? We are not governed by English rules of proce-dure (Mudalihamy v. Punchi Banda 2).
+[De Sampayo J;—Under the English common law only- thesurvivor is liable.]
+The Bills of Exchange Act does not enact that the survivor aloneis liable. We are governed by the Bills of Exchange Act, and not
+by the English common law.
+14 3dan. G. 860.
+1918.
+(1912) 15 N. L. B. 350.
+( 408 )
+1018.
+AnnamalaiChetty v.Mentha
+[De Sampayo J.—The Bills of Exchange Act does not deal withthis point, because it is part of the common law.]
+Under the English law an executor or administrator can bebrought into the action. The object of law is to prevent multipli-city of actions. The debt is not extinguished.
+All the joint makers must be sued altogether. Otherwise the rightof action against the person not joined as defendant is barred(Manuel Istaky v. Sinnatamby *).
+Counsel also referred to Muttiah Chetty v, De Silva2 andVattiappa Chetty v. Sinnatamby. 3
+Chief Justice referred counsel to Williams on Executors, vol. 2,10th edition, p. 1375; Lindley on Partnership, 7th editiont p. 664;Summer v. Powell; 4 Jones v. Beach; 5 and Bawsionc v. Parr.6
+Batuwantudawe (with him H. V. Per era), for respondent.
+November 27, 1918. Bertram C.J.—
+This was a case reserved by my Brother Ennis for the opinion ofthe Full Court, raising the interesting and important point whetherour rules of procedure established by the Civil Procedure Codeenable a person, who is the holder of a joint .promissory note—oneof the makers of which is dead—to sue in one action both thesurviving maker and the estate of the deceased maker. It appearsthat express provision has been made for this purpose by section 42of the Indian Contract Act, the terms of which are as follows:“ When two or more persons have made a joint promise, then,unless a contrary intention appears by the contract, all such personsduring their joint lives, and after the death of one of them, hisrepresentative jointly with the survivor or survivors, and after thedeath of the last survivor, the representatives of all jointly, mustfulfil the promise.”
+It is established in English law (which is the law governingnegotiable instruments in this Colony) that, where a promissorynote is made by two persons jointly, and one of them dies, theliability survives to the other, and the estate of the party dying isdischarged. This is a principle not confined to promissory notesalone, but applicable to all joint obligations. The Courts of Equityin English law have worked out a special exception in the case ofpartnership debts, where one of the partners is dead and his estateis undergoing administration, and, as is explained in Lindley onPartnership, 7th editionJ p. 664y it is now possible for a creditorof two partners to sue the surviving partner directly, and theestate of the deceased partner indirectly, in a single action. Hecan in that action recover his debt in such a form as may ultimatelybe found convenient from both his surviving debtor and the estate 1
+1 (1910) 13 N.L.R.284.&apos; 4 (1810) 2 MerivdU 37.
+* (1890)2 N. X. R. 109.4 (1852) 2 De Q. M, <& G. 886.
+» (1894) 1 N. L. R. 350.8 3 Russ. 539.
+( 409 )
+of the deceased. Various reasons have been assigned for thktprinciple, which it is not necessary for us here fully to discuss. Butthe only question which we really have to consider is whether thatprinciple was confined to partnership debts, or whether it wasrecognized in English law that a similar benevolent principle couldbe applied to other cases of joint obligations.
+We have examined the English authorities in connection withthis matter, and it now appears quite clear that no such generalprinciple is recognized in English law. The principle on whichCourts of Equity have acted in England is explained in Williams onExecutors, vol. 2, 10th edition, p. 137~>: "Although a partnershipliability will not generally be treated as joint and several inequity, apart from administration, there are cases in which a Courtof Equity will treat a joint obligation as several, and the truedoctrine on the subject of obtaining relief in equity by consideringjoint contracts as several appears to be that, wherever a Court ofEquity sees that in a contract joint in form the real intention of theparties was that it should be joint and several, it will give effect tosuch intention. Accordingly, in certain cases, a joint bond hasin equity been considered as several. Thus, a joint bond has inequity been considered as several, where there has been a creditpreviously given to the different persons who have entered into theobligation, and it was not the bond which first created the liabilityto pay. But where the obligation exists only by virtue of a jointcovenant or bond, the extent of its operation can be measured onlyby the words in which it is conceived; and a Court of Equitycannot give the instrument any other than its legal effect. ’ ’
+The case where this principle is, perhaps, most clearly enunciatedis that of Summer v. Powell. 1 The Master of the Rolls there said:“ The question is whether any other effect can be given to this cove-nant in equity that it has at law. It has never been determinedthat every joint covenant is in equity to be considered as the severalcovenant of each of the covenantors. When the obligation exists,only by virtue of the covenant, its extent can be measured only bythe words in which it is conceived. A partnership debt has beentreated in equity as the several debt of each person, -though at lawit is only the joint debt of all. But, there, all have had a benefitfrom the money advanced, or the credit given, and the obligationto pay exists independently of any instrument by which the debtmay have been secured. So, where a joint bond has in equitybeen considered as several, there has been a credit previously givento the different persons who have entered into the obligation. Itwas not the bond that first created the liability to pay. But in thiscase the convenant is purely matter of arbitrary convention, growingout of no antecedent liability in all or any of the covenantors to dowhat they have already undertaken. ”
+1918.
+Bertram
+C.J.
+AnnamalaiChetty v.Menika
+1 (1816) 2 Merivale 37.
+( 410 )
+1918.
+Bebtbam
+cur.
+AnnamalaiOhetty v.Memka
+There are two other cases which have been referred to in thecourse of the argument. One is the case of Jones v. Beach, 1 andthe other the case of Batvstone v. Parr? whieh make it perfectlyclear that, where a joint promissory note was given and one of theparties died, equity would not from those facts alone infer anintention that the instrument, which was in form a joint note,should be treated as joint and several.
+It seems clear, therefore, that in English law (apart from thespecial case of partnership) no right as against the estate of adeceased maker of a joint promissory note, either at common lawor in equity, belonged to the person entitled to claim upon the note.That being so, inasmuch as such a person has no claim against theestate, not even an indirect claim such as is recognized in the caseof partnerships, it seems clear that he cannot sue in a single actionboth the surviving maker of the note and the estate of the maker,who is deceased. Whether he can in any form take advantage of theright of contribution, which the surviving maker may have againstthe estate of the deceased maker in any subsequent proceedings,is not a question for us to determine.
+In view of the above considerations, I am of opinion That thejudgment of the learned Commissioner in the Court below wasright, and that the appeal should be dismissed, with costs.
+Ennis J.—I agree, and have nothing to add.
+De Sampayo J.—I also agree, and have nothing to add.
+Appeal dismissed.

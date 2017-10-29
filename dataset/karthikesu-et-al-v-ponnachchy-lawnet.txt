@@ -1,0 +1,42 @@
+﻿
+( 486 )
+Auff.17,1911
+Present: Lascelles C.J. and Middleton J.
+KARTHIKESU et dl v. PONNACHCHY.215—D. C. Jaffna, 7,541.
+Novation—New debtor a minor—Creditor may sue ike original debtor.
+Novation may take place, not only by express agreement, but alsotacitly or by implication, the consent of the parties to the novationbeing implied from the circumstances and the conduct of theparties. In the latter event, however, the inference must be soprobable and conclusive as to make it quite clear that the partiesintended to recede from the original obligation and to replace itby another—in fact, it must be a necessary inference, the newobligation being inconsistent and incompatible with the continuedexistence of the original obligation.
+Where a creditor with the animus novandi accepts a new debtorin lieu of another, and it turns out that the new debtor had nocapacity to contract,—
+Held, that the creditor could sue the original debtor.rjIHE facts are set out in the judgment of Lascelles CJ.
+H. A. Jayewardene, for the defendant, appellant—The learnedDistrict Judge has held that the execution of the second mortgageamounted to a novation. The effect of a novation is to extinguishthe former debt. Novation has the same effect as actual payment.Van der Linden 268 ; Pothier, vol. /., p. 390 ; Rader Saibu v.Teverayan.1 Silva v. Silva2 does not apply to this case.
+Tissaveerasinghe, for the plaintiffs, respondents.—If at the time ofthe delegation the person substituted was an insolvent, the creditormay, if the insolvency was unknown to him, sue the original debtor.Pothier, vol. /., p. 395 {sec. 568). The same principle would applyto this case.
+The learned Judge was wrong in holding that the granting ofthe second mortgage by a person who had no capacity to grant itwas a novation in law. There was, moreover, no declaration ofan express intention to extinguish the old debt Van der Linden269. Silva v. Silva* is an authority in point
+Jayewardene, in reply.—The section quoted by the counsel forthe respondents clearly shows that the creditor could not sue theoriginal debtor in the case of the insolvency of the person delegated.
+Cur. adv. vult.
+1 (1900) 4 N. L. B. 166.2 (1909) 13 N. L. B. 33.
+( 487 )
+August 17, 1911. Lascelles C.J.—
+The facts which have given rise to this appeal are the following.By mortgage bond No. 837 dated August 7, 1905, VetupillaiVenasitamby and Ponnachchy mortgaged certain property to theplaintiffs to secure the payment of Rs. 1,000. By deed No. 1,245dated November 28, 1906, Ponnachchy and her husband grantedthe mortgaged property by way of dower to their daughter Valli-ammai. On the same day Valliammai and her husband Ramalin-gam mortgaged the land comprised in the first mortgaged bond, andalso a land belonging to Ramalingam, to the plaintiffs ; a surety. also joined in the bond. It was admitted that in another action,
+C. Jaffna, No. 6,878, it was held that, so far as Valliammai wasconcerned, the second mortgage was invalid, on the ground thatValliammai was a minor and unmarried. The plaintiffs now bringthis action against Ponnachchy on the original mortgage.
+The District Judge has held that this is a case of novatioh ; thatthe second mortgage bond was given with the intention of discharg-ing the first bond ; but he has decided on equitable grounds and onthe authority of Silva v. Silva1 that the plaintiffs are entitled inthe circumstances to sue on the first mortgage bond. It has beencontended that under the Roman-Dutch law the novation of acontract cannot be established, unless the assent of the creditor tothe novation has been expressly declared, and a passage fromVan der Linden (269) has been cited in support of this proposition.But the Constitution of Justinian (C. VIII., 41), which insisted uponan express declaration of the creditor’s assent, does not appear tohave been strictly followed in modem Roman-Dutch law. Grotius(G. XLIV., 4) states that transfer of debt is never presumed unlessit clearly appears to have been the intention that the first debtorshould be released; Maasdorp (vol. IV., p. 165) states the law ontins point as follows :—
+By our law differing in that respect from the Roman law, novatio maytake place, not only by express agreement, but also tacitly or by impli-cation, the consent of the parties to the novatio being implied from thecircumstances and the conduct of the parties. In the latter event,however, the inference must be so probable and conclusive as to makeit quite clear that the parties intended to recede from the originalobligation and to replace it by another—in fact, it must be a necessaryinference, the new obligation being inconsistent and incompatible withthe continued existence of the original obligation.
+This passage, I think, indicates the principle which should befollowed in considering the sufficiency of evidence to establish anagreement of novation.
+In the present case there can, I think, be no question of theintention of the parties. The animus novandi is apparent from the *
+* (1909) 13 N. L. R. 33.
+Aug. 17,1911
+Karthikeau,
+v.
+Ponnachchy
+Aug. 17,1911
+LA80BULES
+C.J.
+Karthikesu
+v.
+Ponnachchy
+( 488 )
+conduct of die parties. In the technical language of the Romanlaw, Ponnachchy, the surviving debtor, was the delegans, and Valli-ammai and her husband Ramalingam were the delegate whoseproperty was to be hypothecated to the creditor, with his consent,in substitution for the property comprised in the first mortgagebond. But it was an essential element in this agreement thatValliammai should be in a position to grant a valid legal mortgageof her property ; and this was clearly contemplated by the partieswhen the second mortgage bond was executed. But as the transferto Valliammai and the second mortgage bond, so far as she was con-cerned, were inoperative, the agreement by which a novation of thedebt was intended to be effected was, in my opinion, void. It wasto follow the classification adopted in Pollock on Contracts, an agree-ment relating to a subject-matter, a right or title, contemplated bythe parties as existing, but which in fact did not exist. The presentcase is analogous to the sale of an interest in land which both partiesbelieved to exist, but which had been in fact defeated (Hitchcock v.Giddings1), or to an agreement made on the erroneous suppositionthat the tenant for life of a settled estate was alive (Cochram v.Willis2).
+It is true that the second mortgage bond was not inoperative, sofar as the personal liability of the debtors and their surety and thehypothecation of Ramalingam’s land were concerned, but the agree-ment for a novation of the original debt depended principally on themortgage of Valliammai’s land. Without this security the plaintiffswould not have agreed to a novation of the debt.
+The error, therefore, with regard to Valliammai’s title was funda-mental, and went to the root of the agreement. The agreement forthe novation of the debt being void, there is nothing to prevent theplaintiffs from suing on the original mortgage bond. I agree withthe result at which the District Judge has arrived, and would dismissthe appeal with costs.
+Middleton J.—
+I agree, but I think also that the decision of the learned Judgemay be upheld on the ground th^t the novation was conditional onthe validity of Valliammai’s title to mortgage and convey. In thedeeds D 2 and D 3 there are special covenants by her, that she hastitle both to convey and mortgage. Her right to do so seems to meto have been the principal ground for the novation. That conditionhas failed by the decision in D. C. Jaffna, 6,768, and I think theplaintiffs would thereby be relegated to their former position andrights.
+1 1 Pan 1.
+Appeal dismissed.2 (I860) L. E. 1 Oh. App. 68.

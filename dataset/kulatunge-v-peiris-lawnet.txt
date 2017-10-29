@@ -1,0 +1,82 @@
+﻿
+sc
+Kulatunge v. Peiris
+357
+KULATUNGE
+v.PEIRIS
+SUPREME COURTFERNANDO, J.
+EDUSSURIYA, J. ANDWIGNESWARAN, J.
+SC APPEAL NO. 5/2002CA NO. 448/92 (F)
+DC MT. LAVINIA NO. 673/SplMAY 07, 2002
+Appeal – Power of the Court of Appeal pending an appeal to make an orderfor the preservation of the subject-matter of the action – Inherent power -Defendant&apos;s right to effect repairs to the house which is the subject-matter of
+suit.
+The original plaintiff filed action for a declaration of title to the house in suit andfor ejectment on the ground that the original defendant was a licensee whoselicence had been duly terminated. The defendant pleaded a tenancy which pleathe District Judge upheld and dismissed the action.
+During the pendency of the action, the substituted defendant applied by way ofa motion to effect temporary repairs to the house to preserve it against collapsingespecially having regard to the condition of the roof. This was allowed by theCourt of Appeal despite objections made on behalf of the substituted plaintiff-appellant.
+Held:
+The Court of Appeal has inherent power to restrain a party from destroyingthe subject-matter of the action, and also to authorize a party to takenecessary steps (subject to such terms and conditions as the Court mayprescribe) to preserve the subject-matter of the action.
+The substituted defendant failed to make a proper application to the Courtof Appeal invoking its inherent jurisdiction to make an order allowingher to make necessary repairs to the premises in suit. Such applicationshould have been supported by affidavit and the Court should have giventhe substituted plaintiff an opportunity of being heard before making anorder.
+358
+Sri Lanka Law Reports
+[2002] 1 Sri LR.
+The defendant himself has the right to effect necessary repairs in theexercise of his rights under the tenancy or in terms of his obligationsunder the agreement or in terns of delictual obligations to third parties.
+Cases referred to:
+Panchanan v. Dwarka – 3 Cal LJ 29.
+De Silva v De Silva – (1964) 68 NLR 45.
+Abeyaratna v. Perera – (1912) 15 NLR 347.
+Sirinivasa Them v. Sudassi Them – (1960) 63 NLR 31.
+APPEAL from the judgment of the Court of Appeal.
+A K. Premadasa, PC with C. E. de Silva for substituted plaintiff-appellant.
+P. P. Gunasena for subsitituted defendant-respondent.
+Cur. adv. vult.
+August 02, 2002FERNANDO, J.
+On 23. 05. 1982 the plaintiff-appellant-appellant (the plaintiff) instituted 1an action for declaration of title and ejectment against the defendant-respondent-respondent (the defendant) in respect of a portion ofpremises No. 67/1, Galle Road, Dehiwala. The basis of that actionwas that the defendant was a licensee whose licence had been dulyterminated. The defendant pleaded a tenancy from 1965. After trial,on 16. 07. 1992, the District Court upheld that plea and dismissedthe action. The plaintiff appealed. The original plaintiff and defendanthaving died, substitution was effected in the course of the proceedings.
+Nine years later the appeal was still pending in the Court of Appeal. 10The substituted defendant filed the following motion on 15. 10. 2001 :
+sc
+Kulatunge v. Peiris (Fernando, J.)
+359
+. .the subject-matter of this appeal is a house, and part ofthe house has already collapsed. But, the appellant prevents therespondent from repairing it temporarily at least until the finalizationof this appeal . . .
+The substituted defendant-respondent is 84 years old, and sherespectfully seeks the permission of Your Lordships&apos; Court toeffect temporary repairs to the house to avoid the danger of seriousbodily harm being caused to inmates."
+The order made on 30. 10 2001 by the Court of Appeal was 20as follows :
+"Mr. Gunasena [Counsel for the substituted defendant] statesthat portion of the corpus … is now in a dilapidated state andthe roof of the house may collapse at any moment and presentlythe [substituted defendant] has taken temporary measures to avertthat, and … seeks from Your Lordships&apos; Court [authority?] to makenecessary arrangements to repair and avert the possibility of thehouse collapsing until the hearing of this appeal.
+Mr. C. E. de Silva [Counsel for the substituted plaintiff] statesthat there is only a motion filed by [the substituted defendant] stating 30that it requires . . . repairs and [objects] that this is a final appealand there is no interim order that can be made allowing repairs.
+The application of Mr. Gunasena is allowed. The substituteddefendant is allowed to effect temporary repairs to the roof onlyto prevent the building from collapsing [and] is not entitled to claimany compensation for the said repairs."
+The substituted plaintiff obtained special leave to appeal on twoquestions :
+360
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+Whether there was proper application made to the Court ofAppeal, invoking the jurisdiction of that Court for an order to 40effect repairs;
+Whether there was evidence to satisfy the Court that the premisesrequired urgent repairs.
+This Court declined to stay the operation of the Court of Appealorder pending the final hearing and determination of the appeal.
+Mr. A. K. Premadasa, PC on behalf of the substituted plaintiff,contended that the Court of Appeal had no jurisdiction to order orpermit the repair of the subject-matter of the action, even if that wasnecessary for the preservation of the premises, and that the substituteddefendant should have applied to the Rent Board for an order regarding sorepairs although an appeal was pending in the Court of Appeal. Healso submitted that in any event there was no proper proof – evenby way of a supporting affidavit – that the premises were in needof repairs. It was not his position that the substituted plaintiff desiredthe preservation of the premises – perhaps because the destructionof the premises might have resulted in the termination of the tenancy,if indeed there was one.
+The first question for consideration is whether the Court of Appealhad jurisdiction to allow the substituted defendant to effect repairs toprevent the building from collapsing, ie to prevent the virtual destruction soof the subject-matter of the action.
+Our attention was not drawn to any express provision, statutoryor otherwise which confers such a power on the Court of Appeal.Does the Court have an inherent power to make an order to preventthe destruction of the subject-matter of the action? Section 839 of
+sc
+Kulatunge v. Peiris (Fernando, J.)
+361
+the Civil Procedure Code did not confer any new power, but wasmerely legislative recognition of an age-old and well-established principlethat every Court has inherent power "to make such order as maybe necessary for the ends of justice&apos;&apos;, ie to act ex debito justitiaeto do that real and substantial justice for the administration of which soalone it exists – see Sarkar, Civil Procedure, 8th ed, p. 482, citingPanchanan v. DwarkaP Whatever the legal proceeding, it can trulybe said that the ends of justice will be defeated if the party who isUltimately successful finds himself unable to enjoy the fruits of hisvictory because in the meantime the subject-matter of the action hasbeen destroyed. Of course, such destruction may be due to the actsof a third party, or to other causes beyond the control of ‘the partiesand the Court, and it is not necessary to consider in this case whatorder the Court may make in such cases. The position is entirelydifferent, however, where the impending destruction of the subject- 70matter is due to the act of a party or can be averted by the act ofa party.
+Section 54 of the Judicature Act empowers the District Court togrant an interim injunction restraining a party to an action from doingvarious acts "tending to render the judgment ineffectual". Undoubtedly,that would include an attempt to destroy the subject-matter of theaction. Further, section 669 of the Code empowers a District Courtto make an order for the preservation of any property which is thesubject of a pending action – and that is independent of any attemptto destroy such property. The rationale for those provisions is clear; sothe destruction of the subject-matter of the action would defeat theends of justice. Although those provisions do not apply, expressly,to the Court of Appeal, where that Court is satisfied the destructionof the subject-matter of the action would tend to render the ultimatejudgment in appeal ineffectual, and thereby defeat the ends of justice,
+I hold that the Court of Appeal does have inherent power to restrain
+362
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+a party from destroying the subject-matter of the action, and also toauthorize a party to take necessary steps (subject to such termsand conditions as the Court may prescribe) to preserve the subject-matter of the action.90
+I wish to refer to two decisions in support of this conclusion. Inde Silva v. de Silva,® it was held that the District Court had inherentpower to stay the sale of properties seized in execution of a writ wherethe judgment-debtor had made a revision application to set aside thedecree – to avert the injustice which would otherwise be caused tothe judgment-debtor if he succeeded and then found that his propertieshad been sold. In Abeyaratna v. Perera,(3) a sale had taken placein accordance with the directions in a decree. It was held, despitethe lack of express provision, that "the Court must have inherent powerto render that sale effectual" by ordering delivery of possession to 100the purchaser. Furthermore, in the present case, there is also thecircumstance that the appeal had been pending for over nine years.Furthermore, it has been recognized that a Court has inherent power,and indeed is under a duty, to repair the injury done to a party byits own act : Sirinivasa Thero v. Sudassi TheroSA) In the exercise ofits discretion, the Court must not ignore the prejudice caused by thedelay in hearing an appeal.
+The inherent jurisdiction of the Court of Appeal was not affectedby the fact that the substituted defendant might have had a right toapply to the Rent Board, as submitted by Mr. Premadasa, because nointer alia that was not a judicial remedy, and the substituted defendant&apos;sstatus as tenant was disputed.
+The next question is whether that jurisdiction was properly exercised.Apart from the unsubstantiated statement in her motion, the substituteddefendant failed to place any evidence before the Court, at least by
+sc
+Kulatunge v. Peiris (Fernando, J.)
+363
+way of affidavit, as to the nature and extent of the damage to thepremises, and in particular to the roof. The facts were not admittedby the substituted plaintiff and she who was not given an opportunityof controverting the allegations in that motion.
+Accordingly, I hold that the substituted defendant failed to make 120a proper application to the Court of Appeal invoking its inherentjurisdiction to make an order allowing her to make repairs necessaryfor the preservation of the premises in suit. The Court of Appealshould have directed her to make an application supported by affidavit,and should have given the substituted plaintiff an opportunity of beingheard before making an order. The appeal must therefore be allowed.
+However, a third question arises. Did the substituted defendanthave a right to effect repairs, which right the Court of Appeal shouldhave recognized in its order?
+The District Court had held in 1992 that the defendant was a tenant. 130the substituted defendant was entitled to the benefit of that findingunless and until it was reversed on appeal. Accordingly, when hermotion came up for consideration in the Court of Appeal it shouldhave been considered on the basis that she was the tenant. A landlordis under a common law duty to ensure that the rented premises arenot uninhabitable or dangerous. I do not have to consider whetherthat duty is subject to any modification where the rent of the premisesis restricted by law so severely that it is insufficient to meet the costof repairs. Besides, the substituted defendant does not make anyclaim to the costs of repair. Hence, whatever may be the position 140as to liability for the cost of essential repairs (necessary expenses),if the landlord does not effect such repairs so that there is a dangerthat the building may collapse, the tenant may attend to them himself- in the exercise of his rights under the tenancy agreement, or in
+364
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+the discharge of his duty to mitigate the loss and damage which hewould otherwise suffer, or in the fulfilment of his delictual obligations,owed in his capacity of occupier of the building, to prevent the buildingbeing a source of injury to third parties. In the normal course, suchrepairs ensure to the benefit of the owner.
+For the above reasons, while allowing the appeal the order of the 150Court of Appeal is varied as follows :
+“The substituted defendant has the right, pending the appeal,to effect essential repairs to the roof to prevent the building fromcollapsing and is not entitled to claim any compensation for suchreapirs."
+In the circumstances, I make no order for costs.
+EDUSSURIYA, J. – I agree.
+WIGNESWARAN, J. – I agree.
+Appeal allowed subject to qualified relief to substituted defendant.

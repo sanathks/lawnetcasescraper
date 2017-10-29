@@ -1,0 +1,44 @@
+﻿
+( 430 )
+1924*
+. Present: De Sampayo J. and Garvin A.J.APPUHAMY v. RAMANATHAN.37—D. C. Regatta, 5,186.
+Insolvency—Seizure of decree in favour of debtor in execution? of decreeagainst him—Subsequent adjudication of insolvency of debtor—Rights of seizing creditor to proceeds of execution—InsolvencyOrdinance, s. Ill—Civil Procedure Code, 88. 254 and 339.
+A seized in execution of his decree against his judgment-debtorB a mortgage decree in favour of B. A few days thereafter Bwas adjudicated an insolvent. A however proceeded with theexecution) and realized a sum of which was only sufficient tosatisfy As decree in part. The District Judge refused A’sapplication to draw this sum on the ground that the proceedsshould be paid to the credit of the insolvency proceedings.
+Held, that A was entitled to draw the money.
+By virtue of section 264 of the Civil Procedure Code, B in effectceased to be the decree-holder when it was seized, and the decreewas no part of B’s estate when B was adjudicated insolvent.
+It is impossible to apply to A the provisions of section 111 of theInsolvency Ordinance, and to hold that he only seized the decreeand did not sell it before B’s adjudication, as in the case of a seizureof a decree in execution there is no sale&apos; of a decree. Under section339 of the Civil Procedure Code all that the seizing creditor doesis to apply for execution of the decree for his own benefit and toexecute it accordingly.
+&apos;J&apos;HE facts are set out in the judgment.
+Samaramchreme (with him Wijewardene), for the applicant.
+H. 7. Perera, for first respondent.
+Reuneman, for Becond respondent.
+1 (1900)4 N.L^R. 302.
+* Note.—The question of res judicata was not raised in this case.
+( 481 )
+June 2, 1924. De Sampayo J.—
+In this case an interesting and somewhat difficult point has arisenfor decision out of the following facts. The plaintiff Carolis Appu-hamy sued the defendant Ramanathan Chetty on a mortgage bondand obtained judgment for a large sum of money. Carolis Appu-hamy himself was sued by the appellant in case D. C. Colombo,No. 289, and judgment was entered against him. The appellantas judgment-creditor in the Colombo action seized in executionthe decree in Carolis Appuhamy’s favour in this action. This was onMarch 18,1921. It appears that Carolis Appuhamy was adjudicatedan insolvent on March 22, 1921, in D. C. Kalutara, No. 170. Theappellant, however, proceeded with his execution in this case, andrealized a stun of Rs. 4,504 by sale of the defendant Ramanathan’sproperty in May and June, 1921. This sum of money would onlypartly* satisfy the appellant’s decree in the Colombo action. Thefirst respondent, on this appeal, appears to be another judgment-creditor of Carolis Appuhamy, and the second respondent is thepetitioning creditor in the insolvency case. On July 26, 1921, theappellant inoved to draw the said sum of Rs. 4,504, and wasopposed by the first and second respondents. The District Judgerefused the motion, and hence this appeal.
+The ground of the District Judge’s order is that “ the moneywhich was lealized after Carolis Appuhamy was adjudicated aninsolvent becomes an asset of the insolvent’s estate, and should bepaid to the credit of the insolvency proceedings at Kalutara.”Even if this were so, the respondents had no status in the matter.The only person who could have opposed the appellant and claimedthe money on behalf of the insolvent estate was the assignee ininsolvency. As a matter of fact, on a previous occasion when theappellant sought to draw the money, the assignee appeared andstated he had no cause to show against the appellant&apos;s application,except that he suggested that the claim of the appellant as CarolisAppuhamy’s judgment-creditor in the Colombo case, No. 289, hadbeen fully paid off, and he stated that he would take steps in theColombo case. The assignee then made himself a party in theColombo case, and the District Judge made an inquiry as to thealleged satisfaction of the decree. The District Judge found thatonly part of the decree had been satisfied and payment was certifiedto that extent, and the appellant was declared entitled to recoverthe whole or any part of the amount in deposit in this action. Thusthe assignee went wholly out of the matter, and I think that, so faras the argument in the District Court is concerned, the way is madeclear for the appellant to draw the money in deposit.
+At the argument of this appeal, the objection of the respondentswas put on a new basis. It was contended that section 111 of the
+-Ivency Ordinance, No. 7 of 1853, prevented the appellant
+1924.
+Appuhamy
+v.
+Bamanathan
+( 432 )
+1924. from claiming the money. The relevant portion of that sectionDb Sampayocorresponds to section 184 of the Bankruptcy Act of 1849
+j. is as follows
+AppuhamyRamanathan
+The words in italics are those which have been emphasized.
+This provision may not be easy to construe, but it certainly has onlyto do With proof of debts and payment, and both Archbold on Bankmruptcy and Griffith and Holmes (ed. 1869) deal with it on that footing.
+It is obvious that the whole scope of section 111 is to provide thatcertain classes of creditors shall not be paid more than a rateableportion of their debts. Such creditors must, in order to get eventhat proportion, come into the insolvency case and prove theirclaims, for only proved creditors can be paid any dividend at all.
+I do not think that the section was intended to restrict the rights ofexecution creditors outside the insolvency proceedings. It appearsto me also that the provision sanctions the crediting a mortgageewith the full value of his security, and the appropriation by anexecution-creditor of the whole proceeds of an execution sale, butif either of them comes into the insolvency case and proves hisclaim, he is like other creditors entitled to receive odly a rateablepart out of the remaining assets of the insolvent&apos;s estate. Apartfrom this question of construction, it is clear that this sectiondoes not apply to this case or to any case in which a decree infavour of an execution-debtor is seized and is sought to berealized. Section 254 of the Civil Procedure Code declares that“ when the property seized is a decree of Court the judgment-creditor at whose instance the seizure is made shall be deemed theassignee thereof under assignment as of the date of the seizure,made by the person against whom he is executing the writ of execu-tion, so far as that person&apos;s interest extends, and he may realizethe decree in the maimer hereinafter provided for the execution of adecree by an assignee thereof.” By reason of such assignment byoperation of law, when the decree in this case was seized on. March18,1921, the insolvent Carolis Appuhamy would appear in effect tohave ceased to be the decree-holder and the decree to be any partof his estate. Moreover, in the case of the seizure of a decree inexecution there is no sale of the decree, for under section 339 of theCivil Procedure Code all that the seizing creditor does is to apply for.
+“ No oreditor having security for his debt, or having made anyattachment of the goods and effects of the insolvent, shallreceive upon any such security or attachment morethan a rateable part of suoh debt, except in respect of any.execution served and levied by seizure and sale upon or anymortgage of or lien upon- any part of the property of suchinsolvent before the date of the filing of a petition for segues-tration of his estate
+execution of the decree for his own benefit and to execute it accord-ingly. This is what the appellant did in this case. • Consequentlyit is impossible to apply to the appellant the provision of section111 of the Insolvency Ordinance, and to hold that as he only seizedthe decree and did not “ sell ” it before Carolis Appuhamy’s adjudica-tion as an insolvent, he is obliged under section 111 of the InsolvencyOrdinance to suffer the money to be paid to the assignee in insolvencyfor the benefit of all the creditors of Carolis Appuhamy.
+1924.
+Db Saupatc
+X
+Appuhamy
+v.
+Itomattutiha*
+In my opinion the appellant’s application to draw the sum ofRs • 4,604 in deposit in Court should have been allowed, and I wouldse&apos;G aside the order of the District Judge, and direct that the said&apos;ium of money be paid to the appellant. The respondents shouldpay to the appellant the cost of the proceedings in the DistrictCourt and of this appeal.
+Gabvin A.J.—I agree.
+Appeal allowed.

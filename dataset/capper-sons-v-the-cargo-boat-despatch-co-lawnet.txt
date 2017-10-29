@@ -1,0 +1,67 @@
+﻿
+( 122 )
+Feb. 24,1011
+Present: Van Langcnberg A J.
+CAPPER & SONS v. THE CARGO BOAT DESPATCH CO.478—C R. Colombo, 20,144.
+Common carrier—Cargo consigned to plaintiffs landed by defendant—Nocontract between defendant and plaintiffs—Defendant liable toplaintiffs for damage done to cargo—Shipping.
+Cargo consigned to the plaintiffs per ss. “ Pagenturu ’* was landedby the defendant Company, who were common carriers.
+Held, that the defendant Company was liable to the plaintiffsfor damage caused to the cargo, though there wus no contractbetween plaintiffs and the defendant Company.
+T
+HE facts are set out in the following judgment of the Com-missioner of Requests (M. S. Pinto, Esq.) :— &apos;
+Five bales of paper consigned to the plaintiffs were landed-by thedefendant from ss. “ Pagenturu " of the Hansa lino of steamers. Oneof the packages reached the warehouse in a damaged condition. Theboards were off. The paper was quite unfit for printing purposes, forwhich It was indented. It was bent, &apos; at up, and split; some of thereams were loose and mixed up.
+The plaintiffs claim as damages the value of the paper. The defend-ant denies his liability, on the grounds that he was under no obligationto the plaintiffs with regard to the paper under a contract or otherwise,and that on the receipt he gave to the ship he made the remark that oneband of this bale was loose.
+Assana Marikar v. Livera1 was relied on by the defendant. Butthat case is clearly distinguishable from this. There was proof of aspecial contract between the carrier and the shipping agents ; there wasno proof that the carrier was a common carrier ; the claim was inrespect of a package which was lost after it reached the warehouse,and when it was no longer in the custody of carrier.
+As remarked by Layard C.J. in the course of the argument in thecase cited, the carrier is certainly- responsible between the ship and theshore. The question is, to whom ? Surely not to the shipping agents,who have by clause 8 of the bill of lading divested themselves of allresponsibility in respect of the goods after they have left the ship. Noexpress contract with the shipping agents whereby the defendant boundlumself to them for tire safe delivery of the goods has been proved. Itwas hinted that there was a written agreement, but that agreement hasnot been produced ; nor has it been proved otherwise that there is anybinding agreement with the agents. I am of the opinion that there isno valid agreement with the agents, whereby the earner could be maderesponsible to them for the goods. There is no proof that any freightwas due to the agents on this hale, or that the agents were in anyway interested in its reaching the shore in good condition.
+> (HW’S) 7 A L. R.
+( 123 )
+The defendant looked for payment to the Wharfage Company, whoit has been proved, acted as the agents of the plaintiffs. He exercises,with the permission of the Collector of Customs, a lien over the goodsconveyed by him on account of the charges payable to him. In viewof these circumstances, and in the absence of contract, express orimplied, with the shipping agents, I think that a contract with theplaintiffs can be implied. Even if a contract cannot be implied, thedefendant, who, it has been proved, is a common carrier,-is liable apartfrom contract (Beven on Negligence, vol. II., p. 875).
+Feb. U, mi
+Capper 4)Sons v. TheCargo BoatDespatch Co.
+Moreover, as there is no proof that the shipping agents were in anyway interested in this hale of paper after the defendant took charge ofit, the defendant may be regarded as a carrier to whom the vendor’sagent delivered the paper to be forwarded to the vendee. From thispoint of view the plaintiffs are the right persons to sue the defendantfor the damage done to the paper (Chitty on Contracts, 15th ed., p. 461).
+The defendant being a common carrier is an insurer of the goodshe conveys, and is bound to deliver them in the same condition inwhich he received them (Beven on Negligence, vol. II., p. 885). Whentaking charge of this paper at the steamer he made a remark on thereceipt that one band on the bale in question was loose. This receiptis for various packages, and is in the following terms :• “ Received theunder-mentioned goods in good order and condition (here occurs thedescription of the. goods).” Against the description of this bale is theremark “ One band loose.” The only interpretation that can be put-on this receipt is that the defendant found this bale in good conditionand order, except that he found a band loose. Probably, owing to oneof the bonds being loose, the paper got damaged during the transportfrom the steamer to the shore. But the defendant was bound to seethat no damage occurred while the bale was in his custody. Theburden is shifted on to him to show that he delivered it in the conditionin which he received it. This burden he has not discharged. In fact,he made no attempt to prove that no damage was caused while thepackage was in his custody. As the paper was in good condition whenthe defendant took it. over, but was damaged on its way to the shore,the defendant is liable, although the damage was probably caused byone of the bands being loose. The defect in the packing was visible(Beven on Negligence, vol. II., p. 885).
+As regards the fee paid to the surveyor, there was no agreement withthe defendant that the losing party in this case was to pay it. Thesurvey ■was made without the defendant’s consent. If the Surveyreport had been put in evidence, the fee may have been recoverable ascosts in this case, but the report was not admissible in evidence, as thesurveyor was not called as witness. When the plaintiff’s counsel offeredto produce it, it was objected to, and the objection was upheld. &apos;
+Judgment for the plaintiffs as prayed, with costs, less the ainoimtclaimed as having been paid t-o the surveyor.
+The defendant Company appealed.
+Bawa (with him E. W. Perera), for the defendant, appellant.—There is no contract whatever between plaintiffs and defendant.
+(124 )
+Feb. 24, ion The defendant was acting in pursuance of a contract with VolkartCapper & Brothers. (Assana Marikar v. Livera1 is in point ; see also HudsonSons V. The v. Baxendale.2)
+Dee^Jh°Co. The plaintiffs ought to have proved that the damage was causedby defendant&apos;s negligence. (Subraya v. B. /. S. N. Co.3) There isno proof that any damage was caused between ship and shore.There is no proof as to the amount of damages plaintiffs havesuffered. The law as to carriers is not the English Law. The pointwhether the defendant was a carrier was not raised at the trial.
+Hayley, for the plaintiffs, respondents.—The point as to quantumof damages was not raised in the lower Court.
+Ordinance No. 5 of 1852 has introduced the English Law inmatters relating to carriage of goods by ships. The Roman-DutchLaw is the same as the English Law (3 Maasdorp 260).
+There is an implied contract between the defendant and theplaintiffs. The defendant is, moreover, a common carrier. SeeAddison on Contracts, 10th ed., p. 942 ; and Halsbury&apos;s Laws ofEngland, art: “ Common Carrier ”.
+3 The carrier is liable for damages to the consignee, and not to theconsignor. The shipowner is not liable after the cargo leaves theship&apos;s side. They are protected by the bill of lading. But if theshipowner gives the paper to an agent or nominee of theirs, are theagents not liable if they cause damage ?
+Bawa, in reply.—Ordinance No. 5 of 1852 does not introducethe English Law as to these matters. Small boats are not ships.Ordinance No. 22 of 1866 introduces the English Law as to carriersby land only. Under the Roman-Dutch Law there must be proof ofnegligence to make the carrier liable. See 2 Nathan, pp. 999, 1002.
+Counsel also cited Encyclopaedia of the Laws of England, article onCommon Carrier.
+Cur. adv. vult.
+After argument Van Langenberg A.J. referred counsel to Symonsv. The Wharf and Warehouse Company, Ltd.*
+Cur. adv. vult.
+February 24, 1911. Van Langbnberg A.J.—
+The plaintiffs in their plaint set out that they are the proprietorsof a newspaper known as The Times of Ceylont and that thedefendant carried on business in Colombo as the “ Cargo Boat De-spatch Company ” ; that on or about June 1.1, 1910, the defendant,at the request of the plaintiffs, conveyed from the steamer known asthe “ Pagenturu ”, to the wharf five packages of paper, one of which
+1 (1904) 7 n. L. /?. ns.* {1859) 2 H. iV. o7o.
+3 (1905) $ Hal. 40.
+* (1S78) 1 S. C. C. 02.
+( 125 )
+was delivered at the wharf in a damaged state, and the plaintiffsclaimed Rs. 63 as damages. The defendant denied having anycontract with the plaintiffs, and pleaded as follows :—
+For a further answer the defendant&apos; says that he hasobtained from Messrs. Volkart Brothers the exclusiveprivilege of landing goods from Hansa line of steamers,and that in the exercise of the said privilege he landedfrom the ss. “ Pagenturu ” a package of paper which wasin bad order when he took delivery, one of the twohoops by which the planks on either side of the packagewere kept in position being loose, and the said packagewas in due course delivered to the “ bad order ” ware-house
+The following issues were framed :
+Was there a valid contract between the plaintiff and the
+defendant on which the defendant is liable to be sued ?
+If not, is the defendant nevertheless liable ?
+Did defendant decline to deliver the bale of paper in the
+same condition in which he received it ?
+Even if not, is the defendant liable ?
+What damages, if any ?
+After trial the learned Commissioner held that a contract betweenthe plaintiffs and the defendant can be implied, and that, apart fromcontract, the defendant, who had been proved to be a commoncarrier, is liable, and having found that the damage was causedwhile the goods were in the defendant’s custody, he entered judgmentfor the plaintiffs. Mr. Bawa argued that there was no suggestionin the plaint that the defendant was a common carrier, nor did theissue specifically suggest this, or raise the question of the defendant’sliability as a carrier. He contended that the action was onepurely for breach of contract, and that the plaintiffs had failed toprove any contract. In my opinion no contract has been provedin this case. The facts are very nearly similar to those in Symons v.The Wharf and Warehouse Company, Ltd.,&apos; and I rely on that case inarriving at my decision. The question then remains whether theliability of the defendant as a carrier can be considered. Mr. Bawasubmitted that it was not until both sides had led evidence thatMr. Hayley, who appeared for the plaintiffs, raised this question,and that the defendant had no opportunity of putting forward hisdefence to a claim of this kind. If I thought that the defendanthad contested the plaintiffs’ claim only as a claim on a contract,
+I would set aside the judgment and order a new trial, but it seemsto me that the parties undertook to put all the facts which theyconsidered relevant and material before the Commissioner, andasked him to determine on those facts whether the defendant was
+1 {1878) 1 8. C. C. 92.
+Feb. 24,1911Van
+Langkn-BERO A.J.
+Capper isSeme v. TheCargo BoatDespatch Co.
+14-
+( 126 )
+Feb. U> 1911Van
+Langen-BTCRG A.J.
+Capper &Sane v. TheCargo BoatDespatch Co.
+liable. The second issue would have no meaning unless l amcorrect. Further, objection docs not seem to have been taken toMr. Hayley putting forward the alternative claim. On the con-,trary, the Commissioner records that it was contended for thedefendant that he was not liable on contract or otherwise. It seemsto me that the plaintiffs have proved that the defendant is a commoncarrier, that he received the goods in good order and condition(vide the receipt granted to the ship), and that the goods weredamaged in transit between ship and shore, the evidence being thatthe package in question was at once put into the “ bad order ”warehouse by the defendant. The remark on the receipt that oneband was loose does not alter the position. 1 think, therefore, thatthe defendant’s liability as a carrier has been established. Therewas no evidence led on the issue relating to damages, but Iunderstand from Mr. Hayley that the amount was not seriouslyquestioned, and in the petition of appeal no reference is made tothis matter.
+I dismiss the appeal with costs.
+Appeal dismissed.

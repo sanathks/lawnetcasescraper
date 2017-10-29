@@ -1,0 +1,80 @@
+﻿
+( 171 )
+[Full Bench.]
+Present: Bertram C.J. and Ennis and Da Sampayo JJ.SEDBIS v. SINGHO.
+797—P. 0. Panadure, 71,293.
+Village Tribunal—Exclusive jurisdiction—Petty thefts—When juris-diction of Police Court is ousted—Ordinance No. 24 of 1889, s. 28—Prosecution by police—Has Village Tribunal^ jurisdiction 9—“ Native ”—Crown.
+The jurisdiction of a Police Court with regard to petty thefts isnot ousted, unless it is shown, not only that the property stolenexceeds Rs. 20 in value, but also that the offence can be adequatelypunished by a Village Tribunal*
+It is within the jurisdiction of a Police Magistrate to determinewhether, in his opinion, the case is one which could. adequately bedealt with by a Village Tribunal; it is not necessary that it shouldappear on the record that the Magistrate formally addressed him-self to this question.
+T
+HE accused in this case was charged in the Police Court withtheft of a bull valued at Rs. 18, and convicted.
+Elfins J. referred the case to a Bench of three Judges.
+E. W. Jayawardene (with him Navaratnam), for appellant.—Thejurisdiction conferred on Village Tribunals by section 28 of Ordi-nance No. 24 of 1889 is exclusive (section 34). Petty thefts asdefined in that section are:—
+(a) Thefts where the property stolen does not exceed in valueRs. 20;
+(6) Thefts which are not preceded or accompanied by violenceto the person.
+The relative clause, “ which may be punishable by no higherpunishment than a fine of Rs. 20, or rigorous imprisonment fortwo weeks/’ refers to the second part only. As soon as the PoliceMagistrate finds that the value of the property stolen is less thanRs. 20, he must refer the case to the Village Tribunal under section34. He should not exercise jurisdiction, inflict punishment, andthen say that the offence is not adequately punishable by theVillage Tribunal.
+[De Sampayo J.—Is theft of cattle petty theft ? It is an offencepunishable with Shipping under the Penal Code.]
+In Vadis v. Don Davith et al. (428-430, P. C. Matara, 21,027)1accused charged with the theft of a bull worth Rs. 20 was sentencedto six months’ imprisonment. But the Supreme Court held inappeal that the Village Tribunal had exclusive jurisdiction.
+1 S. C. Min., July 7,1920.
+1921*
+( 172 )
+1921.
+Sedria v,Singho
+Ranghamy v. Yahapatkhamy1 does not apply, as by consent ofparties it was referred to the Police Court.
+If, for the sake of argument, it be taken that the relative clauseapplies to both parts, then the Police Magistrate must, beforeproceeding to try the accused, inquire whether the offence is onetriable by the Village Tribunal, and, if so, must at once refer theparties to the Village Tribunal.
+Jansz, C,C.t for Crown, respondent.—When the complaint ismade by a police officer under section 148 (6), Criminal ProcedureCode, the Police Magistrate gets ipso facto jurisdiction. Theword “ parties ” in section 28 means parties in private prosecutions,and does not apply to police prosecutions. Tn such prosecutionsthe Crown is the real prosecutor, and so’Village Tribunals have nojurisdiction {Munasinghe v. Sinnappu2 and Gomelis Appu v. EndorisAppu, P. C. Matara, 21,428 3). Theft is a cognizable offence underthe Penal Code. In Seneratne v. William Sinno4 theft of an articleworth Rs. 4&apos;50 was held to be an offence of a serious nature andtriable by the Police Court.
+In the present case the charge should properly be under section 368,Criminal Procedure Code, which provides for whipping in additionto any other punishment. If the relative clause applies to thelatter part of section 28 only, the word “ which ” is superfluous.Abo as Village Tribunab cannot impose imprisonment, exceptiii default of payment of fine, an accused committing theft of anarticle worth Rs. 20 could escape with a fine of Rs. 20. Counsel abocited Arasaratnam v. Nallaiak et al;5 and contra Carolis v. Fernando?Appuhamy v. Louisa? and GoonetiUeke v. Punchi Singho.®
+E. W. Jayawardene, in reply.
+5Cur. adv. vult.
+November 14,1921 Bertram C.J.—
+The question for determination is the interpretation of a para-graph of section 28 of the Village Communities Ordinance (No. 24of 1889), namely, the paragraph defining the criminal jurisdictionof Village Tribunab with regard to “petty thefts.” The terms ofthe paragraph are as follows :—
+ts Petty thefts, that is to say, thefts where the propertystolen does not exceed in value twenty rupees,^or where thetheft is not preceded or accompanied by violence to the person,and which may adequately be punished by no higher punish-ment than a fine of twenty rupees or rigorous imprisonmentfor two weeks.”
+1 {1920) 7 C. W. R. 245.
+* {1917) 4C.W .R. 263.
+8. C. Min., April 20,192L
+{1920) 7 Q. If. R- 132.
+5 (1M3) 5 a W. R. 109.0 {1906) 1 A. C. R. 69.
+? {1907) 3 Bah 179.
+8 {1907) 3 Bal. 113.
+( 173 )
+The question is, is the Rs. 20 limit absolute, or is it subject tothe qualification of the final clause of the paragraph ? In otherwords, to oust the jurisdiction of the Police Magistrate, is itsufficient to show that the property stolen did not exceed Rs. 20in value, or must it also be shown that the offence is one which canadequately be punished by a sentence which it is within the juris-diction of the Village Tribunal to awarct ?
+The question is one which has frequently come before this Court.Counsel on both sides have collected the various authorities bearingon the subject. We are also indebted to Mr. Charles de Silva, asamicus curi&, for two authorities, in addition to* those cited bycounsel in the case.
+The question is primarily a question of grammar. Does therelative clause “and which may adequately be punished, &o.,”apply to both branches of the previous sentence, that is, both tothat relating to thefts of property not exceeding Rs. 20 in value, andalso to that relating to thefts unaccompanied by yiolenoe, or doesit apply only to the latter ? In other words, what is the antecedentof “which”? Though the paragraph is not perhaps phrased inthe most happy manner possible, I conceive that there can beno doubt that grammatically the antecedent of “ which ” must bethe word “ thefts ” in the first line of the paragraph. There is noother possible antecedent. To interpret the* paragraph in themanner suggested by Mr. Jayawarden©, it would be necessary toeliminate the word “ which ” altogether. The answer is, therefore,that the relative clause applies to both branches of the paragraph,and that the jurisdiction of the Police Court is not ousted, unlessit is shown not only that the property stolen exceeds Rs. 20 invalue, but also that the offence can be adequately punished by aVillage Tribunal.
+If this were not the true interpretation, the result would be indeedpeculiar. The sentence of two weeks’ rigorous imprisonment whichthe Ordinance empowers the Village President to award is onlyin default of payment of a fine. On the interpretation suggestedon behalf of the appellant it would appear that a theft of propertyworth Rs. 20 could only be punished by a fine not exceeding the sameamount. This is a result which the Legislature could never haveintended, andit is satisfactory to find that, grammatically construed,the words it has used are not susceptible of such an interpretation.
+It appears on an examination of the authorities that, with oneexception, they all have proceeded upon this view. See Garolis v.Fernando,1 Nagdlingam v. Hendrick,2 Seneratne v. William Sinno*Banghamy v. Yahapathhamy Aratchi,4 and Fonseka v. Pieris.* Theonly exception is the judgment of Schneider A.J. in Varlis v. Don
+1221.
+Bertram
+C.J.
+Sedriev.Sing ho
+1 (1906) 1 A. C. R. 69.8 (1920) 7 G. W. R. 132.
+*1 (7. W. R. 62.* (1920) 7 C. W. R. 246.
+8 (1920) 7 C. W. R. 266..
+Davith ei a?.,1 but in that case it does not appear that eitherthe authorities or the question of grammatical construction msbrought before the learned Judge. In Carolis v. Fernando (supra),Middleton J. did, in fact, send the case baok to the Village Tribunal,but on the express ground that the case was one which mightadequately be punished by a fine of Rs. 20.
+This being the position, it seems clear that it is within thejurisdiction of a Police Magistrate to determine whether in hisopinion the case is one which could adequately be dealt with by aVillage Tribunal. But Mr. E. W. Jayawardene raises the contentionthat he must expressly address himself to the consideration of thisquestion, and that it inuBt appear on the record that he has done so.This is not in accordance with the previous decisions of this Court.Thus,in Pererav. Salgado2 (which wasa case of theft unaccompaniedby violence), Wood Renton C.J., following a previous decision ofDe Sampayo J. in Podi Sinno v. Charles? treated the fact thatthe Magistrate had imposed a sentence of three months&apos; imprison*ment as an indication that he was of opinion that the offence wasnot one that could be adequately punished by a Village Tribunal.The same opinion was expressed by De Sampayo J. in Nagalingamv. Hendrick (supra) and by Wood Renton C.J. in B. v. Alwis.4Of course, a Magistrate may be wrong in taking this view, and,if there is an appeal, his decision Will be revised by this Court as inCarolis v. Fernando {supra), but I do not think it necessary thatit should appear that the Magistrate formally addressed himselfto the question, if the case is of such a nature as to justify hisdecision. In the present case the property stolen was a bullvalued at the comparatively low amount of Rs. 18.. Quite apartfrom the fact that a cattle theft can seldom be considered trivial,it seems to be unreasonable to suggest that theft of an animalworth Rs. 18 can be&apos; adequately punished by a fine of Rs. 20. Ithink, therefore, that the learned Magistrate rightly dealt with thesame.
+As we are deciding the case on these grounds, it is not necessaryfor us to give a decision upon a contention raised by the Crownin this case, namely, that the fact that the case was prosecuted bythe police of itself ousted the jurisdiction of the Village Tribunal,on the ground that the prosecutor in such a case must be taken tobe the Crown, and not therefore a “ native ” within the meaningof the Ordinance, or upon Mr. Jayawardene’s counter contention.that for the purpose of founding jurisdiction what must be con-sidered is, who was the substantial complainant, that is to say,at whose instance did the police institute proceedings ? As, however,the cases have been collected and cited, it would be well to sum-marize their effect, leaving a final decision for another occasion.
+1 8. C. Min., July 7, 1920.*(19U)$Ba*. AT. 0. 47.
+8 (291$) iBtd.N. O. 17.M 2917) 4 C. W. i?- 328*
+( 175 )
+Mr. Jayawardene’s contention was examined and rejected byWood Benton C.J. in Burak v. Sirmiah,1 but 1 am by no meanssure that Wood Renton C.J. adopted the view now put forwardby Mr. Jansz. Although he expresses the opinion that the contentionof Mr. Allan Drieberg in that case was correct, it is not this contentionwhich he in fact upholds, but another one, namely, that the factthat the prosecution is in the hands of the regular police itselfindicates that the oifence is not a trivial one, a contention whichI myself should be reluctant to admit without qualification. DeSampayo J., however, in Munesinghe v. Sinnappu* treats this caseas deciding that when the formal prosecutor institutes proceedingson behalf of the Crown, the Grown is to be considered the prosecutor, &apos;and the same appears to be the implication of Shaw J7s decisionin Comdis Appu v, Endoris Appu* So also in Simon v. Siyatu4a case of cattle trespass, Shaw J. treats “ The Government Railway ”as the real prosecutor. On the other hand, both this&apos; decisionand the decision of Be Sampayo J. in Munasinghe v. Sinnappu(supra), which was a case of theft of Crown plumbago, prosecutedby a village headman, seem to be not necessarily inconsistentwith Mr. Jayawardene’s contention, that it is the real and sub-stantial prosecutor who must be looked at. Indeed, the actualratio decidendi of Wood Renton C.J/s judgment in Burak v. Sinniah(supra) seems more consistent with that contention than withthat now advanced by the Crown. The matter must await furtherelucidation.
+For the reasons above explained, I am of opinion that the appealshould be dismissed.
+Esrns J.—I agree.
+De Sampayo J.—
+In deciding Nagalingam v. Hendrick 6 and Podi Sinno v. Charles,eI have taken the view that, when a case of “ petty theft” is institutedin the Police Court, it is within the competence of the PoliceMagistrate to consider, under paragraph 2 of section 28 (criminal)of the Village Communities Ordinance, No. 24 of 1889, whether, inview of the nature of the offence and the attendant circumstances,the offence can be adequately punished by a Village Tribunal, andto try the case himself. The argument in this case has not convincedme that that view, which has also been taken by other Judgesof this Court in several cases, is erroneous. It is no doubt truethat proviso 3 to the above section enables the Attorney-Generalor Crown Counsel or the Government Agent, when a case had beeninstituted in the Village Tribunal, to stop the hearing of such case •
+1921.
+Bxbtbam
+CJ.
+Sedria v.Singho
+» (1917) 19 N. L. B. 383.
+• (1917)4 0. W. B. 263.
+9 S. O. April 20,1921.
+4 (1917) 4 C. W.B. 420.4 (1918) 1C. W- JR. 02.
+4 (191S) lBm. N O. 17.
+( 176 *)
+1921.
+Bebtbam
+O.J.
+Sedria v.Singho
+and to direct it to be tried by the Polioe Court. But in my opinionthe proviso furnishes an additional procedure for preventing theexercise of jurisdiction by the Village Tribunal* and does not affectthe qualifying words “ which may adequately be punished by nohigher punishment than a fine of Bs. 20 ” in the definition of 44pettythefts,” which the Village Tribunal is given exclusive jurisdictionto try. I agree with the Chief Justice that those words^ governboth the previous sentences* and are not restricted to thefts com-mitted without violence to the persons.
+I therefore think that this appeal sbos&d be dismissed.
+<
+Appeal dismissed.

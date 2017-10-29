@@ -1,0 +1,159 @@
+﻿
+e
+Sri Lanka Law Reports
+[1996]1 Sri LR.
+ABN-AMRO BANK N.V.
+V.
+CONMIX (PRIVATE) LIMITED AND OTHERS
+SUPREME COURT.
+FERNANDO, J.
+KULATUNGA, J.
+WADUGODAPITIYA, J.
+PERERA, J. ANDWIJETUNGA, J.
+S.C. APPEAL NO. 1/95.
+A. REVISION APPLICATION NO. 602/92.
+C. COLOMBO NO. 15740/L.
+JULY 28, 1995.
+Civil Procedure Code-Civil Procedure Code, sections 84, 86 (2), 90 and 91A-Default- Fixing forex parte trial-Naturaljustice – audi alteram partem rule.
+sc
+ABN-AMRO Bank N.V. v. Cortmix (Pvt.) Ltd. and Others
+9
+Section 84 (Civil Procedure Code) applies after the audi alteram partem rule hasbeen complied with-i.e. after the defendant has been given due notice and anadequate opportunity of stating his case.
+If there has been no due service of summons (or due notice) but the Courtnevertheless mistakenly orders an ex parte trial then for breach of naturaljustice section 86 (2) provides a remedy: a defendant&apos;s default can be excused ifit is established that there were reasonable grounds for such default and onesuch ground would be the failure to serve summons. The consequence of non-compliance with natural justice is not that non-appearance ceases to be adefault, only that, although the lapse is a "default", yet it is a default for whichthere are reasonable grounds, and which therefore can be excused. The needto comply with natural justice and "default" are therefore two distinct matters.While the audi alteram partem rule does not modify or restrict the meaning of"default”, breach of that rule affords an excuse for "default”.
+Default cannot be confined to a wilful or deliberate failure or refusal.
+The date for ex parte trial may be fixed by the Court on the day of the default oron another day. Although section 84 provides that the Court shall proceed tohear the case ex parte, this is not imperative. Despite default section 91A em-powers the Court to grant further time to a defendant who has failed to fileanswer, and this is so even if the plaintiff objects: and section 90 seems to permitthe Court to refrain from proceeding with ex parte trial against one defendant, ifthere is another defendant against whom inter partes proceedings are necessary.
+While in appropriate circumstances it is open to a trial judge to give time, evenif it is not sought (e.g. following a practice of granting time for answer on thesummons returnable date, or where a defendant is not represented) yet it can-not be argued that the non-exercise of that discretion is always wrongful.
+Section 84 does not require proof of intentional default as a condition precedentto an ex parte trial. The failure to file the answer on that day or to apply for anextension of time to file answer was per se a default within the meaning ofsection 84.
+Cases referred to:
+Ameen v. Raji (S.C. 88/94-S.C. Minutes of 3.11.94)
+Silva v. Silva (1957) 60 N.L.R. 272, 275.
+Sameen v. Abeywickrema (1960) 61 N.L.R. 442.
+Rajapakse v. Senanayake (1987) 1 CALR 146.
+Millingdon London Borough Council v. Cutler (1968) 1 QB 124,135.
+Ameen v. Raji (S.C. 88/94-S.C. Minutes of 3.11.94 overruled)
+10
+Sri Lanka Law Reports
+[1996J1 Sri L.R
+APPEAL from judgment of the Court of Appeal.
+Romesh de Silva, P.C. with Palitha Kumarasinghe, Mrs. Saumya Amarasekereand Hiran deAlwis for Defendant – Petitioner-Appellants.
+Faisz Mustapha P.C. with ikram Mohamed, M.S.M. Suhaidand H. Vithanachchiand A. Panditharatne for the Plaintiff-Respondent-Respondents.
+Cur.adv.vult.
+September 11, 1995.
+FERNANDO, J.
+I have had the advantage of seeing the judgment, in draft, of my brotherKulatunga, and while I am in agreement with his conclusion and order Iwish to deal at greater length with the Appellant&apos;s submissions as to theinterpretation and application of section 84 of the Civil Procedure Code.
+The submissions of Mr. Romesh de Silva, PC, for the Appellant maybe summed up as follows:
+"Default" in section 84 refers to a deliberate, wilful or contumaciousrefusal to participate in the proceedings (by not filing answer or appear-ing), and does not include an inadvertent omission; in this case there was,if at all, only an inadvertent omission by the Appellant to file answer.
+Even if "default" does include an inadvertent omission, and assum-ing that the Appellant was in default, yet-
+an order for ex parte trial could only have been made if the Plaintiff-Respondent ("the Respondent") had appeared on the occasion of the Ap-pellant&apos;s default on 5.3.92, and had moved for an order for ex parte trial:the journal entry of that day does not show that the Respondent appearedon that day, or moved for such an order; and
+in respect of the default on 5.3.92, the Court could have made suchan order only on the same day, and not on any subsequent date-this beingone of the grounds on which His Lordship the Chief Justice had expresslyrested his judgment in Ameen v Raji,(1) it is the duty of the Court to fix thecase for ex parte hearing by an order made on the very day of the default,and if it does not, there is no statutory bar to the Court accepting theanswer on a subsequent date.
+sc
+ABN-AMRO Bank N.V. v. Conmix (Pvt) Ltd. and Others
+(Fernando. J.)
+11
+In fact, however, the Appellant was not in default on 5.3.92, because(although the journal entry did not record this) the Appellant&apos;s instructingAttorney had asked for, and had been granted, time till 11.3.92 to fileanswer. Reliance was placed on that Attorney&apos;s affidavit dated 24.9.92,filed in the Court of Appeal, in which he also states that on 11.3.92 hemade a statement from the Bar to that effect.
+When it was pointed out to Mr. de Silva, that on 11.3.92 (whateverthe position might have been on 5.3.92) the Appellant had not only failedto file answer but had also neglected to ask for further time, and that theRespondent had moved for ex parte trial on that day, Mr. de Silva submit-ted that the learned trial Judge and the Court of Appeal had proceededsolely on the basis of the Appellant&apos;s default on 5.3.92, and that thereforethe order for ex parte trial made by the learned trial Judge could not now besupported or justified by reference to the admitted default on 11.3.92.
+In any event, section 84 is not imperative, and the Court has a dis-cretion, after considering all the circumstances, to refrain from making anorder for ex parte trial. Here the Appellant had manifested an intention tocontest the Respondent&apos;s claim, and had even reserved, in its statementof objections filed on 11.3.92, the right to file answer "after the Court hasdealt with the question of interim orders". Hence the trial Judge should nothave ordered ex parte trial.
+NATURAL JUSTICE
+Mr. de Silva commenced with a general submission that the policy ofthe law, consistently with natural justice, was that Courts hear cases interpartes and that a Court would depart from that principle only if a personvoluntarily refused to participate in the proceedings. Accordingly, he ar-gued, the audi alteram partem principle required that section 84, and par-ticularly "default", be liberally construed so as to permit ex parte trialonly against a defendant who refused to participate in the proceedings:This is misconceived. Section 84 applies after the audi alteram partemrule has been complied with • i.e. after the defendant has been given duenotice and an adequate opportunity of stating his case. The questionthat we are faced with relates to a subsequent failure by the defendant tomake use of the opportunity given to him: whether that failure justifiesproceedings without his participation.
+12
+Sri Lanka Law Reports
+[1996)1 SriLR.
+If there has been no due service of summons (or due notice), but theCourt nevertheless mistakenly orders an ex parte trial, then for that breachof natural justice, section 86 (2) provides a remedy: a defendant&apos;s defaultcan be excused if it is established that there were reasonable groundsfor such default, and one such ground would be the failure to serve sum-mons. The consequence of non-compliance with natural justice is not thatnon-appearance ceases to be a "default", only that, although that lapse isa "default", yet it is a default for which there are reasonable grounds, andwhich therefore can be excused. I am therefore of the view that the needto comply with natural justice and "default" are two distinct matters; thatwhile the audi alteram partem rule does not modify or restrict the meaningof "default", breach of that rule affords an excuse for "default".
+"DEFAULT&apos;
+Mr. de Silva contended that the ordinary meaning of "default" is wilfulrefusal, and did not include an inadvertent omission; he claimed that thecorresponding Sinhala word "cjcn(d e^s©" also had the same meaning.He was unable, however, to support these assertions with either dictionarydefinitions or judicial precedents. The ordinary meaning of "default" and"o(PC6 is the failure to be present or to act in the required manner.In section 84 "default" refers to the two "failures" previously mentioned:namely, "failure" to file answer, and "failure" to appear, and it is not in-tended to introduce a different concept, such as wilful refusal or deliberateomission. The word "such" puts this beyond doubt, since it confirms anintention to refer, compendiously, to something previously mentioned,namely "failure". The Sinhala text is even clearer, since the same word"e^d cn(s@" (and its variations) is used throughout. "Default", therefore,cannot be confined to a wilful or deliberate failure or refusal. This view isreinforced by a consideration of Chapter XII of which section 84 is a part.Thus, section 86 (2) refers to "default" in the same sense; and section 87uses "non-appearance" as being equivalent to "default in the appearing".
+If reliance is placed only on the journal entry of 5.3.92, the Appellantwas in default.
+IMMEDIATE ORDER FOR EX PARTE TRIAL
+Although the journal entry of 5.3.92 does not record any appearance
+sc
+ABN-AMRO Bank N.V. v. Conmix (Pvt.) Ltd. and Others
+(Fernando, J. )
+13
+by or on behalf of the Respondent on that day, the written submissionstendered by the Appellant in the District Court, and the Appellant&apos;s in-structing Attorney&apos;s affidavit dated 24.9.92, show that the Respondentwas in fact represented. While usually an order for ex parte trial would bemade upon the plaintiff&apos;s application, section 84 casts a duty on the Court
+"to proceed to hear the case", and accordingly even if the
+plaintiff does not ask for it, the Court has the power to order ex parte trial.
+Mr. de Silva strenuously contended that, either on the plaintiff&apos;s appli-cation or ex mero motu, the Court could not make such an order on anysubsequent date. This was part of the ratio decidendi in Ameen v Rajimand was relied on in the Appellant&apos;s written submissions. It would thusseem that this appeal was referred to this bench of five Judges to recon-sider that decision.
+Superficially, the word "forthwith" tends to suggest that the Court mustmake an order immediately. However, section 84 requires the Court "tohear the case ex parte forthwith, or on such other day as the Court mayfix". Obviously, a decision to hear the case on same day, must be takenthe same day. But a decision to hear the case on some other day is notrequired to be taken the same day; the phrase "as the Court may fix” isnot qualified by "forthwith” or other similar words. Accordingly, I am of theview that the date for ex parte trial may be fixed by the Court either on theday of the default, or on another day; and with respect, that Ameen v Rajimust be overruled on that point.
+There are practical considerations which confirm this interpretation. Onthe summons returnable date it may not be known- for good reasons, suchas illness or absence abroad, when the plaintiff, his Counsel or an essensialwitness would be available, and the Court may therefore fix a calling date.Again, Ameen v Raji shows that a case may come up in the roll Court and,upon the defendant&apos;s default, be sent immediately to the appropriate Courtdealing with trials of that kind, to enable a trial date to be fixed; and it mayhappen that when the record reaches that Court, it has already adjournedfor the day. Similar problems may arise when there is an impending changein the territorial jurisdiction of a Court, or a re-allocation of its work; orwhen a Judge is on leave or is due to go on transfer soon; or when on theday of the defendant&apos;s default, the matter comes up before a Judge whodoes not wish to deal with it for personal reasons.
+14
+Sri Lanka Law Reports
+[1996J1 Sri LR.
+Thus the language of the section as well as practical considerationscompel an interpretation which does not require an immediate order forexparfetrial-although, undoubtedly, in the normal course such an orderwill be made the same day.
+Mr. de Silva also argued that the Respondent&apos;s conduct on 5.3.92 re-sulted in an estoppel or a waiver, which would preclude the making of asubsequent order for ex parte trial. In view of the foregoing, this contention
+is unsustainable both on the facts and the law.
+*
+CONTRADICTING THE JOURNAL ENTRIESThe Court of Appeal held that the question of default had to be deter-mined by reference only to the case record and the journal entries, andthat the record could not be supplemented by means of affidavits.
+While this is the general rule, it is settled law that in exceptional circum-stances journal entries can be contradicted:
+"A journal has been maintained in this action and the Court is entitled to
+presume that it was regularly keptomnia praesumuntur rite et
+solemniter esse acta. This presumption is of course rebuttable, but theRespondent, on whom is the burden, has not placed before the Courtsufficient material to rebut it." (Silva v Silva,(2> Sameen vAbeyawickrema,(3>)
+Mr. de Silva relied on the Appellant&apos;s instructing Attorney&apos;s affidavitdated 24.9.92 to contradict the journal entry of 5.3.92. It is notpermissible to attack the order of the learned trial Judge, made on
+on the basis of facts which could have, and should havebeen placed before him for consideration before he made his order.Further even the Appellant&apos;s written submissions filed in the DistrictCourt on 25.3.92 do not make any reference to a statement from theBar said to have been made on 11.3.92. Indeed, that affidavit was nottendered promptly even to the Court of Appeal, for it was filed onlysix weeks after the petition dated 7.8.92 for revision. Mr. de Silvacventured to explain away that delay by suggesting that the Attorney-at-Law had been abroad, but this was untenable because we foundthat the petition dated 7.8.92 had been signed by him, so that obvi-ously he could also have submitted his affidavit at the same time.
+sc
+ABN-AMRO Bank N. V. v. Conmix (Pvt.) Ltd. and Others
+(Fernando, J.)
+IS
+In these circumstances I am of the view that the Appellant had failedto rebut the presumption that the journal entries are correct, and I holdthat the Appellant was in default on 5.3.92.
+DEFAULT ON 11.3.92
+Mr. de Silva was thus forced to concede that, even on its own version,the Appellant was in default on 11.3.92. He was unable to explain why onthat day, even after the Respondent had moved for ex parte trial, no appli-cation was made for further time for answer in terms of secton 91 A, whichempowers the Court to grant further time even after the expiration of thetime originally allowed.
+Mr. de Silva sought to get over this difficulty by arguing that the orderfor ex parte trial which the learned trial Judge thereafter made, was basedon the default on 5.3.92, and not on the default on 11.3.92. However, thejournal entry of 11.3.92 records that the Respondent moved for ex partetrial because the Appellant had failed to obtain or apply for time to fileanswer, and makes no reference to a specific date of default; this seemsreferable to a default on 11.3.92, or even to a continuing default, ratherthan to a default only on 5.3.92.
+I hold that the Appellant was in default on 5.3.92 and on 11.3.92. Theorder for ex parte trial was correct. Insofar as it was based on the defaulton 5.3.92, it was correct because the learned trial Judge had power tomake that order on a subsequent day; and in any event, it was madeconsequent upon an application referable to the admitted default on 11.3.92,and the failure to refer to that default would not vitiate that order.
+DISCRETIONARY POWER TO ORDER EX PARTE TRIAL
+Although section 84 provides that "the Court shall proceed to hear the
+case ex parteI agree with Mr. de Silva that this is not imperative.
+Despite default, section 91A empowers the Court to grant further time toa defendant who has failed to file answer, and this is so even if the plain-tiff objects; and section 90 seems to permit the Court to refrain fromproceeding with ex parte trial against one defendant, if there is anotherdefendant against whom inter partes proceedings are necessary.
+16
+Sri Lanka Law Reports
+[1996J1 SriLR.
+The question is, however, whether the learned trial Judge erred infailing to grant further time, ex mero motu, where the Appellant&apos;s lawyershad failed to ask for time- even after the Respondent had moved for exparte trial. While in appropriate circumstances it is open to a trial Judgeto grant time, even if not sought (e.g. following a practice of granting timefor answer on the summons returnable date, or where a defendant is notrepresented), yet it cannot be argued that the non-exercise of that dis-cretion in favour of the Appellant, in the circumstances of this case, waswrongful. In coming to this conclusion, I take into consideration the factthat section 86 (2) will allow the Appellant an opportunity, if a defaultdecree is entered, to satisfy the trial Judge that he had reasonable groundsfor that default. I am not impressed by the argument that the Appellanthad manifested an intention of contesting the claim, and had purportedto reserve the right to file answer. Section 84 requires a Judge to con-sider only the default, and the intention of the defaulter; and a defendantcannot give himself the right to file answer after the time allowed by lawunless he first obtains the permission of the Court.
+For these reasons, I agree that the appeal must be dismissed withcosts in a sum of Rs. 5,000/- payable by the Appellant to the Respondent.
+KULATUNGA, J.This is an appeal by the 1st defendant in the above action who hadunsuccessfully applied to the Court of Appeal to set aside, by way ofrevision, an order made by the District Judge, fixing the case for ex partetrial and issuing an interim injunction pending the final determination of thecase. His Lordship the Chief Justice has directed that this matter be heardby a Bench of five Judges.
+The plaintiff and the 1st and 2nd defendants are companies incorpo-rated under the Companies Act. The plaintiff sued the said defendants andanother inter alia, for a declaration that the plaintiff is the owner of a por-tion of the land which had been ordered to be sold in execution of thedecree in D.C. Colombo case No.15626/MB. The 1 st defendant was theplaintiff in that action. He was the mortgagee of an extent of 51 A.3R.20P.which had been mortgaged to him by the 2nd defendant. The plaintiff inthis action claims to be the owner of a divided extent of 1 A.OR.25P. outof the said mortgaged property and seeks to have the said extent excludedfrom the sale in execution of the decree in the aforesaid mortgage action.
+sc
+ABN-AMRO Bank N.V. v. Conmix (Pvt) Ltd. and Others
+(Fernando, J.)
+17
+The plaintiff also prayed for an interim injunction/enjoining order, to staythe sale.
+On 20.02.92 the Court issued an enjoining order and notice of theapplication for interim injunction together with summons returnable on
+The record shows that on 05.03.92 the registered Attorney forthe 1st defendant filed proxy and obtained a date for objections, whichwas 11.03.92. The enjoining order was extended upto that date. No an-swer was filed on 05.03.92. Nor is there any record of an application foran extension of the date for filing answer, made on that day.
+On 11.03.92 objections of the 1 st Defendant were filed; and of consent,the enjoining order which had been issued in respect of the entire land wasrestricted to 1 A.OR.25P., which was the extent claimed by the plaintiff. Atthat stage, an application was made on behalf of the plaintiff, to fix thecase for ex parte trial on the ground that the 1 st defendant had failed to fileanswer or to obtain or apply for a date to file answer. This was objected toby Counsel for the 1 st defendant; whereupon, the Court directed the par-ties to file written submissions on 25.03.92. According to the record, noapplication for further time to file the 1st defendant&apos;s answer had beenmade, even on 11.03.92.
+On 25.03.92 written submissions were filed. Thelst Defendant&apos;s posi-tion was that on 05.03.92 the registered Attornery for the 1st defendantmoved for a date for objections and answer, even though there is no recordof the fact that he asked for a date for answer. Secondly, no applicationhad been on 05.03.92 on behalf of the plaintiff to fix the case for ex partetrial. Hence, the Court should permit the 1 st defendant to file answer. Onbehalf of the plaintiff, it was contended that in view of the 1 st defendant&apos;sdafault on 05.03.92, the plaintiff was entitled to move the Court to proceedto ex parte trial even on a later day. Rajapakse v. Senanayake.w
+By his order dated 22.07.92, the District Judge fixed the case for exparte trial. He also granted an interim injunciton on the same terms aswere contained in the enjoining order which was in force. The 1 st defend-ant&apos;s application to the Court of Appeal to set aside that order was dis-missed on the ground that in view of his default on 05.03.92, the DistrictCourt had no option but to fix the case for ex parte trial, in view of theimperative provisions of section.84 of the Civil Procedure Code.
+18
+Sri Lanka Law Reports
+[1996]1 Sri LR.
+Section 84 of the Code reads as follows :-
+"If the defendant fails to file his answer on or before the date fixed forthe filing of the answer, or on or before the day fixed for the subsequentfiling of the answer or having filed his answer, if he fails to appear on theday fixed for the subsequent filing of answer, or on the day fixed for thehearing of the action, and if the Court is satisfied that the defendant hasbeen duly served with summons, or has received due notice of the dayfixed for the hearing of the action , as the case may be, and if, on theoccasion of such default of the defendant, the plaintiff appears, then theCourt shall proceed to hear the case ex parte forthwith, or on such otherday as the Court may fix”.
+In terms of the provisions of section 91 A(1) of the Code, the defendantmay by motion obtain an extension of time to file the answer. The questionfor decision is whether in the circumstances of this case, the DistrictJudge was empowered to fix the case for ex parte trial on a day subse-quent to the summons returnable date.
+Section 84 of the Code is different from the corresponding section 85of the former Code which did not require the Court to proceed to ex partetrial forthwith, which is the present requirement. "Forthwith" Harman L.J.has said "is not a precise time and provided no harm is done, &apos;forthwith&apos;
+means any reasonable time thereafterIt may involve action
+within days; it may not involve action for years". Hillingdon LondonBorough Council v. Cutler®. See also Maxwell 12th Edt. p. 311. Hence,where the defendant is in default, the Court may proceed to hear thecase ex parte immediately or "on such other day as the Court may fix".The question is whether the Court is enjoined to fix "such other day” onthe summons returnable date itself. I am of the view that although suchday would ordinarily be fixed on the summons returnable date itself, thelaw does not require such procedure to be imperative; for there canarise situations in which it may not be possible for the Court to promptlyfix another day for the ex parte trial.
+I am also of the view that there can be a case in which, having regardto the totality of the facts and circumstances, the Court may permit adefendant to file the answer notwithstanding his failure to file it on thesummons returnable date e.g. where the default is inadvertent and sa-vours of a mere technicality.
+sc
+ABN-AMRO Bank N.V. v. Conmix (Pvt.) Ud. and Others
+(Fernando, J.)
+19
+Thus in Ameen v. Raji01 on the date for objections to the interim in-junction and answer namely, 16.02.94, defendants&apos; proxy was filedtogether with objections. Apart from paragraphs admitting or denyingthe several averments in the plaint and a statement of the facts uponwhich the defendants relied for their defence, there was a prayer in thestatement of objections for the dismissal of the action. This Courtobserved: "though in form it was not an answer, in substance it was". Noanswer as such was filed; nor did the record disclose the making of anapplication on 16.02.94 for time to file the answer. However, on 23.02.94,the answer was tendered but the Court rejected it and fixed the case forex parte trial, on the application of the plaintiff. The Court of Appeal affirmedthat order. This Court observed that in the particular facts and circum-stances of the case, at most there was an inadvertent omission on thepart of the Attorney-at-Law to move for time to file answer; on 16.02.94the Court had not fixed the case for ex parte trial; hence there was nostatutory bar to the Court accepting the answer on 23.02.94. The Courtheld that it was a proper matter for the intervention of the Court of Appealby way of revision. Accordingly, the Court set aside the order of the DistrictJudge and directed him to allow the defendants an opportunity to fileanswer.
+In Raji&apos;s case (which was decided by a Bench of which I myself was amember), the Court said "In terms of the section it was the duty of theCourt to have fixed the case for ex parte hearing on 16.02.94". This state-ment is obiter dicta; and after further consideration, I am now of the viewthat it is not an accurate statement of the law, though the decision itselfwas otherwise correct, on the facts and circumstances of that case.
+In Rajapakse v. Senanayake(4) {supra) notice of injunction together withthe summons were served on the defendant on 22.02.86. The summonsreturnable date was 26.02.86 on which date the defendant&apos;s proxy hadbeen filed and 26.03.86 obtained as the date to file objections. However,no answer had been filed nor a date for answer obtained. On 18.03.86,the plaintiff moved for ex parte trial. Further proceedings were held up astwo Judges declined to hear the case for personal reasons. In the mean-time, by 26.05.86 an answer which was insufficiently stamped had beentendered. A duly stamped answer was tendered only on 20.06.86. On25.08.86 the Attomey-at-Law for the plaintiff once again moved that thecase be fixed for ex parte trial, which was allowed. The Court of Appeal
+20
+Sri Lanka Law Reports
+[1996]1 Sri LR.
+dismissed an application to set aside the order of the District Judge, byway of revision. The Court held that the defendant was in default byfailing to file answer on the due date or to apply for an extension of timeto file answer under section 91A (1) of the Code, even after the originaldate appointed therefor had lapsed.
+In the instant case, Mr. Romesh de Silva P.C. for the 1st defendantsubmitted that the 1st defendant was not in default, in that in view of anaffidavit filed by his registered Attornery-at-Law stating that he had ap-plied for a date for objections and answer on 05.03.92, no intentionaldefault has been made out. But, section 84 does not require proof ofintentional default as a condition precedent to an ex parte trial. The failureto file the answer on that day or to apply for an extension of time to filethe answer, was perse "default" within the meaning of section 84. In anyevent, even on the next date namely, 11.03.92, no answer was tendered;nor was any application made for a date for filing the answer, even whenthe plaintiff’s Attorney-at-Law moved to have the case fixed for ex partetrial. The defendant was, therefore, in continuous default. Hence theCourt of Appeal was right in refusing to interfere with the order of theDistrict Court, by way of revision.
+Mr. de Silva strenuously submitted that both the District Judge andthe Court of Appeal rested the decision on the alleged default of thedefendant on 05.03.92. As such, it would not be proper for this Court totake into account the defendant&apos;s conduct subsequent to that date. Icannot agree. The remedy sought being by way of revision, this Court iscompetent to consider the entirety of the defendant&apos;s conduct indetermining whether we may vary the decision of the Court of Appeal.The facts show that the defendant was in default on 05.03.92 and eventhereafter. There is thus no valid ground for setting aside the order for exparte trial.
+Mr. de Silva also submitted that on 05.03.92 the plaintiff was absentand unrepresented; hence no application for ex parte trial could havebeen made on a later date. I am of the view that in the particular factsand circumstances of this case such absence cannnot per se bar theright of the plaintiff to have moved the Court to proceed to ex parte trial,on a later day.
+Mr. de Silva argued that even if the order fixing the case for ex partetrial is valid, yet the granting of an interim injunction without considering
+sc
+ABN-AMRO Bank N. V. v. Conmix (Pvt.) Ltd. and Others
+(Fernando, J.)
+21
+the objections already filed by the 1st respondent, was bad. I am of theview that in the context of the order for an ex parte trial, there is no legaldefect in the order issuing the interim injunction, for maintaining the statusquo, pending the final decision of the case.
+For the foregoing reasons, I dismiss the appeal and affirm the judgmentof the Court of Appeal. The 1 st defendant-appellant is directed to pay theplaintiff-respondent costs in a sum of Rs. 5000/= (Rupees Five Thou-sand).
+WADUGODAPITIYA, J.
+I have had the advantage of reading, in draft, the judgments of my broth-ers Fernando, J. and Kulatunga, J. and I am in respectful agreement wtihtheir conclusions and orders.
+WIJETUNGA, J.
+I have had the advantage of reading, in draft, the judgments of my broth-ers&apos; Fernando, J. and Kulatunga, J. and I am in respectful agreement wtihtheir conclusions and orders.
+P.R.P. PERARA, J.
+I have read, in draft, the judgments of my brothers Fernando, J. andKulatunga, J.. I agree that this appeal should be dismissed with costs in asum of Rs.5000/-.
+I also agree that the opinion expressed in Ameen v. Raji that the Courtmust fix the ex parte hearing on the summons returnable date itself is notan accurate statement of the law. But, that decision (which was otherwisecorrect) turned on the particular facts and circumstances of that case.The decision in the present case rests on the ground of the continueddefault of the appellant, which would disentitle him to revisionary relief.Hence, the necessity for overruling Raji&apos;s case does not strictly arise,particularly for the reason that learned President&apos;s Counsel for the respond-ent himself said Raji&apos;s case "can be distinguished".
+Appeal dismissed.

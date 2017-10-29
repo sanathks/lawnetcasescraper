@@ -1,0 +1,45 @@
+﻿
+( ire )1919.
+[Full Bench.]
+Present : De Sampayo J., Schneider A.J., and Loos A.J.
+JAYAWARDENA v. RAHAIMAN LEBBE.
+114—G, R. Gampola, 3,539.
+Promissory note ■ payable on demand — Payment — Negotiation afterpayment—Bills of Exchange Act, ss. 36 (1) and 69 (1).
+When a promissory, note payable on demand is paid by the maker,it ceases to be a note. ’ Negotiation after the date of payment doesnot give any right to the endorsee to sue on it.
+rjiHE facts are set out in the judgment.
+Bartholomeusz, for plaintiff, appellant.—If the law be as laid downin Tenna v. Balaya,1 it would .seriously affect the negotiability ofpromissory notes. Then payment unknown to the endorsee wouldbe a defence. Tt is the duty of the holder to deliver the bill whenhe is paid (section 52 (4), Bills of Exchange .Act, 1882). Whenthe maker does not get it back, he must suffer the consequences.
+Section 81 (1) enacts that a paid bill is not negotiable. But if athird party takes a bill not overdue without any notice of any defectin the title, he is a holder in due course (section 29), and acquiresall rights under section 88.
+[De Sampayo J.—The bill will no longer be a bill, but mere wastepaper. (Chalmers’ Bills of Exchange Act, note to section 36 (I), 6thedition, p. 120.)]
+That passage is not a part of the Act. A holder in due course isnot affected by any defect of title or defences available to priorparties (section 38 (2)). Want of title is only a defect of title:
+i (1908) 12 N. L. B. 27.
+( 179 )
+Tn Marikar v. GaroUs 1 Perera J. differs from the decision J)iTenna v. Balaya * In Tenna v. Balaya 2 the rights of a holder indue course were not considered.
+Counsel also cited Silva v. Wijesekera3 and {1873) L. B. 8
+Q.B. 380.
+1916.
+Jayawardendv. RahctimanLebbt
+A St. V. Jayawardene, for defendant, respondent.—The note wasoverdue, because it had been paid at the time of the endorsement.After payment a note is dead for all purposes, A note payable ondemand is always mature, and if paid at maturity, it ceases to benegotiable. It is not a defect, but renders the note a nullity (section86 (1)). (9 Barnwell & Greaswell 130, 1 Parry & Davidson 207*) Pay-ment before maturity would not be payment in due course (3 Camp,93). In Marikar v. GaroUs 1 the question of payment was not con-sidered. In this case the endorsee can proceed against Mr. Phillips.
+Counsel also cited 7 M. & W. 174, (1854) L. J. 20 Q. B. 261, and2 Hals. 549.
+Cur. adv. wit.
+October 15, 1919. De Sampayo J.—
+This case has been referred by my learned colleagues to a Benchof three Judges for the decision of a point of law. This is anaction on a promissory note for Us. 200, payable on demand madeby the defendant on March 18, 1916, in favour of one J. D. Phillips,and endorsed by the latter to the plaintiff. It is agreed that thedefendant paid or satisfied the amount of the note on August 24,1916, while it was still held by Phillips. But it appears thatPhillips, who retained the note fraudulently, endorsed it to theplaintiff on September 18, 1917. The question for decision iswhether, on the footing that the plaintiff had no notice of theprevious payment and gave consideration for the endorsement tohim, the defendant is liable to the plaintiff on the note.
+Section 36 (1) of the Bills of Exchange Act declares that “ wherea bill is negotiable in its origin, it continues to be negotiable untilit has been restrictively endorsed or discharged by payment. ”Payment for this purpose means payment by the acceptor or makerto the holder at or after maturity. Section 59 (1) of the Bills ofExchange Act. In the case of a promissory note payable on demand,the maker is at liberty to pay it at any time after its date. Thedefendant duly paid and discharged the note in suit while it washeld by Phillips. Could Phillips thereafter validly negotiate thenote so as to give the plaintiff a right of action against the defendant?In Tenna v. Balaya 2 it was held by Wendt J., in view of section 36 (i)of the Bills of Exchange Act, that a promissory note payable on de-mand ceased to be negotiable after payment by the maker, and thatan endorsee who took it after such payment had no right to sue. on it.
+{1913) 17 N. L. B. 89.* (1998) 11 N. L. R. 27.
+>10.W.B.42…
+(. 180 )
+1919
+PjiSamfayo
+Jagaieardena0. BahaimanLObe
+I t.hinlf that this is a right decision, and that the subsequent caseof Marikar v. Carolis 1 is not really in conflict with it. In thelatter oase the Court was concerned with the question as to whena promissory note- payable on demand can be regarded as havingbecome overdue so as to aflect an endorse with delects ol title,of which he had no notice; and with regard to Tenna v. Balaya(supra), Pereira J., who delivered the judgment of the Court,remarked:“ If that decision is to be deemed as implying that a
+promissory note payable on demand is always to be regarded as anoverdue note so far as the matter of negotiation is concerned, I amnot, as at present advised, inclined to endorse it. ” He himself .did not think that Tenna v. Balaya involved that proposition, forhe added: " I am not sure, that the learned Judge who decided thatcase intended to go so far. ” This remark is quite just, for Tennav. Balaya was not made to turn on any question of the note being“ overdue.” Section 86 (2) of i!he Act, to which reference was made,safeguards an endorsee of a promissory note payable on demandagainst defects of title, though he takes it after a reasonable timefor presenting it for payment has elapsed since its issue. Theexpression “ defects of title ” is an equivalent of “ equities attachingto the bill.” But payment of the bill as distinguished from a partpayment is not a mere equity. Section 29 (2) enumerates thedefects of title, and Chalmers’ Bills of Exchange (6th edition) 119,while Baying that the. list there given may not be exhaustive, statesthat a person whose title is defective must be distinguished froma person who has no title at all, and who can give none. As regardsthe effect of payment by the maker or acceptor, Wendt J. in Tennav Balaya cited &apos; the following passage from Chalmers 120:“ Payment and other discharges are sometimes spoken of as equitiesattaching to a bill, but this seems incorrect; they are rather groundsof nullity. That which purports to be a bill is no longer such; itis a mere waste paper.” Again, Chalmers, at page 202, in a noteon section 59 and following sections of the Act on the subject ofdischarges, says: “ A bill is discharged when all rights of actionthereon are extinguished. It then ceases to be negotiable, and ifit subsequently comes into the hands of a holder in due course,he acquires, no right of action on the instrument.” In the presentinstance, when the defendant paid Phillips, all rights of action onthe note were extinguished and the note was~ discharged, and evenif the plaintiff had no notice of the fact and was a holder in dueoourse he acquired no right of action on the note against thedefendant. See also Byles on Bills 298 (15th edition), where it isstated: “ The payment of a note payable on.demand will be a defence,even against an endorsee for value without notice; for the Statutewhich imperatively prohibits the re-issuing of such a note dispenseswith notice.” In Smith’s Mercantile Law, vol. 1, p. 254 (10th 1
+1 (1913) 17 N. L. It. 89.
+’( 181 )
+edition), the following passage occurs: “ Though a bill or note isgenerally negotiable after it has become due, yet it is not so after ithas once been paid at maturity, if such negotiation would have theeffect of charging persons who otherwise would be discharged.” Thesecomments of the text writers are not only such as necessarily flowfrom the provisions of the Statute itself, but are founded on judicialauthority. In Burbridge v. Manners 1 Lord Ellenborough said thata bill paid at maturity could not be re-issued, and no action couldafterwards be maintained upon it by a subsequent endorsee. Seealso Bartrum v. Caddy;* Freakley v. Fox;* Burchfield v. Moore.*
+I thinlr it must be held, as a matter of law,&apos; that the plaintiffcannot maintain this action against the defendant on the promissorynote which had, previous to the endorsement to him by the payee,been satisfied and discharged by the defendant. An argument as tohardship was addressed to us, but whatever the consequences maybe, the law must prevail. It is only necessary to add on this pointthat there is nothing to prevent the plaintiff from enforcing hisremedy against.his immediate endorser Phillips.
+In my opinion the judgment under appeal is right, and the appealshould be dismissed, with costs.
+1918.
+Db SampayoJ.
+Jayawardenav. BahaimanLebbe
+ScHNsmEB A. J.—
+There is nothing I can usefully add to my brother De Sampayo&apos;sjudgment, with which I entirely agree. The language of sections36 (1) and 59 (1) of the Bills of Exchange Act leaves no room forany other construction than that the payment of a bill or promissorynote in due course discharges it, so that it is no more a mere piece ofwaste paper after such payment.
+Loos A.J.—

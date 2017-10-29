@@ -1,0 +1,48 @@
+﻿
+( 349 )
+Present : Bertram C.J.
+THE KING v. SILVA:149—D. G. (Crirn.) Galle, 14,136.
+Cheating—Borrowingmoney by uncertified insolvent without disclosing
+the fact of his insolvency—Penal Code, s. 898.
+The accused borrowed a sum of money from , a money lenderwithout disclosing to him that he was at the time an uncertifiedinsolvent. The certificate had not at that time been refused, butwas refused subsequently to the loan.
+Held, that the accused was not, in the circumstances of this case, &apos;guilty of cheating.
+rji HE facts appear from the judgment.
+Bawa, K.G., and J. S. Jayawardene, for accused, appellant.
+Obeyesehere, G.G., for the Crown.
+Gut. adv. vult.
+August 29, 1918. Bertram C.J.—
+In this case the appellant has been convicted of cheating, on theground that he borrowed Rs. 500 from the prosecutor, a Chetty,without disclosing to him that, at the time he was an uncertificatedinsolvent. The certificate had not at the time been refused, butwas refused subsequently to the loan.
+It was contended before the District Judge that the facts did notdisclose the offence of cheating, on the ground that there was nolegal duty upon the borrower to disclose the fact that he was aninsolvent. The District Judge in his judgment said:“ I agree
+that this cannot be the case/ The Legislature has not codified 3ucha duty, because I presume it never contemplated that it could beregarded as anything else than fraudulent. Dishonesty is wrongfulgain at the expense of, or loss to, another; and this covers borrowingmoney without intention to repay, and concealing from the otherparty the impossibility of his recovery. It is not a case of a moneylender taking risk. And, as prosecuting counsel has pointed out,there is no authority for the contention that concealment of factsdoes not amount" to deception unless there is a duty to disclose.Suppressio veri, if misleading, is as dishonest a misrepresentationas a false statement. ”
+What we have to consider, however, is not the moral conduct ofthe accused, but the question whether he has committed an Offencewithin the meaning of section 398 of the Penal Code, under which
+1948.
+( 350 )
+1918.
+Bsbtbam.
+O.J.
+The King&apos; v. Silva
+any person who, “ by deceiving any person, fraudulently or dis-honestly induces the person so deceived to deliver any property”is declared to be guilty of cheating. The question arises under theexplanation appended to the section, which declares that 11 a dis-honest concealment of facts is a deception within the meaning ofthis section, ” and illustration (z), which as an illustration of sucha “ dishonest concealment ” cites the case of a man who sells ormortgages to another man an estate which.he has already conveyedto a third person without disclosing the fact of such previousconveyance.
+I am not prepared to assent to the proposition that any personwho in the course of a transaction with another fails to disclose anycircumstance which might, if known, have an effect on the conductof the other party to the transaction is guilty of ’cheating. Such arule would be putting a strained and unnatural meaning upon theword “ deceives, " and cannot, .in my opinion, be intended by theterms of the “ explanation. ” Nor do I think that the question,whether such a person “ deceives4* the other within the meaningof section 398 necessarily depends upon the question whether he hasa “ legal duty *’ to disclose the circumstance in question. This istaken as the test of the matter in the Indian case of The Emperorv. Bi8han Das,1 where the Court said:“ I have no hesitation in
+holding that the dishonest concealment of facts referred to in theexplanation to section 415 is a dishonest concealment of facts whichit is the duty of the person concealing them to disclose to the personwith whom he is dealing. ** It appears from the cpntext that by" duty ** the learned Judge there means “ legal duty, ” and not" moral duty. ”
+It is no doubt clear from the illustration (z) that the word “ con-cealment ** covers a mere non-disclosure, but to bring such a non-disclosure within the meaning of the section,&apos; the concealment mustbe a dishonest concealment, that is to say, it must be made with theintention of causing wrongful gain to one person or wrongful loss toanother; There are certain transactions in which the law casts a■ “ legal duty ** to discuss any material fact upon the person towhom it is known. These are transactions in which, either becauseof the relationship between the parties, or because of the subject-matter of the transaction, the law insists on uberrima fides; and ifthis uberrima fides is not displayed, the Court will set aside thetransaction. In this way the law indicates that any gain acquiredby the person not making the necessary disclosure- is a wrongfulgain, and it may very well be that a person who induces another- person by a non-disclosure of some material fact to enter into sucha transaction is guilty of cheating. It is not necessary to decidethe point here, because the case under consideration does not belong
+1 (1905) I. L. R. 27 All 561.
+( 351 )
+to this class of oases. The law does not require uberrima >fides asbetween- a person borrowing money and a person lending it.
+I question very much whether this was the class of cases whichthe legislator had in mind, and certainly he gives no illustrationdrawn from this class. In my opinion the cases he primarily hadin mind, when he said that a “ dishonest concealment of facts is adeception within the meaning of this section, ” were cases in whichthe concealment of facts amounted in effect to a false representation.Thus, where, as illustration (t), a man sells an estate to anotherwithout disclosing the fact that he has already sold it to somebodyelse, the offer of the estate for sale is in effect equivalent to arepresentation that he has it for sale. Similiarly, if a man goes intoa restaurant and orders a dinner, or takes his place in a tram car orstage coach, and is given the dinner ior is conveyed part of hisjourney, his conduct is in effect a representation that he has withhim money to pay the bill or pay his fare, and if he has not moneywith him and knows it, he may be guilty of cheating. But it cannotbe said in this case that when the borrower applied for the loan, hisapplication was in effect a representation of anything except perhapsa representation of an intention to repay the loan in due course.There is nothing to show that the appellant did not so intend;He may well have hoped to obtain his certificate, or, even if hedid not obtain his certificate, to get the amount made good by hisrelations.
+The case is in effect covered by English authorities. In ex parteWhittaker, in re Shackleton,1 the facts were that a person who hadcommitted an act of bankruptcy, and against whom a bankruptcypetition had been presented, bought wool at an auction. He. wassubsequently adjudged a bankrupt, and, as the title of the trusteein bankruptcy related back to the act of bankruptcy, the wool vestedin the trustee, the vendor, who was unaware of the purchaser’sembarrassed circumstances, having allowed him to take away thewool without payment. The transaction was held not to befraudulent. Lord Justice James said: “ A man buying is notbound to tell all his affairs to those with whom he deals, though hemust not say anything which amounts to a misrepresentation.I cannot say that Shackleton bought these goods without anyintention of paying for them.” Lord Justice Mellish said: ‘‘Weneed not go into the question whether mere silence may not in somecases amount to a misrepresentation. It would be outrageous tohold that Shackleton, when he purchased, was bound to make anystatement to the vendor as to his pecuniary circumstances, so thereis nothing to affect the validity of the contract. It is true, indeed,that a party must not make any misrepresentation, express orimplied; and, as at present advised, I think that Shackleton whenhe went for the. goods must be taken to hafte made an implied
+IMS.
+Bertram
+CJ.
+The Kingv. Silva
+1 (1875) 10 Ch. Ap. 446.
+( 352 )
+1918.
+Bebtaam
+C.J.
+The KingV, Silva
+representation that he intended to pay lor them, and if it wereclearly made Out that at that tune he did not intend to pay lor them,I should consider that a case ol fraudulent misrepresentation wasshown,. But I do not think this sufficiently made out. ”
+Two cases were citec( on behalf of the Crown. One was anunreported case, in. which Schneider A.J. upheld the conviction in acase in which ohe accused treated for the sale of property withoutdisclosing the fact that the land was subject to an existing mortgage.The learned Judge said: “ It was clearly, therefore, the duty ofthe accused to have disclosed the existence of this mortgage tothe intending purchaser. He did not do so. Such concealmentamounts to a wilful misrepresentation. ” But in that case the factsshow that the deed contained a statement that the land was " freefrom encumbrance, " and that this was read out in the presence ofthe accused, and that the accused did not contradict it.
+In the other case, The King v. Lavena Maricar,1 a person obtainedmoney oh a mortgage of property, which at the date of the mortgagewas under seizure, without disclosing the fact that it. was underseizure, and was held guilty of cheating. In that case, however,the accused had expressly stated that there was no encumbrance onthe property, and a seizure under a writ was held to be fairly includedin the term “ encumbrance.
+For the reasons above explained, the appeal is allowed, and theaccused acquitted and discharged.
+Appeal allowed.
+1 (1907) JO N. L. R. 369.

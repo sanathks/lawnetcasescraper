@@ -1,0 +1,113 @@
+﻿
+264
+Sri Lanka Law Reports
+[2002] 1 Sri LR.
+VIRASINGHE
+v.VIRASINGHE AND OTHERS
+SUPREME COURTS. N. SILVA, CJ.,
+BANDARANAYAKE, J. ANDYAPA, J.
+SC APPEAL NO. 47/2001CA NO. 707/93 (F)
+DC COLOMBO NO. 14447/P15 OCTOBER, 2001
+Partition – Partition Law, No. 27 of 1977 – Monthly tenancy – Whether it comeswithin the scope of a partition action – At what stage may such claim be dealtwith – Sections 5, 48 (1) and 52 of the Partition Law – Section 14 (1) of theRent Act, No. 7 of 1972.
+The plaintiff-appellant (the plaintiff) filed action for partition of a land which includedpremises No. 21/4, Bullers Lane, Colombo 7. The 4th defendant-respondent (the4th defendant) claimed that he was a lessee of the premises upon an indentureof lease which had been notarially attested. At the trial of the action the 4thdefendant put the lease in issue (issue No. 10) and further claimed that the RentAct applies, that the plaintiff was estopped from denying tenancy and that he wasa tenant of the co-owners of the premises (issues Nos. 11, 12 and 16). The 4thdefendant also claimed that he was entitled to compensation for useful andnecessary improvements which he had effected (issue No. 13).
+Held:
+In view of the provision of section 5 (a) read with section 48 (1), the claim ofa monthly tenant is not within the scope of a partition action. It is not permissibleto enter a finding, in a judgment, interlocutory decree of final decree, in a partitionaction with regard to any claim of a monthly tenant in respect of the land soughtto be partitioned. Such question should be considered, if at all, at the stage ofexecution in terms of section 52 of the Law.
+sc
+Virasinghe v. Virasinghe and Others
+(S. N. Silva, CJ.)
+265
+Per S. N. Silva, CJ.
+‘in this instance the claims of the 4th defendant on the Indenture of Leaseand compensation for improvements, have been validly brought within thepartition action. But, the 4th defendant should not have been permitted to addanother string to his bow by raising issues based on a monthly tenancy, beinga matter in respect of which the Court could not enter a decree having finality.’
+Cases referred to :
+Pens v. Perera – 1 NLR 362 at 364.
+Bernard v. Fernando – 16 NLR 438.
+Seedin v. Thedias – 53 NLR 63.
+APPEAL from the judgment of the Court of Appeal.
+Ikram Mohamed, PC with Harsha Soza and A. M. Faaiz for plaintiff-appellant.
+Amarasiri Panditharatne for 4th defendant-respondent.
+Cur. adv. vult.
+March 22, 2002SARATH N. SILVA, CJ.
+The plaintiff instituted this action on 14. 08. 1985, in terms of partition 1Law, No. 21 of 1977, for the sale of the land described in the 4thschedule to the plaint, subsequently depicted as premises bearingNo. 21/4, Bullers Lane, Colombo 7, in the preliminary survey planNo. 3903 dated 24. 10. 1986, in extent 18 perches, which belongsin common to the 1st and 2nd defendants and himself. The plaintiffhas sought a sale since a substantial house located in the premisescovers almost the entirety of the land and a partition thereof is notpossible.
+The 1st and 2nd defendants and the plaintiff are brothers. They 10together with another brother purchased the land in 1972 in equalshares. In 1981 the plaintiff purchased the share of the brother who
+266
+Sri Lanka Law Reports
+[2002] 1 Sri LR.
+is not a party to the action and thereby became entitled to 1/2 shareof the land. The 1st and 2nd defendants are entitled to 1/4 shareeach. Although, the proceedings in the partition action have gone onfor more than 16 years, ironically there was no dispute as to thecorpus, nor devolution of title according to the pedigree filed by theplaintiff and the respective shares of the parties.
+Two lines of contest emerged when issues were formulated andrecorded by Court, at the commencement of the trial in June, 1990. 20
+These are issues 5-9 raised by the 3rd defendant (Bank of Ceylon)on the basis of a mortgage executed in favour of the Bank in respectof the corpus. The other, arising from the issues raised by the 4thdefendant who claimed –
+that he was a lessee of the premises upon Indenture of Leasebearing No. 74 attested by S. Thurairajah, NP. (issue No. 10).
+that, the Rent Act of 1972 applies in respect of the premises;
+the plaintiff is estopped in law from denying tenancy and thathe is a tenant of the co-owners of the premises (issuesNos. 10, 11, 12 and 16).30
+that he has effected useful and necessary improvements to thepremises and is entitled to compensation (issue No. 13).
+Since there was no contest as to the devolution of title and theshares, the trial related to the aforesaid lines of contest.
+At the conclusion of the trial, it was held that no money was dueto the Bank on the mortgage. The Bank (3rd defendant) did not appealfrom these findings and dropped out of the case. As regards theIndenture of Lease relied on by the 4th defendant, it was held that
+sc
+Virasinghe v. Virasinghe and Others
+(S. N. Silva, CJ.)
+267
+the lease was executed after the lis pendens was registered and assuch was void in terms of section 66 (2) of the Partition Law. This «ois undoubtedly so, and the 4th defendant has not appealed fromthese findings. As regards the claim for compensation, the Court hasheld that the documents produced as to the expenditure have notbeen proved and the 4th defendant failed to establish that he gotthe consent of the plaintiff and the 1st and 2nd defendants to effectany improvements. Therefore, these issues were also answered againstthe 4th defendant and he has not appealed from the findings.
+The issues as to tenancy have been answered in favour of the4th defendant and it was held that the Rent Act applies inrespect of the premises and that he is the tenant of the co-owners so(issues No. 10, 11, 12 and 16). The plaintiff appealed from the saidfindings to the Court of Appeal. The appeal was dismissed by theCourt of Appeal.
+This Court granted leave to appeal on questions raised in thepetition of appeal as to the findings on tenancy; alternatively on thequestion whether the matter of a monthly tenancy can come withinthe scope of a trial in a partition action and whether such questionshould be considered, if at all, at the stage of execution in terms ofsection 52 of the Partition Law.
+I would deal with the alternative question first since, if the matter 60of a monthly tenancy cannot come within the scope of a partitionaction and should be properly dealt with, if at all, at the stage ofexecution, we do not have to examine the merits of the findings ofthe District Court in regard to issues relevant to tenancy..
+As the question involves die scope of a trial and the procedurein a partition action, it has to be dealt with on the basis of a conspectusof the applicable law. The history of this type of action and its evolution
+268
+Sri Lanka Law Reports
+[2002] 1 Sri L.R.
+which can be described as unique to this country, can be tracedthrough the plethora of judgments on the subject, over the years.
+Common ownership of property may arise from inheritance or from 70other means of acquisition of property. As pointed out by Bonser, CJ.,in one of the early judgments in Peris v. Perera,m the common lawof the Island differing from the English common law set its face againstco-ownership and provided for two actions for division, that of, familiaeerciscundae and communi dividundo. The former having applicationto the case of co-heirs and the latter to the case of co-owners whohave become so otherwise than by inheritance. These two commonlaw actions were replaced by the statutory action provided for inOrdinance, No. 21 of 1844, which gave a right to a co-owner to institutean action to compel the partition of co-owned property or, to compel 80sale where partition would be injurious or impossible. From a socio-legal perspective it is interesting to note that the recital to Ordinance,
+No. 21 of 1844 stated that –
+"the undivided possession of landed property is productive of
+very injurious consequences to inhabitants of the colony . . .".
+It is a matter of common knowledge even one and half centurieslater the situation remains the same with many festering disputesbetween persons that stem from common ownership of property. Bethat as it may, the point I note, is that from its inception the actionhas been for the severance of common ownership of immovable soproperty.
+The formal procedure in a partition action with the first stage ofan interlocutory decree deciding on the respective rights and shares,followed by a scheme of partition and a final decree declaring ownershipof divided lots, which is preserved in the currently applicable PartitionLaw, No. 21 of 1977, (as amended by Acts 5 of 1981, 6 of 1987,
+sc
+Virasinghe v. Virasinghe and Others
+(S. N. Silva, CJ.)
+269
+32 of 1987 and 17 of 1997); was introduced by Ordinance, No. 10of 1863.
+The characteristic feature of a partition action and its consequences
+(2)
+as noted by Sampayo, AJ. in Bernard v. Fernando, and by Rose, tooCJ. in Seedin v. Thedias is that – "Partition decrees are conclusiveby their own inherent virtue, and do not depend for their final validityupon anything which the parties may or may not afterwards do. Theyare not, like other decrees affecting land, merely declaratory of theexisting rights of parties inter se. They create a new title in the partiesabsolutely good against all other persons whosoever".
+Thus, a partition action transcends the characteristic of an interpartes action with a decree binding only on the parties and theirsuccessors in interest and, acquires the characteristic of an actionin rem resulting in title good against world.110
+The significance of a partition action and its proceedings stemsfrom the finality of the decrees that are entered in the course of suchan action. They are, the Interlocutory decree entered in terms ofsection 26 of the Partition Law, which decides on the rights in respectof land and the shares and which may include an order for sale ofthe land in the whole or in lots and the final decree entered in termsof section 36, which confirms the scheme of partition of the corpusinto specific lots to which the respective parties are entitled to.
+The finality of these decrees is stated in section 48 (1) and theportion relevant to the matter at issue in this appeal provides that 120these decrees –
+"shall … be good and sufficient evidence of the title of anyperson as to any right, share or interest awarded therein to himand be final and conclusive for all purposes . . .“.
+270
+Sri Lanka Law Reports
+[.20021 1 Sri L.R.
+It is further provided that –
+"the right share or interest awarded by any such decree shallbe free from all encumbrances whatsoever other than thosespecified in that decree."
+The encumbrances that may come within the purview of a decreeare defined in the subsection to mean –
+. "any mortgage, lease, usufruct, servitude, life interest, trust, or 130any interest whatsoever howsoever arising except a constructiveor charitable trust, a lease at will or for a period not exceedingone month."
+Thus, it is seen that the Partition Law makes the same distinctionas section 2 of the Prevention of Frauds Ordinance of 1840 asamended, in respect of the type of lease that would not be consideredas an encumbrance affecting land. In both laws, whilst a lease fora specified period exceeding one month is considered an encumbranceaffecting land and should be notarially executed, a lease at will orfor a period not exceeding one month (same language used in both 140laws) is not considered an encumbrance affecting land.
+Therefore, it is not permissible to enter a finding, in a judgment,interlocutory decree or final decree, in a partition action with regardto any claim of a monthly tenant in respect of the land that is soughtto be partitioned.
+A partition action as noted above is designed to terminateco-ownership of immovable property. The scope of the trial in suchan action is the examination of the title to, any right, share and interestin the land claimed by the respective parties. The scope could extendto the examination of encumbrances that pertain to such right, share 150
+sc
+Virasinghe v. Virasinghe and Others
+(S. N. Silva, CJ.j
+271
+or interest. The decree has the effect of wiping out encumbrancesas are not specified therein. It is for this reason that persons whohave any interest on the basis of encumbrances that pertain to titleshould be disclosed as necessary parties in terms of section 5 (a).Significantly, a person having a claim in respect of a lease at willor for a period not exceeding one month, is not necessary party tothe action.
+The provisions of section 5 should be construed in the light ofthe definition of "encumbrances" as contained in section 48 (1) andthe reference to a "lease" in section 5 (a) should be limited to a lease 160for a specified period exceeding one month which has to be notariallyexecuted in terms of the Prevention of Frauds Ordinance.
+Section 14 (1) of the Rent Act, No. 7 of 1972, also postulatesthat rights of a tenant as provided for by the Act are not affectedby a decree in a partition action.
+The clearly structured procedure of a partition action and thesanctity attaching to decrees that are entered in such an action,require that its scope should be restricted to the matters in respectof which under the law the decrees will have finality. A Court shoulddesist from embarking on a trial as to claims in respect of which it170is not empowered to enter a decree having a finality.
+In this instance the claims of the 4th defendant on the Indentureof Lease and compensation for improvements, have been validlybrought within the partition action. But, the 4th defendant should nothave been permitted to add another string to his bow by raisingissues based on a monthly tenancy, being a matter in respect of whichthe Court could not enter a decree having finality.
+The law contains adequate provisions to safeguard the interestsof a monthly tenant and to protect him from unlawful eviction at thestage of execution.180
+272
+Sri Lanka Law Reports
+[20021 1 Sri L.R.
+Sections 52 (2) (a) and (b) of the Partition Law provides specifically ia>as follows:
+2 (a) Where the applicant for delivery of possession seeks toevict any person in occupation of a land or a house standingon the land as tenant for a period not exceeding one month whois liable to be evicted by the applicant, such application shall bemade by petition to which such person in occupation shall be maderespondent, setting out the material facts entitling the applicantto such order.
+After hearing the respondent, if the Court shall determinethat the respondent having entered into occupation prior to the date 200of such final decree or certificate of sale, is entitled to continuein occupation of the said house as tenant under the applicantas landlord, the Court shall dismiss the application, otherwise itshall grant the application and direct that an order for delivery ofpossession of the said house and land to the applicant do issue.
+Section 52 (2) (a) appears to contemplate a situation where theapplicant for an order for delivery of possession recognizes the personin occupation as a tenant but moves for eviction on the basis thathe is not entitled to continue in occupation of the house as a tenantunder the applicant as landlord. If, however, the applicant, on the 210premise that he does not recognize the person in occupation as atenant, moves for an order for the delivery of possession in termsof section 52 (1), any person in occupation who claims to be a tenantentitled to continue such occupation of the house as tenant underthe applicant as landlord, could resist the Fiscal and seek hearingfrom Court to establish his right in terms of section 52 (2) (b).
+This provision incorporates the rule of audi alteram partem beinga principle of natural justice and should be given effect to whenever
+sc
+Virasinghe v. Virasinghe and Others
+(S. N. Silva, CJ.)
+273
+invoked by a party entitled to such hearing, whether he is namedas a respondent or not in the application.220
+The foregoing analysis shows that the genuine claims of a tenantwho is entitled to continue in occupation in that capacity under theapplicant as landlord, are well safeguarded by the provisions ofsections 48 (1) and 52 (2) of the Partition Law read with section 14of the Rent Act.
+It would be inconsistent with the scheme of the Partition Act andthe provisions in the Rent Act to bring the claim of a monthly tenantwithin the scope of trial in a partition action.
+Accordingly, I allow the appeal and set aside the findings of theDistrict Court in respect of issues Nos. 10, 11, 12 and 16 on the 230basis that these issues should not have formed the subject-matterof the trial in the partition action.
+The judgment of the Court of Appeal is also set aside. The 4thdefendant-respondent will pay a sum of Rs. 15,000 as costs to theplaintiff-appellant and also bear the costs of contest in the DistrictCourt.
+BANDARANAYAKE, J. – I agree.YAPA, J. – I agree.
+Appeal allowed.

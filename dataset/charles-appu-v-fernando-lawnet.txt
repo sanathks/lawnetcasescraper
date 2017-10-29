@@ -1,0 +1,46 @@
+﻿
+( 28 )
+Present: Pereira J.
+CHARLES APPU v. FERNANDO.
+420—C. R. Colombo, 35,214.
+Promissory ruts—Note signed in blank given to A—Authority to fill upnote for Re. SO—Note fitted up in favour of B for higher amount—- Solder in due course—Negotiation.
+Where a simple signature on a blank stamped paper was deliveredby A to B, and the same was converted by B into a promissorynote in favour of C. held that it was competent to C to enforce thenote, as if the paper had been- filled np within a reasonable timeand strictly in accordance with the authority given. The word“ negotiation ’’ when need with reference to a bill of exchange orpromissory note includes the original operation of transferring thebill or note to the payee.
+In the case pnt above, if B was shown to have been guilty offraud, it would be incumbent on C to establish the fact by evidence- that he was a holder in due course.
+I
+N this case the plain tiff-respondent, claiming to be payee of apromissory note, sued thedefendant-appellant, asthe maker
+thereof, for the recovery of Rs. 150 principal and Rs. 84 interest at96 per cent, per annum.
+The defendant filed the following answer:—
+This defendant says that – he signed the printed form of the notesued upon and handed it to one M. D. Abraham, with whom the defendantdealt. The amount (Bs. 150), the name of the payee (B. P. CharlesAppn), the amount (rupees one hundred and fifty), the rate of interest(8 per cent.), and the names of witnesses to the note were not inserted inthesaid note. Thisdefendant saysthat neither the said M.D.Abraham
+nor the plaintiff had any authority to insert the said particulars in thesaidnote, and theinsertion thereof is a material alterationofthe said
+.note. The defendant authorized Abraham to fill in the note forBs. 30 only.
+Further answering, this defendant says that on January 22, 1913,he borrowed a sum of Bs. 30 from the said M. D. Abraham and agreed topayinterest thereonat the rate of60 per cent, per annum.Atthe, end
+of February, 1913, this defendantpaidthesaid M.’ D. Abraham asum
+of Bs. 25 in part payment of thesaidsumof Bs. 30, and there isnow
+due and owing from this defendant to the said. M. D. Abraham thebalance principal sum of Bs. 5andtheinterest, which this defendant
+has always been ready arid willing to pay to the said M. D. Abraham.
+This defendant denies thathehadany. dealings whateverwith
+the plaintiff.
+IMS.
+( 24 )
+1913.
+CharlesAppu v.Fernando
+The learned Commissioner of Bequests (P. E. Pieris, Esq.) heldthat the answer did not &apos;disclose a defence, and entered judgmentfor the plaintiff.
+The defendant appealed.
+A. St. V. Jayewatdene, for defendant, appellant.—The plaintiff isthe payee on the face of the note. He is not a holder in due course,as the note was not negotiated to him. See Bills of Exchange Act,section 29 (1).
+Balasingham (with him Bartholomeusz), for the plaintiff, re-spondent.—If Abraham had filled up the note in his favour andendorsed it to the plaintiff, the plaintiff would be a holder in duecourse. The-fact that Abraham filled up the note in favour of theplaintiff does not^ take away from plaintiff&apos;s rights on the note.Under section 20 of the Bills of Exchange Act, a person to whom ablank note is granted has prima facie authority to fill up the note forany sum the 6tamp would cover and in favour of any person whomhe pleases. A blank&apos;note i6 in the nature of a note payable to bearer,and may be negotiated without endorsement. Plaintiff is a holderin due course. Counsel cited Lloyd&apos;s Bank & Co. v. Cooke,1Pethaperumalpillai v. Sathaku,2 [His Lordship stopped counsel.]
+A. St. V. Jayewatdene, in reply.—The passage cited from Lloyd&apos;sBank & Co. v. Cooke 1 was only an obiter, dictum of Moulton L,J.(1902) 1 K. B. 361 is an express authority to the contrary. Thatjudgment was hot over-ruled by the Judges who decided Lloyd&apos;sBank & Co. v. Cooke.1
+Plaintiff has to prove that he is a holder in due course, if thedefendant proves that the negotiation of the note is affected withfraud. [Pereira J.—You cannot prove fraud in this case, as youhave not averred fraud or raised an issue on the point.] Althoughfraud is not expressly pleaded, it is the substance of the avermentsof the answer. Counsel cited Bills of Exchange Act, section 30 (2).
+Cur. adv. vult.
+December 21, 1913. Pereira J.—
+This is an action on a promissory note, and the question in thecase is whether the answer discloses a defence. It states that thedefendant signed a printed form of a note and handed it to oneM. D. Abraham; and that the amount, the payee&apos;s name, the rateof interest, and the names of witnesses have been inserted withoutthe authority of the defendant. There is no averment of fraud, oran averment that the plaintiff is not a holder in due course. Section20 of the Bills of Exchange Act. provides that where a simplesignature on a blank stamped paper is delivered, and, after com- ypletion, it i6 negotiated to a holder in due course, it shall be validand effectual for all purposes in hi6 hands, and he may enforce it
+1 {1907) 1 K. B. 794.
+* 2 Leader 117.
+( 26 )
+as if it had been filled up within a reasonable time*’ and strictly inaccordance with the authority given. Counsel for the appellant hasargued that it cannot be said that in the present instance the notehas been negotiated, and section 29, sub-section (1), has been cited;but the question here involved is 6et at rest by the decision in thecase of Lloyd&apos;s Bank & Co. v. Cooke.1 There Moulton L.J. observed :441 can find nothing in the language of section 29, sub-section (1),which throws any doubt on the view that 4 holder in due course *would include a payee who has given value in good faith, unless weare to construe the word 4 negotiated ’ as being merely equivalent to4 indorsed.’ But when the definition of 4 negotiation &apos; given by section31, sub-section (1), is looked at, it appears clear th&apos;at the Legislatureintended to make it apply also to the original operation of transferringthe bill to the payee. It lays down that 4 a bill is negotiated whenit is transferred from one person to another in such a manner as toconstitute the transferee the holder of the bill. * It carefully abstainsfrom prescribing that the transferor must be a 4 holder.’ .All thatis necessary to constitute 4 negotiation ’ of the bill is that it shouldhave been transferred from one person to another in such a manneras to constitute the transferee the 4 holder of the bill, ’ that is—if wereplace 4 holder ’ by its definition in the Act—4 the payee or indorseewho is in possession of the bill.’ A cheque, therefore, payable to aparticular person which is handed by the drawer to that person forvalue would be 4 negotiated ’ within the meaning of the Act. Theseconsiderations lead me to the conclusion that the Act did not intendto impair the position of the payee as contrasted with that of anindorsee, and that a payee who has given value in good faith isintended to come within its provisions as a 4 holder in due course &apos;just as much as an indorsee.” The above ruling makes it clear thatthe present plaintiff is a holder in due course of the promissory notesued upon. The appellant&apos;s counsel further argued that if M. D.Abraham was guilty of fraud, it was incumbent on the plaintiff toestablish the fact by evidence that he was a holder in due course.That would be fib under section 30 (2) of the Bills of Exchange Act,but there is no averment of fraud in the answer, nor do the issuesframed raise any question as to fraud. The appellant’s counsel hasfurther submitted that the defendant’s intention was to charge DonAbraham with fraud. It is just possible that that was so, and in viewof this possibility I shall extend to the defendant the indulgence ofan opportunity to amend his answer and plead the defences urgedin appeal.
+I set aside, pro formd, the judgment appealed from, and remit thecase to the Court below for further proceedings.
+The defendant will pay the plaintiff his costs in- this Court and allcosts up to date in the Court below.
+Sent back.
+1913
+Fbbkiba J.
+CharlesAppu v.Fernando
+1 (1907) 1 K. B. 794.
